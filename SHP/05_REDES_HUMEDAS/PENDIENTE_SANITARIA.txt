@@ -1,0 +1,1 @@
+DISPLANSAN.dwg llego truncado (102.3 MB en disco vs 104.1 MB internos). Reemplazar el archivo y reprocesar.
