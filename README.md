@@ -40,7 +40,8 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 
 | Capa | Elementos | Fuente |
 |---|---|---|
-| Red_Acueducto_Matriz_Tramos | 91 | PJ_BASE.dwg (red matriz 24" pipe jacking) |
+| Red_Acueducto_Matriz_Tramos | 140 | PJ_BASE.dwg (red matriz 24" pipe jacking, incl. capa PROYECCION, derivaciones y ventilación) |
+| PJ_Pozos_Trabajo | 35 | PJ_BASE.dwg (pozos de lanzamiento y salida, polígonos a escala) |
 | Red_Acueducto_Menor_Tramos | 1.992 | DISREDMENOR-1.dwg (red menor + domiciliarias, exist/proy) |
 | Red_Acueducto_Nodos | 25 | PJ_BASE.dwg (válvulas, ventosas, purgas, macromedidor, pozos PJ) |
 | Red_Pluvial_Tramos | 492 | XREF-DISPLANPLU.dwg (red nueva/existente/a retirar/colector) |
@@ -50,5 +51,6 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 
 ## Pendientes
 
-- **Sanitaria**: `DISPLANSAN.dwg` llegó truncado (102,3 MB en disco vs 104,1 MB referenciados internamente) — verificar sincronización de OneDrive o re-copiar el archivo y aviso para reprocesarlo.
+- **Sanitaria**: `DISPLANSAN.dwg` está dañado en origen (102,3 MB reales vs 104,1 MB referenciados internamente; se re-sincronizó y persiste). Abrirlo en AutoCAD (que repara al abrir) y hacer `SAVEAS`, o re-copiar desde la fuente. Con el archivo sano se integra igual que la pluvial.
+- Nota PJ: el DWG de pipe jacking trae la mayoría del detalle (plantas de pozos, despieces) dibujado en coordenadas locales cerca del origen (0,0), no georreferenciado; se extrajo todo lo que está en coordenadas MAGNA (trazado, derivaciones, ventilación, 35 pozos de trabajo).
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
