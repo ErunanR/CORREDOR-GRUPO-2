@@ -1,0 +1,14 @@
+; ============================================================
+; Script AutoCAD / Civil 3D - convertir los DXF a DWG
+; Uso:  abrir AutoCAD > comando SCRIPT > seleccionar este archivo
+; (ejecutar con los DXF en la misma carpeta)
+; ============================================================
+FILEDIA
+0
+_.DXFIN
+CS7_G2_SUPERPOSICION_COMPLETO.dxf
+_.SAVEAS
+2018
+CS7_G2_SUPERPOSICION_COMPLETO.dwg
+FILEDIA
+1

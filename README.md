@@ -8,9 +8,34 @@ Sistema de referencia: **MAGNA-SIRGAS / Plano Cartesiano Bogotá D.C. 2005** (un
 | Carpeta | Descripción |
 |---|---|
 | `SHP/` | Geodatos limpios en 5 grupos: `01_BASE`, `02_PAVIMENTOS`, `03_ESPACIO_PUBLICO`, `04_REDES_SECAS`, `05_REDES_HUMEDAS` |
-| `DWG/` | CAD regenerado desde los mismos datos. Abrir `CS7_G2_SUPERPOSICION_MAESTRO.dwg` (ensambla 5 XREF temáticos) |
+| `DWG/` | CAD regenerado desde los mismos datos, en **DXF R2010**. Abrir `CS7_G2_SUPERPOSICION_COMPLETO.dxf` (todo en un archivo, 42 capas organizadas) o los 5 temáticos por separado |
 | `VISOR/` | `CS7_G2_VISOR.html` — visor interactivo autónomo |
 | `docs/` | Copia del visor para GitHub Pages |
+
+## Formato CAD: DXF (y cómo pasarlo a DWG)
+
+Los archivos CAD se entregan en **DXF R2010**, no en DWG. Motivo: la única librería DWG disponible en este entorno (LibreDWG) tiene un escritor experimental que produjo archivos que AutoCAD no interpretaba — de ahí los planos "en blanco" o con una línea suelta de la versión anterior. El DXF es el formato de intercambio CAD estándar, sin pérdida y verificado entidad por entidad.
+
+**Para obtener el DWG** (10 segundos): abrir el `.dxf` en AutoCAD / Civil 3D → *Guardar como* → *Dibujo de AutoCAD (\*.dwg)*. También se incluye `CONVERTIR_A_DWG.scr` (comando `SCRIPT` en AutoCAD) para hacerlo automático.
+
+Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fuera del corredor, extents correctos (E 105.013–106.600 / N 111.320–118.425).
+
+| Archivo | Entidades |
+|---|---|
+| CS7_G2_SUPERPOSICION_COMPLETO.dxf | 39.167 (todo) |
+| CS7_G2_00_BASE.dxf | 23 |
+| CS7_G2_10_PAVIMENTOS.dxf | 471 |
+| CS7_G2_20_ESPACIO_PUBLICO.dxf | 8.157 |
+| CS7_G2_30_REDES_SECAS.dxf | 20.982 |
+| CS7_G2_40_REDES_HUMEDAS.dxf | 9.534 |
+
+Capas de códigos y rótulos (`45-COD-*`, `45-ROT-DUCTERIA`, `20-EP-PAISAJISMO`, `30-RED-VANTI-SINCLAS`) vienen **apagadas** por defecto: se encienden cuando se necesita el detalle.
+
+## Códigos de identificación
+
+Los pozos, cámaras y cajas no traían identificador en los DWG de origen. Se les asignó código secuencial sur→norte, visible en el visor (botón 🏷 Etiquetas) y en las capas `45-COD-*` del CAD:
+
+`PZ-###` pozos pluviales · `SUM-###` sumideros · `CJ-###` cajas Enel · `POS-###` postes · `CT-###` centros de transformación · `MOV-###` cámaras Movistar · `VAL/VEN/ACC-###` accesorios de acueducto. Las cámaras ETB conservan su nombre original del proyecto.
 
 ## Visor interactivo
 
