@@ -1,0 +1,20598 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1024
+  9
+$ACADMAINTVER
+ 70
+6
+  9
+$DWGCODEPAGE
+  3
+ANSI_1252
+  9
+$LASTSAVEDBY
+  1
+ezdxf
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$EXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$LIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$LIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$ORTHOMODE
+ 70
+0
+  9
+$REGENMODE
+ 70
+1
+  9
+$FILLMODE
+ 70
+1
+  9
+$QTEXTMODE
+ 70
+0
+  9
+$MIRRTEXT
+ 70
+1
+  9
+$LTSCALE
+ 40
+1.0
+  9
+$ATTMODE
+ 70
+1
+  9
+$TEXTSIZE
+ 40
+2.5
+  9
+$TRACEWID
+ 40
+1.0
+  9
+$TEXTSTYLE
+  7
+OpenSans
+  9
+$CLAYER
+  8
+0
+  9
+$CELTYPE
+  6
+ByLayer
+  9
+$CECOLOR
+ 62
+256
+  9
+$CELTSCALE
+ 40
+1.0
+  9
+$DISPSILH
+ 70
+0
+  9
+$DIMSCALE
+ 40
+1.0
+  9
+$DIMASZ
+ 40
+0.175
+  9
+$DIMEXO
+ 40
+0.125
+  9
+$DIMDLI
+ 40
+3.75
+  9
+$DIMRND
+ 40
+0.0
+  9
+$DIMDLE
+ 40
+0.0
+  9
+$DIMEXE
+ 40
+0.375
+  9
+$DIMTP
+ 40
+0.0
+  9
+$DIMTM
+ 40
+0.0
+  9
+$DIMTXT
+ 40
+0.25
+  9
+$DIMCEN
+ 40
+2.5
+  9
+$DIMTSZ
+ 40
+0.0
+  9
+$DIMTOL
+ 70
+0
+  9
+$DIMLIM
+ 70
+0
+  9
+$DIMTIH
+ 70
+0
+  9
+$DIMTOH
+ 70
+0
+  9
+$DIMSE1
+ 70
+0
+  9
+$DIMSE2
+ 70
+0
+  9
+$DIMTAD
+ 70
+1
+  9
+$DIMZIN
+ 70
+12
+  9
+$DIMBLK
+  1
+ARCHTICK
+  9
+$DIMASO
+ 70
+1
+  9
+$DIMSHO
+ 70
+1
+  9
+$DIMPOST
+  1
+
+  9
+$DIMAPOST
+  1
+
+  9
+$DIMALT
+ 70
+0
+  9
+$DIMALTD
+ 70
+3
+  9
+$DIMALTF
+ 40
+0.03937007874
+  9
+$DIMLFAC
+ 40
+100.0
+  9
+$DIMTOFL
+ 70
+1
+  9
+$DIMTVP
+ 40
+0.0
+  9
+$DIMTIX
+ 70
+0
+  9
+$DIMSOXD
+ 70
+0
+  9
+$DIMSAH
+ 70
+0
+  9
+$DIMBLK1
+  1
+
+  9
+$DIMBLK2
+  1
+
+  9
+$DIMSTYLE
+  2
+EZDXF
+  9
+$DIMCLRD
+ 70
+0
+  9
+$DIMCLRE
+ 70
+0
+  9
+$DIMCLRT
+ 70
+0
+  9
+$DIMTFAC
+ 40
+0.5
+  9
+$DIMGAP
+ 40
+0.1
+  9
+$DIMJUST
+ 70
+0
+  9
+$DIMSD1
+ 70
+0
+  9
+$DIMSD2
+ 70
+0
+  9
+$DIMTOLJ
+ 70
+0
+  9
+$DIMTZIN
+ 70
+8
+  9
+$DIMALTZ
+ 70
+0
+  9
+$DIMALTTZ
+ 70
+0
+  9
+$DIMUPT
+ 70
+1
+  9
+$DIMDEC
+ 70
+2
+  9
+$DIMTDEC
+ 70
+2
+  9
+$DIMALTU
+ 70
+2
+  9
+$DIMALTTD
+ 70
+3
+  9
+$DIMTXSTY
+  7
+OpenSansCondensed-Light
+  9
+$DIMAUNIT
+ 70
+0
+  9
+$DIMADEC
+ 70
+2
+  9
+$DIMALTRND
+ 40
+0.0
+  9
+$DIMAZIN
+ 70
+3
+  9
+$DIMDSEP
+ 70
+46
+  9
+$DIMATFIT
+ 70
+3
+  9
+$DIMFRAC
+ 70
+0
+  9
+$DIMLDRBLK
+  1
+
+  9
+$DIMLUNIT
+ 70
+2
+  9
+$DIMLWD
+ 70
+-2
+  9
+$DIMLWE
+ 70
+-2
+  9
+$DIMTMOVE
+ 70
+2
+  9
+$DIMFXL
+ 40
+1.0
+  9
+$DIMFXLON
+ 70
+0
+  9
+$DIMJOGANG
+ 40
+0.785398163397
+  9
+$DIMTFILL
+ 70
+0
+  9
+$DIMTFILLCLR
+ 70
+0
+  9
+$DIMARCSYM
+ 70
+0
+  9
+$DIMLTYPE
+  6
+
+  9
+$DIMLTEX1
+  6
+
+  9
+$DIMLTEX2
+  6
+
+  9
+$DIMTXTDIRECTION
+ 70
+0
+  9
+$LUNITS
+ 70
+2
+  9
+$LUPREC
+ 70
+4
+  9
+$SKETCHINC
+ 40
+1.0
+  9
+$FILLETRAD
+ 40
+10.0
+  9
+$AUNITS
+ 70
+0
+  9
+$AUPREC
+ 70
+2
+  9
+$MENU
+  1
+.
+  9
+$ELEVATION
+ 40
+0.0
+  9
+$PELEVATION
+ 40
+0.0
+  9
+$THICKNESS
+ 40
+0.0
+  9
+$LIMCHECK
+ 70
+0
+  9
+$CHAMFERA
+ 40
+0.0
+  9
+$CHAMFERB
+ 40
+0.0
+  9
+$CHAMFERC
+ 40
+0.0
+  9
+$CHAMFERD
+ 40
+0.0
+  9
+$SKPOLY
+ 70
+0
+  9
+$TDCREATE
+ 40
+2461241.745451389
+  9
+$TDUCREATE
+ 40
+2458532.153996898
+  9
+$TDUPDATE
+ 40
+2461241.745451389
+  9
+$TDUUPDATE
+ 40
+2458532.1544311
+  9
+$TDINDWG
+ 40
+0.0
+  9
+$TDUSRTIMER
+ 40
+0.0
+  9
+$USRTIMER
+ 70
+1
+  9
+$ANGBASE
+ 50
+0.0
+  9
+$ANGDIR
+ 70
+0
+  9
+$PDMODE
+ 70
+0
+  9
+$PDSIZE
+ 40
+0.0
+  9
+$PLINEWID
+ 40
+0.0
+  9
+$SPLFRAME
+ 70
+0
+  9
+$SPLINETYPE
+ 70
+6
+  9
+$SPLINESEGS
+ 70
+8
+  9
+$HANDSEED
+  5
+1F7
+  9
+$SURFTAB1
+ 70
+6
+  9
+$SURFTAB2
+ 70
+6
+  9
+$SURFTYPE
+ 70
+6
+  9
+$SURFU
+ 70
+6
+  9
+$SURFV
+ 70
+6
+  9
+$UCSBASE
+  2
+
+  9
+$UCSNAME
+  2
+
+  9
+$UCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$UCSORTHOREF
+  2
+
+  9
+$UCSORTHOVIEW
+ 70
+0
+  9
+$UCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$UCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSBASE
+  2
+
+  9
+$PUCSNAME
+  2
+
+  9
+$PUCSORG
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSXDIR
+ 10
+1.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSYDIR
+ 10
+0.0
+ 20
+1.0
+ 30
+0.0
+  9
+$PUCSORTHOREF
+  2
+
+  9
+$PUCSORTHOVIEW
+ 70
+0
+  9
+$PUCSORGTOP
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBOTTOM
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGLEFT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGRIGHT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGFRONT
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PUCSORGBACK
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$USERI1
+ 70
+0
+  9
+$USERI2
+ 70
+0
+  9
+$USERI3
+ 70
+0
+  9
+$USERI4
+ 70
+0
+  9
+$USERI5
+ 70
+0
+  9
+$USERR1
+ 40
+0.0
+  9
+$USERR2
+ 40
+0.0
+  9
+$USERR3
+ 40
+0.0
+  9
+$USERR4
+ 40
+0.0
+  9
+$USERR5
+ 40
+0.0
+  9
+$WORLDVIEW
+ 70
+1
+  9
+$SHADEDGE
+ 70
+3
+  9
+$SHADEDIF
+ 70
+70
+  9
+$TILEMODE
+ 70
+1
+  9
+$MAXACTVP
+ 70
+64
+  9
+$PINSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$PLIMCHECK
+ 70
+0
+  9
+$PEXTMIN
+ 10
+1e+20
+ 20
+1e+20
+ 30
+1e+20
+  9
+$PEXTMAX
+ 10
+-1e+20
+ 20
+-1e+20
+ 30
+-1e+20
+  9
+$PLIMMIN
+ 10
+0.0
+ 20
+0.0
+  9
+$PLIMMAX
+ 10
+420.0
+ 20
+297.0
+  9
+$UNITMODE
+ 70
+0
+  9
+$VISRETAIN
+ 70
+1
+  9
+$PLINEGEN
+ 70
+0
+  9
+$PSLTSCALE
+ 70
+1
+  9
+$TREEDEPTH
+ 70
+3020
+  9
+$CMLSTYLE
+  2
+Standard
+  9
+$CMLJUST
+ 70
+0
+  9
+$CMLSCALE
+ 40
+20.0
+  9
+$PROXYGRAPHICS
+ 70
+1
+  9
+$MEASUREMENT
+ 70
+1
+  9
+$CELWEIGHT
+370
+-1
+  9
+$ENDCAPS
+280
+0
+  9
+$JOINSTYLE
+280
+0
+  9
+$LWDISPLAY
+290
+0
+  9
+$INSUNITS
+ 70
+6
+  9
+$HYPERLINKBASE
+  1
+
+  9
+$STYLESHEET
+  1
+
+  9
+$XEDIT
+290
+1
+  9
+$CEPSNTYPE
+380
+0
+  9
+$PSTYLEMODE
+290
+1
+  9
+$FINGERPRINTGUID
+  2
+{A81B58A0-DCD3-4758-BF6F-1E60F8CBE6B2}
+  9
+$VERSIONGUID
+  2
+{A19EB358-BD5F-46CE-BCB1-1871C956D40B}
+  9
+$EXTNAMES
+290
+1
+  9
+$PSVPSCALE
+ 40
+0.0
+  9
+$OLESTARTUP
+290
+0
+  9
+$SORTENTS
+280
+127
+  9
+$INDEXCTL
+280
+0
+  9
+$HIDETEXT
+280
+1
+  9
+$XCLIPFRAME
+280
+1
+  9
+$HALOGAP
+280
+0
+  9
+$OBSCOLOR
+ 70
+257
+  9
+$OBSLTYPE
+280
+0
+  9
+$INTERSECTIONDISPLAY
+280
+0
+  9
+$INTERSECTIONCOLOR
+ 70
+257
+  9
+$DIMASSOC
+280
+2
+  9
+$PROJECTNAME
+  1
+
+  9
+$CAMERADISPLAY
+290
+0
+  9
+$LENSLENGTH
+ 40
+50.0
+  9
+$CAMERAHEIGHT
+ 40
+0.0
+  9
+$STEPSPERSEC
+ 40
+24.0
+  9
+$STEPSIZE
+ 40
+100.0
+  9
+$3DDWFPREC
+ 40
+2.0
+  9
+$PSOLWIDTH
+ 40
+0.005
+  9
+$PSOLHEIGHT
+ 40
+0.08
+  9
+$LOFTANG1
+ 40
+1.570796326795
+  9
+$LOFTANG2
+ 40
+1.570796326795
+  9
+$LOFTMAG1
+ 40
+0.0
+  9
+$LOFTMAG2
+ 40
+0.0
+  9
+$LOFTPARAM
+ 70
+7
+  9
+$LOFTNORMALS
+280
+1
+  9
+$LATITUDE
+ 40
+37.795
+  9
+$LONGITUDE
+ 40
+-122.394
+  9
+$NORTHDIRECTION
+ 40
+0.0
+  9
+$TIMEZONE
+ 70
+-8000
+  9
+$LIGHTGLYPHDISPLAY
+280
+1
+  9
+$TILEMODELIGHTSYNCH
+280
+1
+  9
+$CMATERIAL
+347
+20
+  9
+$SOLIDHIST
+280
+0
+  9
+$SHOWHIST
+280
+1
+  9
+$DWFFRAME
+280
+2
+  9
+$DGNFRAME
+280
+2
+  9
+$REALWORLDSCALE
+290
+1
+  9
+$INTERFERECOLOR
+ 62
+256
+  9
+$CSHADOW
+280
+0
+  9
+$SHADOWPLANELOCATION
+ 40
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+CLASSES
+  0
+CLASS
+  1
+ACDBDICTIONARYWDFLT
+  2
+AcDbDictionaryWithDefault
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SUN
+  2
+AcDbSun
+  3
+SCENEOE
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+VISUALSTYLE
+  2
+AcDbVisualStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MATERIAL
+  2
+AcDbMaterial
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+SCALE
+  2
+AcDbScale
+  3
+ObjectDBX Classes
+ 90
+1153
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+TABLESTYLE
+  2
+AcDbTableStyle
+  3
+ObjectDBX Classes
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MLEADERSTYLE
+  2
+AcDbMLeaderStyle
+  3
+ACDB_MLEADERSTYLE_CLASS
+ 90
+4095
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+DICTIONARYVAR
+  2
+AcDbDictionaryVar
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+CELLSTYLEMAP
+  2
+AcDbCellStyleMap
+  3
+ObjectDBX Classes
+ 90
+1152
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+MENTALRAYRENDERSETTINGS
+  2
+AcDbMentalRayRenderSettings
+  3
+SCENEOE
+ 90
+1024
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBDETAILVIEWSTYLE
+  2
+AcDbDetailViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBSECTIONVIEWSTYLE
+  2
+AcDbSectionViewStyle
+  3
+ObjectDBX Classes
+ 90
+1025
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+RASTERVARIABLES
+  2
+AcDbRasterVariables
+  3
+ISM
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+ACDBPLACEHOLDER
+  2
+AcDbPlaceHolder
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+CLASS
+  1
+LAYOUT
+  2
+AcDbLayout
+  3
+ObjectDBX Classes
+ 90
+0
+ 91
+0
+280
+0
+281
+0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+  5
+8
+330
+0
+100
+AcDbSymbolTable
+ 70
+1
+  0
+VPORT
+  5
+23
+330
+8
+100
+AcDbSymbolTableRecord
+100
+AcDbViewportTableRecord
+  2
+*Active
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+1.0
+ 21
+1.0
+ 12
+0.0
+ 22
+0.0
+ 13
+0.0
+ 23
+0.0
+ 14
+0.5
+ 24
+0.5
+ 15
+0.5
+ 25
+0.5
+ 16
+0.0
+ 26
+0.0
+ 36
+1.0
+ 17
+0.0
+ 27
+0.0
+ 37
+0.0
+ 40
+1000.0
+ 41
+1.34
+ 42
+50.0
+ 43
+0.0
+ 44
+0.0
+ 50
+0.0
+ 51
+0.0
+ 71
+0
+ 72
+1000
+ 73
+1
+ 74
+3
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+0
+281
+0
+ 65
+0
+146
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+  5
+2
+330
+0
+100
+AcDbSymbolTable
+ 70
+21
+  0
+LTYPE
+  5
+24
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByBlock
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+25
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+ByLayer
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+26
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+Continuous
+ 70
+0
+  3
+
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+LTYPE
+  5
+2F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER
+ 70
+0
+  3
+Center ____ _ ____ _ ____ _ ____ _ ____ _ ____
+ 72
+65
+ 73
+4
+ 40
+5.08
+ 49
+3.175
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+30
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTERX2
+ 70
+0
+  3
+Center (2x) ________  __  ________  __  ________
+ 72
+65
+ 73
+4
+ 40
+8.89
+ 49
+6.35
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+31
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+CENTER2
+ 70
+0
+  3
+Center (.5x) ____ _ ____ _ ____ _ ____ _ ____
+ 72
+65
+ 73
+4
+ 40
+2.54
+ 49
+1.587
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+  0
+LTYPE
+  5
+32
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED
+ 70
+0
+  3
+Dashed __ __ __ __ __ __ __ __ __ __ __ __ __ _
+ 72
+65
+ 73
+2
+ 40
+1.524
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+33
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHEDX2
+ 70
+0
+  3
+Dashed (2x) ____  ____  ____  ____  ____  ____
+ 72
+65
+ 73
+2
+ 40
+3.048
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+34
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHED2
+ 70
+0
+  3
+Dashed (.5x) _ _ _ _ _ _ _ _ _ _ _ _ _ _
+ 72
+65
+ 73
+2
+ 40
+0.762
+ 49
+0.635
+ 74
+0
+ 49
+-0.127
+ 74
+0
+  0
+LTYPE
+  5
+35
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM
+ 70
+0
+  3
+Phantom ______  __  __  ______  __  __  ______
+ 72
+65
+ 73
+6
+ 40
+6.35
+ 49
+3.175
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+0.635
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+36
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOMX2
+ 70
+0
+  3
+Phantom (2x)____________    ____    ____    ____________
+ 72
+65
+ 73
+6
+ 40
+10.795
+ 49
+6.35
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+ 49
+1.27
+ 74
+0
+ 49
+-0.635
+ 74
+0
+  0
+LTYPE
+  5
+37
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+PHANTOM2
+ 70
+0
+  3
+Phantom (.5x) ___ _ _ ___ _ _ ___ _ _ ___ _ _ ___
+ 72
+65
+ 73
+6
+ 40
+3.175
+ 49
+1.587
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+ 49
+0.318
+ 74
+0
+ 49
+-0.318
+ 74
+0
+  0
+LTYPE
+  5
+38
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT
+ 70
+0
+  3
+Dash dot __ . __ . __ . __ . __ . __ . __ . __
+ 72
+65
+ 73
+4
+ 40
+3.556
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+39
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOTX2
+ 70
+0
+  3
+Dash dot (2x) ____  .  ____  .  ____  .  ____
+ 72
+65
+ 73
+4
+ 40
+6.096
+ 49
+5.08
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3A
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DASHDOT2
+ 70
+0
+  3
+Dash dot (.5x) _ . _ . _ . _ . _ . _ . _ . _
+ 72
+65
+ 73
+4
+ 40
+1.778
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+3B
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT
+ 70
+0
+  3
+Dot .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+ 72
+65
+ 73
+2
+ 40
+0.508
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3C
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOTX2
+ 70
+0
+  3
+Dot (2x) .    .    .    .    .    .    .    . 
+ 72
+65
+ 73
+2
+ 40
+1.016
+ 49
+0.0
+ 74
+0
+ 49
+-1.016
+ 74
+0
+  0
+LTYPE
+  5
+3D
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DOT2
+ 70
+0
+  3
+Dot (.5) . . . . . . . . . . . . . . . . . . . 
+ 72
+65
+ 73
+2
+ 40
+0.254
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+LTYPE
+  5
+3E
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE
+ 70
+0
+  3
+Divide __ . . __ . . __ . . __ . . __ . . __
+ 72
+65
+ 73
+6
+ 40
+4.064
+ 49
+2.54
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+3F
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDEX2
+ 70
+0
+  3
+Divide (2x) ____  . .  ____  . .  ____  . .  ____
+ 72
+65
+ 73
+6
+ 40
+6.604
+ 49
+5.08
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.508
+ 74
+0
+  0
+LTYPE
+  5
+40
+330
+2
+100
+AcDbSymbolTableRecord
+100
+AcDbLinetypeTableRecord
+  2
+DIVIDE2
+ 70
+0
+  3
+Divide(.5x) _ . _ . _ . _ . _ . _ . _ . _
+ 72
+65
+ 73
+6
+ 40
+2.032
+ 49
+1.27
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+ 49
+0.0
+ 74
+0
+ 49
+-0.254
+ 74
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+  5
+1
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+LAYER
+  5
+27
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+0
+ 70
+0
+ 62
+7
+  6
+Continuous
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+28
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+Defpoints
+ 70
+0
+ 62
+7
+  6
+Continuous
+290
+0
+370
+-3
+390
+13
+347
+21
+  0
+LAYER
+  5
+1F3
+330
+1
+100
+AcDbSymbolTableRecord
+100
+AcDbLayerTableRecord
+  2
+35-RH-SUDS-ZONAS
+ 70
+0
+ 62
+92
+  6
+CONTINUOUS
+370
+20
+390
+13
+347
+21
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+  5
+5
+330
+0
+100
+AcDbSymbolTable
+ 70
+26
+  0
+STYLE
+  5
+29
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+txt
+  4
+
+  0
+STYLE
+  5
+41
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Light
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Light.ttf
+  4
+
+  0
+STYLE
+  5
+42
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Light-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-LightItalic.ttf
+  4
+
+  0
+STYLE
+  5
+43
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+44
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+45
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-SemiBold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-SemiBold.ttf
+  4
+
+  0
+STYLE
+  5
+46
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-SemiBoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-SemiBoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+47
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+48
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+49
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-ExtraBold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-ExtraBold.ttf
+  4
+
+  0
+STYLE
+  5
+4A
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSans-ExtraBoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSans-ExtraBoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+4B
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+4C
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Light
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-Light.ttf
+  4
+
+  0
+STYLE
+  5
+4D
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+OpenSansCondensed-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+OpenSansCondensed-LightItalic.ttf
+  4
+
+  0
+STYLE
+  5
+4E
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+4F
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+50
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+51
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSans-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSans-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+52
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+53
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+54
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+55
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationSerif-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationSerif-Italic.ttf
+  4
+
+  0
+STYLE
+  5
+56
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Regular.ttf
+  4
+
+  0
+STYLE
+  5
+57
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-Bold
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Bold.ttf
+  4
+
+  0
+STYLE
+  5
+58
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-BoldItalic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-BoldItalic.ttf
+  4
+
+  0
+STYLE
+  5
+59
+330
+5
+100
+AcDbSymbolTableRecord
+100
+AcDbTextStyleTableRecord
+  2
+LiberationMono-Italic
+ 70
+0
+ 40
+0.0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+2.5
+  3
+LiberationMono-Italic.ttf
+  4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+  5
+7
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+UCS
+  5
+6
+330
+0
+100
+AcDbSymbolTable
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+  5
+3
+330
+0
+100
+AcDbSymbolTable
+ 70
+3
+  0
+APPID
+  5
+2A
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+ACAD
+ 70
+0
+  0
+APPID
+  5
+1F4
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+HATCHBACKGROUNDCOLOR
+ 70
+0
+  0
+APPID
+  5
+1F5
+330
+3
+100
+AcDbSymbolTableRecord
+100
+AcDbRegAppTableRecord
+  2
+EZDXF
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+DIMSTYLE
+  5
+4
+330
+0
+100
+AcDbSymbolTable
+ 70
+12
+100
+AcDbDimStyleTable
+  0
+DIMSTYLE
+105
+2B
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+Standard
+ 70
+0
+ 40
+1.0
+ 41
+2.5
+ 42
+0.625
+ 43
+3.75
+ 44
+1.25
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+2.5
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+1.0
+145
+0.0
+146
+1.0
+147
+0.625
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+8
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+44
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+0
+289
+3
+290
+0
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+73
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZDXF
+ 70
+0
+ 40
+1.0
+ 41
+0.175
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+342
+74
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7C
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_100_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7D
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_50_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.125
+ 42
+0.0625
+ 43
+3.75
+ 44
+0.1875
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.125
+141
+2.5
+142
+0.0625
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.05
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7E
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_25_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0625
+ 42
+0.03125
+ 43
+3.75
+ 44
+0.09375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0625
+141
+2.5
+142
+0.03125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.025
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+7F
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_20_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.05
+ 42
+0.025
+ 43
+3.75
+ 44
+0.07500000000000001
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.05
+141
+2.5
+142
+0.025
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.020000000000000004
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+80
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_10_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.025
+ 42
+0.0125
+ 43
+3.75
+ 44
+0.037500000000000006
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.025
+141
+2.5
+142
+0.0125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.010000000000000002
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+81
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_5_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0125
+ 42
+0.00625
+ 43
+3.75
+ 44
+0.018750000000000003
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0125
+141
+2.5
+142
+0.00625
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.005000000000000001
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+82
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_M_1_H25_CM
+ 70
+0
+ 40
+1.0
+ 41
+0.0025
+ 42
+0.00125
+ 43
+3.75
+ 44
+0.00375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.0025
+141
+2.5
+142
+0.00125
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.001
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+83
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_RADIUS
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+0.0
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+0
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+1
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+342
+84
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+88
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_RADIUS_INSIDE
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+0.0
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+0
+ 78
+12
+ 79
+3
+170
+0
+171
+3
+172
+0
+173
+0
+174
+1
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+0
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+0
+290
+0
+340
+4C
+342
+84
+371
+-2
+372
+-2
+  0
+DIMSTYLE
+105
+89
+330
+4
+100
+AcDbSymbolTableRecord
+100
+AcDbDimStyleTableRecord
+  2
+EZ_CURVED
+ 70
+0
+ 40
+1.0
+ 41
+0.25
+ 42
+0.125
+ 43
+3.75
+ 44
+0.375
+ 45
+0.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+2.5
+140
+0.25
+141
+2.5
+142
+0.0
+143
+0.03937007874
+144
+100.0
+145
+0.0
+146
+0.5
+147
+0.1
+148
+0.0
+ 69
+0
+ 70
+0
+ 71
+0
+ 72
+0
+ 73
+0
+ 74
+0
+ 75
+0
+ 76
+0
+ 77
+1
+ 78
+12
+ 79
+2
+ 90
+2
+170
+0
+171
+3
+172
+1
+173
+0
+174
+0
+175
+0
+176
+0
+177
+0
+178
+0
+179
+2
+271
+2
+272
+2
+273
+2
+274
+3
+275
+0
+276
+0
+277
+2
+278
+46
+279
+2
+280
+0
+281
+0
+282
+0
+283
+0
+284
+8
+285
+0
+286
+0
+288
+1
+289
+3
+290
+0
+340
+4C
+371
+-2
+372
+-2
+  0
+ENDTAB
+  0
+TABLE
+  2
+BLOCK_RECORD
+  5
+9
+330
+0
+100
+AcDbSymbolTable
+ 70
+5
+  0
+BLOCK_RECORD
+  5
+17
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Model_Space
+340
+1A
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+1B
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+*Paper_Space
+340
+1E
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+74
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_ARCHTICK
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+78
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_CLOSEDFILLED
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+BLOCK_RECORD
+  5
+84
+330
+9
+100
+AcDbSymbolTableRecord
+100
+AcDbBlockTableRecord
+  2
+_CLOSEDBLANK
+340
+0
+ 70
+0
+280
+1
+281
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  5
+18
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Model_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Model_Space
+  1
+
+  0
+ENDBLK
+  5
+19
+330
+17
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+1C
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+*Paper_Space
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+*Paper_Space
+  1
+
+  0
+ENDBLK
+  5
+1D
+330
+1B
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+75
+330
+74
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_ARCHTICK
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_ARCHTICK
+  1
+
+  0
+LWPOLYLINE
+  5
+77
+330
+74
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbPolyline
+ 90
+2
+ 70
+0
+ 43
+0.15
+ 10
+-0.5
+ 20
+-0.5
+ 10
+0.5
+ 20
+0.5
+  0
+ENDBLK
+  5
+76
+330
+74
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+79
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_CLOSEDFILLED
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_CLOSEDFILLED
+  1
+
+  0
+SOLID
+  5
+7B
+330
+78
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbTrace
+ 10
+-1.0
+ 20
+0.16439898372402537
+ 30
+0.0
+ 11
+0.0
+ 21
+0.0
+ 31
+0.0
+ 12
+-1.0
+ 22
+-0.16439898372402537
+ 32
+0.0
+ 13
+-1.0
+ 23
+-0.16439898372402537
+ 33
+0.0
+  0
+ENDBLK
+  5
+7A
+330
+78
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+BLOCK
+  5
+85
+330
+84
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockBegin
+  2
+_CLOSEDBLANK
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+_CLOSEDBLANK
+  1
+
+  0
+LWPOLYLINE
+  5
+87
+330
+84
+100
+AcDbEntity
+  8
+0
+  6
+BYBLOCK
+ 62
+0
+100
+AcDbPolyline
+ 90
+3
+ 70
+1
+ 10
+-1.0
+ 20
+0.16439898372402537
+ 10
+0.0
+ 20
+0.0
+ 10
+-1.0
+ 20
+-0.16439898372402537
+  0
+ENDBLK
+  5
+86
+330
+84
+100
+AcDbEntity
+  8
+0
+100
+AcDbBlockEnd
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+LWPOLYLINE
+  5
+8A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105663.152
+ 20
+118106.7283
+ 10
+105662.2854
+ 20
+118106.4856
+ 10
+105658.3415
+ 20
+118122.5184
+ 10
+105659.2199
+ 20
+118122.7146
+ 10
+105663.152
+ 20
+118106.7283
+  0
+LWPOLYLINE
+  5
+8B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105938.1152
+ 20
+114998.553
+ 10
+105937.2166
+ 20
+114998.605
+ 10
+105937.4387
+ 20
+115003.8834
+ 10
+105938.3282
+ 20
+115003.8537
+ 10
+105938.1152
+ 20
+114998.553
+  0
+LWPOLYLINE
+  5
+8C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105938.4267
+ 20
+115008.1218
+ 10
+105937.5268
+ 20
+115008.1394
+ 10
+105937.5033
+ 20
+115014.1881
+ 10
+105937.1619
+ 20
+115022.6927
+ 10
+105938.0606
+ 20
+115022.7652
+ 10
+105938.3606
+ 20
+115015.9505
+ 10
+105938.4267
+ 20
+115008.1218
+  0
+LWPOLYLINE
+  5
+8D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105935.4298
+ 20
+115043.5378
+ 10
+105934.5424
+ 20
+115043.3878
+ 10
+105933.7294
+ 20
+115047.7488
+ 10
+105934.6118
+ 20
+115047.9262
+ 10
+105935.4298
+ 20
+115043.5378
+  0
+LWPOLYLINE
+  5
+8E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105918.9694
+ 20
+115112.9389
+ 10
+105918.0959
+ 20
+115112.7221
+ 10
+105916.7599
+ 20
+115118.1071
+ 10
+105917.6334
+ 20
+115118.3238
+ 10
+105918.9694
+ 20
+115112.9389
+  0
+LWPOLYLINE
+  5
+8F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105892.4196
+ 20
+115277.0087
+ 10
+105892.3624
+ 20
+115265.2071
+ 10
+105892.5586
+ 20
+115251.6333
+ 10
+105891.6589
+ 20
+115251.6108
+ 10
+105891.4624
+ 20
+115265.2033
+ 10
+105891.5196
+ 20
+115277.0131
+ 10
+105892.4196
+ 20
+115277.0087
+  0
+LWPOLYLINE
+  5
+90
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105888.892
+ 20
+115295.658
+ 10
+105887.692
+ 20
+115295.6655
+ 10
+105887.7241
+ 20
+115300.8654
+ 10
+105888.9246
+ 20
+115300.858
+ 10
+105888.892
+ 20
+115295.658
+  0
+LWPOLYLINE
+  5
+91
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105892.8657
+ 20
+115355.2222
+ 10
+105891.9658
+ 20
+115355.2279
+ 10
+105892.0548
+ 20
+115369.4227
+ 10
+105892.9548
+ 20
+115369.417
+ 10
+105892.8657
+ 20
+115355.2222
+  0
+LWPOLYLINE
+  5
+92
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105893.2831
+ 20
+115400.8881
+ 10
+105892.3822
+ 20
+115400.897
+ 10
+105892.43
+ 20
+115406.5691
+ 10
+105892.9474
+ 20
+115416.529
+ 10
+105893.813
+ 20
+115416.4339
+ 10
+105893.3434
+ 20
+115407.0083
+ 10
+105893.2831
+ 20
+115400.8881
+  0
+LWPOLYLINE
+  5
+93
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105894.3142
+ 20
+115421.9334
+ 10
+105893.4196
+ 20
+115422.0087
+ 10
+105894.2057
+ 20
+115428.8954
+ 10
+105894.9304
+ 20
+115433.8543
+ 10
+105895.8175
+ 20
+115433.6978
+ 10
+105895.063
+ 20
+115428.4909
+ 10
+105894.3142
+ 20
+115421.9334
+  0
+LWPOLYLINE
+  5
+94
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+9
+ 70
+1
+ 10
+105918.2326
+ 20
+115490.0095
+ 10
+105918.2326
+ 20
+115490.0095
+ 10
+105924.2303
+ 20
+115498.4781
+ 10
+105927.5453
+ 20
+115502.4822
+ 10
+105926.8595
+ 20
+115503.0651
+ 10
+105923.5767
+ 20
+115498.9679
+ 10
+105920.4761
+ 20
+115494.8027
+ 10
+105917.4946
+ 20
+115490.5002
+ 10
+105918.2326
+ 20
+115490.0095
+  0
+LWPOLYLINE
+  5
+95
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105948.8484
+ 20
+115524.9399
+ 10
+105948.2198
+ 20
+115525.584
+ 10
+105951.5356
+ 20
+115528.7955
+ 10
+105952.16
+ 20
+115528.1498
+ 10
+105948.8484
+ 20
+115524.9399
+  0
+LWPOLYLINE
+  5
+96
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105955.9507
+ 20
+115531.8131
+ 10
+105955.325
+ 20
+115532.4601
+ 10
+105959.2317
+ 20
+115536.2379
+ 10
+105959.8574
+ 20
+115535.5909
+ 10
+105955.9507
+ 20
+115531.8131
+  0
+LWPOLYLINE
+  5
+97
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105962.9378
+ 20
+115538.5402
+ 10
+105962.3122
+ 20
+115539.1872
+ 10
+105980.506
+ 20
+115556.7805
+ 10
+105981.1316
+ 20
+115556.1336
+ 10
+105962.9378
+ 20
+115538.5402
+  0
+LWPOLYLINE
+  5
+98
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106037.2924
+ 20
+115618.3682
+ 10
+106035.9925
+ 20
+115619.3035
+ 10
+106039.0298
+ 20
+115623.5243
+ 10
+106040.3694
+ 20
+115622.6485
+ 10
+106037.2924
+ 20
+115618.3682
+  0
+LWPOLYLINE
+  5
+99
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106065.5346
+ 20
+115693.0397
+ 10
+106064.3342
+ 20
+115693.0929
+ 10
+106064.5641
+ 20
+115698.2878
+ 10
+106065.7648
+ 20
+115698.2792
+ 10
+106065.5346
+ 20
+115693.0397
+  0
+LWPOLYLINE
+  5
+9A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106065.7697
+ 20
+115699.5028
+ 10
+106064.8694
+ 20
+115699.5049
+ 10
+106064.9833
+ 20
+115703.9074
+ 10
+106065.8831
+ 20
+115703.8868
+ 10
+106065.7697
+ 20
+115699.5028
+  0
+LWPOLYLINE
+  5
+9B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106077.2526
+ 20
+115945.2066
+ 10
+106076.1294
+ 20
+115945.6267
+ 10
+106077.9514
+ 20
+115950.4971
+ 10
+106079.0669
+ 20
+115950.0563
+ 10
+106077.2526
+ 20
+115945.2066
+  0
+LWPOLYLINE
+  5
+9C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106076.1705
+ 20
+115929.9097
+ 10
+106075.1342
+ 20
+115930.2129
+ 10
+106076.5998
+ 20
+115935.2021
+ 10
+106077.6706
+ 20
+115934.9017
+ 10
+106076.1705
+ 20
+115929.9097
+  0
+LWPOLYLINE
+  5
+9D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106096.0733
+ 20
+115985.2192
+ 10
+106102.1966
+ 20
+116000.4058
+ 10
+106103.0313
+ 20
+116000.0692
+ 10
+106096.908
+ 20
+115984.8826
+ 10
+106096.0733
+ 20
+115985.2192
+  0
+LWPOLYLINE
+  5
+9E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106079.4679
+ 20
+115940.3212
+ 10
+106078.4506
+ 20
+115940.6573
+ 10
+106080.2489
+ 20
+115945.5364
+ 10
+106081.2667
+ 20
+115945.2
+ 10
+106079.4679
+ 20
+115940.3212
+  0
+LWPOLYLINE
+  5
+9F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106113.2667
+ 20
+116058.8464
+ 10
+106111.6669
+ 20
+116058.9113
+ 10
+106111.8782
+ 20
+116064.107
+ 10
+106113.4748
+ 20
+116064.0771
+ 10
+106113.2667
+ 20
+116058.8464
+  0
+LWPOLYLINE
+  5
+A0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106113.6503
+ 20
+116074.7965
+ 10
+106112.4502
+ 20
+116074.8033
+ 10
+106112.4793
+ 20
+116080.0033
+ 10
+106113.6664
+ 20
+116079.956
+ 10
+106113.6503
+ 20
+116074.7965
+  0
+LWPOLYLINE
+  5
+A1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106113.7321
+ 20
+116090.6961
+ 10
+106112.1406
+ 20
+116090.7051
+ 10
+106112.1695
+ 20
+116095.905
+ 10
+106113.7577
+ 20
+116095.8963
+ 10
+106113.7321
+ 20
+116090.6961
+  0
+LWPOLYLINE
+  5
+A2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106113.7845
+ 20
+116101.2961
+ 10
+106112.2004
+ 20
+116101.3049
+ 10
+106112.2293
+ 20
+116106.5048
+ 10
+106113.8101
+ 20
+116106.496
+ 10
+106113.7845
+ 20
+116101.2961
+  0
+LWPOLYLINE
+  5
+A3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106117.9816
+ 20
+116222.1524
+ 10
+106117.0817
+ 20
+116222.1569
+ 10
+106117.1275
+ 20
+116231.4282
+ 10
+106118.0275
+ 20
+116231.4238
+ 10
+106117.9816
+ 20
+116222.1524
+  0
+LWPOLYLINE
+  5
+A4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106118.7536
+ 20
+116378.5064
+ 10
+106117.8542
+ 20
+116378.5109
+ 10
+106117.9306
+ 20
+116393.9857
+ 10
+106118.8306
+ 20
+116393.9813
+ 10
+106118.7536
+ 20
+116378.5064
+  0
+LWPOLYLINE
+  5
+A5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106118.8991
+ 20
+116409.7251
+ 10
+106117.9998
+ 20
+116409.7295
+ 10
+106118.0352
+ 20
+116420.441
+ 10
+106118.9352
+ 20
+116420.4459
+ 10
+106118.8991
+ 20
+116409.7251
+  0
+LWPOLYLINE
+  5
+A6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106117.7206
+ 20
+116446.5929
+ 10
+106116.878
+ 20
+116446.5291
+ 10
+106116.5016
+ 20
+116451.2331
+ 10
+106117.3987
+ 20
+116451.3056
+ 10
+106117.7206
+ 20
+116446.5929
+  0
+LWPOLYLINE
+  5
+A7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106117.2093
+ 20
+116454.5869
+ 10
+106116.3122
+ 20
+116454.5144
+ 10
+106115.8393
+ 20
+116460.3689
+ 10
+106116.7364
+ 20
+116460.4415
+ 10
+106117.2093
+ 20
+116454.5869
+  0
+LWPOLYLINE
+  5
+A8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106116.3097
+ 20
+116465.7243
+ 10
+106115.4126
+ 20
+116465.6517
+ 10
+106114.3361
+ 20
+116478.9797
+ 10
+106115.2332
+ 20
+116479.0521
+ 10
+106116.3097
+ 20
+116465.7243
+  0
+LWPOLYLINE
+  5
+A9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105696.6149
+ 20
+118124.6108
+ 10
+105695.5382
+ 20
+118124.3882
+ 10
+105694.4857
+ 20
+118129.4806
+ 10
+105695.5625
+ 20
+118129.7031
+ 10
+105696.6149
+ 20
+118124.6108
+  0
+LWPOLYLINE
+  5
+AA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105698.7603
+ 20
+118114.2301
+ 10
+105697.6836
+ 20
+118114.0076
+ 10
+105696.6311
+ 20
+118119.1
+ 10
+105697.734
+ 20
+118119.2861
+ 10
+105698.7603
+ 20
+118114.2301
+  0
+LWPOLYLINE
+  5
+AB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105716.4977
+ 20
+118049.7155
+ 10
+105714.2728
+ 20
+118054.4417
+ 10
+105715.3585
+ 20
+118054.9527
+ 10
+105717.5731
+ 20
+118050.2479
+ 10
+105716.4977
+ 20
+118049.7155
+  0
+LWPOLYLINE
+  5
+AC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105728.9655
+ 20
+118026.2487
+ 10
+105730.3677
+ 20
+118027.0192
+ 10
+105727.8636
+ 20
+118031.5766
+ 10
+105726.4611
+ 20
+118030.8066
+ 10
+105728.9655
+ 20
+118026.2487
+  0
+LWPOLYLINE
+  5
+AD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105781.4846
+ 20
+117926.9825
+ 10
+105780.3265
+ 20
+117926.3946
+ 10
+105778.0592
+ 20
+117931.0739
+ 10
+105779.1251
+ 20
+117931.6165
+ 10
+105781.4846
+ 20
+117926.9825
+  0
+LWPOLYLINE
+  5
+AE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106096.4905
+ 20
+116730.8434
+ 10
+106097.9753
+ 20
+116731.4395
+ 10
+106096.0853
+ 20
+116736.2839
+ 10
+106094.5943
+ 20
+116735.702
+ 10
+106096.4905
+ 20
+116730.8434
+  0
+LWPOLYLINE
+  5
+AF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106125.1358
+ 20
+116651.9331
+ 10
+106124.0065
+ 20
+116651.7528
+ 10
+106124.7796
+ 20
+116646.6246
+ 10
+106125.9558
+ 20
+116646.7982
+ 10
+106125.1358
+ 20
+116651.9331
+  0
+LWPOLYLINE
+  5
+B0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106129.4997
+ 20
+116626.0994
+ 10
+106127.9175
+ 20
+116625.8645
+ 10
+106128.6806
+ 20
+116620.7209
+ 10
+106130.2633
+ 20
+116620.9557
+ 10
+106129.4997
+ 20
+116626.0994
+  0
+LWPOLYLINE
+  5
+B1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106131.486
+ 20
+116610.3685
+ 10
+106130.299
+ 20
+116610.1923
+ 10
+106129.5358
+ 20
+116615.3361
+ 10
+106130.7228
+ 20
+116615.5122
+ 10
+106131.486
+ 20
+116610.3685
+  0
+LWPOLYLINE
+  5
+B2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106135.7231
+ 20
+116584.1586
+ 10
+106134.1405
+ 20
+116583.9236
+ 10
+106134.9036
+ 20
+116578.7801
+ 10
+106136.4868
+ 20
+116579.015
+ 10
+106135.7231
+ 20
+116584.1586
+  0
+LWPOLYLINE
+  5
+B3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106147.4345
+ 20
+116516.2763
+ 10
+106146.2667
+ 20
+116515.9999
+ 10
+106147.4643
+ 20
+116510.9395
+ 10
+106148.632
+ 20
+116511.216
+ 10
+106147.4345
+ 20
+116516.2763
+  0
+LWPOLYLINE
+  5
+B4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106157.1777
+ 20
+116475.0162
+ 10
+106156.0071
+ 20
+116474.7551
+ 10
+106157.1345
+ 20
+116469.7038
+ 10
+106158.31
+ 20
+116469.941
+ 10
+106157.1777
+ 20
+116475.0162
+  0
+LWPOLYLINE
+  5
+B5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106161.5639
+ 20
+116454.3915
+ 10
+106159.9762
+ 20
+116454.1923
+ 10
+106159.1761
+ 20
+116459.2795
+ 10
+106160.7552
+ 20
+116459.5282
+ 10
+106161.5639
+ 20
+116454.3915
+  0
+LWPOLYLINE
+  5
+B6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106151.045
+ 20
+116101.8384
+ 10
+106149.945
+ 20
+116101.8449
+ 10
+106149.9145
+ 20
+116096.645
+ 10
+106151.0145
+ 20
+116096.6385
+ 10
+106151.045
+ 20
+116101.8384
+  0
+LWPOLYLINE
+  5
+B7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106150.9828
+ 20
+116091.2386
+ 10
+106149.8828
+ 20
+116091.245
+ 10
+106149.8523
+ 20
+116086.045
+ 10
+106150.9528
+ 20
+116086.0387
+ 10
+106150.9828
+ 20
+116091.2386
+  0
+LWPOLYLINE
+  5
+B8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106104.4736
+ 20
+115919.7587
+ 10
+106105.5488
+ 20
+115919.5258
+ 10
+106104.4147
+ 20
+115914.4436
+ 10
+106103.3332
+ 20
+115914.6476
+ 10
+106104.4736
+ 20
+115919.7587
+  0
+LWPOLYLINE
+  5
+B9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105941.0139
+ 20
+115462.6149
+ 10
+105939.9059
+ 20
+115463.0824
+ 10
+105937.86
+ 20
+115458.2239
+ 10
+105939.0051
+ 20
+115457.8323
+ 10
+105941.0139
+ 20
+115462.6149
+  0
+LWPOLYLINE
+  5
+BA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.4585
+ 20
+115363.2144
+ 10
+105928.8586
+ 20
+115363.2269
+ 10
+105928.8179
+ 20
+115358.0266
+ 10
+105930.4179
+ 20
+115358.0146
+ 10
+105930.4585
+ 20
+115363.2144
+  0
+LWPOLYLINE
+  5
+BB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.2815
+ 20
+115348.7932
+ 10
+105928.6816
+ 20
+115348.8052
+ 10
+105928.7222
+ 20
+115354.0054
+ 10
+105930.3222
+ 20
+115353.993
+ 10
+105930.2815
+ 20
+115348.7932
+  0
+LWPOLYLINE
+  5
+BC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105929.7952
+ 20
+115278.4152
+ 10
+105929.7554
+ 20
+115273.2167
+ 10
+105928.1555
+ 20
+115273.2292
+ 10
+105928.1961
+ 20
+115278.4294
+ 10
+105929.7952
+ 20
+115278.4152
+  0
+LWPOLYLINE
+  5
+BD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105922.6988
+ 20
+115208.7441
+ 10
+105921.1836
+ 20
+115208.6642
+ 10
+105920.9463
+ 20
+115221.7508
+ 10
+105921.6411
+ 20
+115221.7419
+ 10
+105922.6988
+ 20
+115208.7441
+  0
+LWPOLYLINE
+  5
+BE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105940.3329
+ 20
+115120.3867
+ 10
+105938.8199
+ 20
+115120.0925
+ 10
+105945.0555
+ 20
+115095.3262
+ 10
+105945.689
+ 20
+115095.4729
+ 10
+105940.3329
+ 20
+115120.3867
+  0
+LWPOLYLINE
+  5
+BF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105955.9848
+ 20
+115084.9307
+ 10
+105954.8116
+ 20
+115084.6784
+ 10
+105955.9044
+ 20
+115079.5951
+ 10
+105957.0776
+ 20
+115079.8473
+ 10
+105955.9848
+ 20
+115084.9307
+  0
+LWPOLYLINE
+  5
+C0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105952.925
+ 20
+115100.4576
+ 10
+105954.0179
+ 20
+115095.3737
+ 10
+105952.4542
+ 20
+115095.0371
+ 10
+105951.3612
+ 20
+115100.1214
+ 10
+105952.925
+ 20
+115100.4576
+  0
+LWPOLYLINE
+  5
+C1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105963.031
+ 20
+115054.0217
+ 10
+105961.4525
+ 20
+115053.7112
+ 10
+105960.3793
+ 20
+115058.7722
+ 10
+105961.9435
+ 20
+115059.1067
+ 10
+105963.031
+ 20
+115054.0217
+  0
+LWPOLYLINE
+  5
+C2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105964.691
+ 20
+115043.4427
+ 10
+105963.5134
+ 20
+115043.2116
+ 10
+105964.5086
+ 20
+115038.1419
+ 10
+105965.691
+ 20
+115038.3483
+ 10
+105964.691
+ 20
+115043.4427
+  0
+LWPOLYLINE
+  5
+C3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106153.9684
+ 20
+116490.5495
+ 10
+106152.4395
+ 20
+116490.2035
+ 10
+106153.5669
+ 20
+116485.1522
+ 10
+106155.1008
+ 20
+116485.4743
+ 10
+106153.9684
+ 20
+116490.5495
+  0
+LWPOLYLINE
+  5
+C4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106116.93
+ 20
+116685.0268
+ 10
+106115.4088
+ 20
+116684.4864
+ 10
+106117.1488
+ 20
+116679.6374
+ 10
+106118.6706
+ 20
+116680.1268
+ 10
+106116.93
+ 20
+116685.0268
+  0
+LWPOLYLINE
+  5
+C5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106148.2757
+ 20
+116042.9306
+ 10
+106147.191
+ 20
+116043.1036
+ 10
+106146.3701
+ 20
+116037.9688
+ 10
+106147.4565
+ 20
+116037.7957
+ 10
+106148.2757
+ 20
+116042.9306
+  0
+LWPOLYLINE
+  5
+C6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105663.152
+ 20
+118106.7283
+ 10
+105662.2854
+ 20
+118106.4856
+ 10
+105658.3415
+ 20
+118122.5184
+ 10
+105659.2199
+ 20
+118122.7146
+ 10
+105663.152
+ 20
+118106.7283
+  0
+LWPOLYLINE
+  5
+C7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105414.6561
+ 20
+111976.7804
+ 10
+105414.2618
+ 20
+111971.4959
+ 10
+105412.6741
+ 20
+111971.7144
+ 10
+105412.9613
+ 20
+111976.9074
+ 10
+105414.6561
+ 20
+111976.7804
+  0
+LWPOLYLINE
+  5
+C8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105561.4987
+ 20
+113668.8478
+ 10
+105558.5444
+ 20
+113662.6726
+ 10
+105557.728
+ 20
+113663.0512
+ 10
+105560.6955
+ 20
+113669.2412
+ 10
+105561.4987
+ 20
+113668.8478
+  0
+LWPOLYLINE
+  5
+C9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105356.376
+ 20
+112986.233
+ 10
+105349.5308
+ 20
+112962.6921
+ 10
+105348.6666
+ 20
+112962.9434
+ 10
+105355.5118
+ 20
+112986.4843
+ 10
+105356.376
+ 20
+112986.233
+  0
+LWPOLYLINE
+  5
+CA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105415.8674
+ 20
+112371.2304
+ 10
+105418.212
+ 20
+112356.1063
+ 10
+105417.3231
+ 20
+112355.9657
+ 10
+105414.9755
+ 20
+112371.1095
+ 10
+105415.8674
+ 20
+112371.2304
+  0
+LWPOLYLINE
+  5
+CB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105437.1259
+ 20
+111809.8485
+ 10
+105438.8076
+ 20
+111809.9157
+ 10
+105439.0148
+ 20
+111804.7319
+ 10
+105437.3509
+ 20
+111804.6552
+ 10
+105437.1263
+ 20
+111809.8485
+ 10
+105437.1259
+ 20
+111809.8485
+  0
+LWPOLYLINE
+  5
+CC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105436.7433
+ 20
+111820.4192
+ 10
+105438.4338
+ 20
+111820.4907
+ 10
+105438.6093
+ 20
+111815.3021
+ 10
+105436.9191
+ 20
+111815.2504
+ 10
+105436.7433
+ 20
+111820.4192
+  0
+LWPOLYLINE
+  5
+CD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105436.3702
+ 20
+111836.3507
+ 10
+105437.7182
+ 20
+111836.3687
+ 10
+105437.788
+ 20
+111831.1692
+ 10
+105436.4628
+ 20
+111831.1487
+ 10
+105436.3694
+ 20
+111836.3507
+ 10
+105436.3702
+ 20
+111836.3507
+  0
+LWPOLYLINE
+  5
+CE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105438.0374
+ 20
+111873.5265
+ 10
+105436.6378
+ 20
+111873.5498
+ 10
+105436.7973
+ 20
+111878.7596
+ 10
+105438.1686
+ 20
+111878.7249
+ 10
+105438.0369
+ 20
+111873.5257
+ 10
+105438.0374
+ 20
+111873.5265
+  0
+LWPOLYLINE
+  5
+CF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.5577
+ 20
+113350.855
+ 10
+105432.158
+ 20
+113350.8698
+ 10
+105432.2061
+ 20
+113345.67
+ 10
+105430.6065
+ 20
+113345.6335
+ 10
+105430.5577
+ 20
+113350.855
+  0
+LWPOLYLINE
+  5
+D0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.7755
+ 20
+113361.5188
+ 10
+105432.3759
+ 20
+113361.4665
+ 10
+105432.206
+ 20
+113356.2695
+ 10
+105430.6051
+ 20
+113356.2841
+ 10
+105430.7755
+ 20
+113361.5188
+  0
+LWPOLYLINE
+  5
+D1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105432.3105
+ 20
+113377.4978
+ 10
+105433.502
+ 20
+113377.3387
+ 10
+105432.8139
+ 20
+113372.1844
+ 10
+105431.6155
+ 20
+113372.2842
+ 10
+105432.3105
+ 20
+113377.4978
+  0
+LWPOLYLINE
+  5
+D2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105435.6055
+ 20
+113393.2268
+ 10
+105437.1595
+ 20
+113392.8391
+ 10
+105435.8999
+ 20
+113387.7936
+ 10
+105434.3338
+ 20
+113388.1228
+ 10
+105435.6055
+ 20
+113393.2268
+  0
+LWPOLYLINE
+  5
+D3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105438.8058
+ 20
+113403.465
+ 10
+105440.3241
+ 20
+113402.9519
+ 10
+105438.6597
+ 20
+113398.0254
+ 10
+105437.1206
+ 20
+113398.4722
+ 10
+105438.8058
+ 20
+113403.465
+  0
+LWPOLYLINE
+  5
+D4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105593.5464
+ 20
+113678.8026
+ 10
+105594.5977
+ 20
+113678.2214
+ 10
+105592.0819
+ 20
+113673.6705
+ 10
+105591.0134
+ 20
+113674.2195
+ 10
+105593.5464
+ 20
+113678.8026
+  0
+LWPOLYLINE
+  5
+D5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105617.8671
+ 20
+113712.5521
+ 10
+105619.089
+ 20
+113711.4983
+ 10
+105615.6639
+ 20
+113707.5856
+ 10
+105614.4306
+ 20
+113708.6073
+ 10
+105617.8671
+ 20
+113712.5521
+  0
+LWPOLYLINE
+  5
+D6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105749.9917
+ 20
+114111.6131
+ 10
+105752.4116
+ 20
+114116.2586
+ 10
+105753.8363
+ 20
+114115.5186
+ 10
+105751.44
+ 20
+114110.9037
+ 10
+105749.9917
+ 20
+114111.6131
+  0
+LWPOLYLINE
+  5
+D7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105954.3791
+ 20
+114848.2676
+ 10
+105955.08
+ 20
+114848.2429
+ 10
+105954.897
+ 20
+114843.0461
+ 10
+105954.1959
+ 20
+114843.0566
+ 10
+105954.3791
+ 20
+114848.2676
+  0
+LWPOLYLINE
+  5
+D8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105692.4763
+ 20
+114042.7119
+ 10
+105694.0472
+ 20
+114042.4146
+ 10
+105693.1879
+ 20
+114037.3185
+ 10
+105691.6116
+ 20
+114037.5843
+ 10
+105692.4763
+ 20
+114042.7119
+  0
+LWPOLYLINE
+  5
+D9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.3944
+ 20
+114926.3801
+ 10
+105929.4156
+ 20
+114916.4281
+ 10
+105930.3177
+ 20
+114916.3394
+ 10
+105931.2965
+ 20
+114926.2914
+ 10
+105930.3944
+ 20
+114926.3801
+  0
+LWPOLYLINE
+  5
+DA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.8489
+ 20
+114880.3656
+ 10
+105926.9503
+ 20
+114880.4152
+ 10
+105926.655
+ 20
+114874.636
+ 10
+105927.554
+ 20
+114874.5945
+ 10
+105927.8489
+ 20
+114880.3656
+  0
+LWPOLYLINE
+  5
+DB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105876.4408
+ 20
+114600.8473
+ 10
+105875.5914
+ 20
+114601.1449
+ 10
+105873.9381
+ 20
+114596.4261
+ 10
+105874.7875
+ 20
+114596.1285
+ 10
+105876.4408
+ 20
+114600.8473
+  0
+LWPOLYLINE
+  5
+DC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105831.5718
+ 20
+114337.1715
+ 10
+105830.9898
+ 20
+114330.2081
+ 10
+105831.9242
+ 20
+114330.1058
+ 10
+105832.4671
+ 20
+114337.0805
+ 10
+105831.5718
+ 20
+114337.1715
+  0
+LWPOLYLINE
+  5
+DD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105830.5205
+ 20
+114317.4873
+ 10
+105831.3643
+ 20
+114324.7067
+ 10
+105830.4692
+ 20
+114324.8005
+ 10
+105829.6312
+ 20
+114317.6254
+ 10
+105830.5205
+ 20
+114317.4873
+  0
+LWPOLYLINE
+  5
+DE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105823.8384
+ 20
+114289.6457
+ 10
+105825.4192
+ 20
+114294.4887
+ 10
+105824.5563
+ 20
+114294.7445
+ 10
+105823.002
+ 20
+114289.9783
+ 10
+105823.8384
+ 20
+114289.6457
+  0
+LWPOLYLINE
+  5
+DF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105810.0794
+ 20
+114260.9255
+ 10
+105806.977
+ 20
+114255.7899
+ 10
+105806.2066
+ 20
+114256.2552
+ 10
+105809.3091
+ 20
+114261.3909
+ 10
+105810.0794
+ 20
+114260.9255
+  0
+LWPOLYLINE
+  5
+E0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105788.9293
+ 20
+114226.3932
+ 10
+105785.2399
+ 20
+114220.4037
+ 10
+105784.4735
+ 20
+114220.8757
+ 10
+105788.1631
+ 20
+114226.8652
+ 10
+105788.9293
+ 20
+114226.3932
+  0
+LWPOLYLINE
+  5
+E1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105748.0884
+ 20
+114166.9543
+ 10
+105746.7264
+ 20
+114167.7931
+ 10
+105749.4532
+ 20
+114172.2208
+ 10
+105750.8155
+ 20
+114171.3816
+ 10
+105748.0884
+ 20
+114166.9543
+  0
+LWPOLYLINE
+  5
+E2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105743.8939
+ 20
+114163.1955
+ 10
+105741.1671
+ 20
+114158.7678
+ 10
+105742.5291
+ 20
+114157.9291
+ 10
+105745.2562
+ 20
+114162.3564
+ 10
+105743.8939
+ 20
+114163.1955
+  0
+LWPOLYLINE
+  5
+E3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105707.3188
+ 20
+114083.1856
+ 10
+105705.2634
+ 20
+114077.0392
+ 10
+105706.1232
+ 20
+114076.7731
+ 10
+105707.3523
+ 20
+114080.4963
+ 10
+105707.5
+ 20
+114081.0
+ 10
+105707.8984
+ 20
+114082.9913
+ 10
+105707.3188
+ 20
+114083.1856
+  0
+LWPOLYLINE
+  5
+E4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105701.4837
+ 20
+114064.009
+ 10
+105700.1893
+ 20
+114058.8772
+ 10
+105701.0641
+ 20
+114058.666
+ 10
+105702.3777
+ 20
+114063.8698
+ 10
+105701.4837
+ 20
+114064.009
+  0
+LWPOLYLINE
+  5
+E5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105698.0928
+ 20
+114044.7656
+ 10
+105697.3766
+ 20
+114039.9503
+ 10
+105696.4545
+ 20
+114040.0964
+ 10
+105697.2094
+ 20
+114044.9373
+ 10
+105698.0928
+ 20
+114044.7656
+  0
+LWPOLYLINE
+  5
+E6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105697.2833
+ 20
+114064.9434
+ 10
+105696.0138
+ 20
+114059.9008
+ 10
+105697.5646
+ 20
+114059.5105
+ 10
+105698.8272
+ 20
+114064.5231
+ 10
+105697.2833
+ 20
+114064.9434
+  0
+LWPOLYLINE
+  5
+E7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105691.0087
+ 20
+113961.5027
+ 10
+105690.5617
+ 20
+113953.6588
+ 10
+105689.6631
+ 20
+113953.71
+ 10
+105690.1101
+ 20
+113961.5539
+ 10
+105691.0087
+ 20
+113961.5027
+  0
+LWPOLYLINE
+  5
+E8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105684.9787
+ 20
+113887.1361
+ 10
+105684.0715
+ 20
+113880.1951
+ 10
+105683.1791
+ 20
+113880.3118
+ 10
+105684.0862
+ 20
+113887.2527
+ 10
+105684.9787
+ 20
+113887.1361
+  0
+LWPOLYLINE
+  5
+E9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105645.2616
+ 20
+113780.3822
+ 10
+105640.8896
+ 20
+113775.2973
+ 10
+105640.2071
+ 20
+113775.884
+ 10
+105644.5788
+ 20
+113780.9685
+ 10
+105645.2616
+ 20
+113780.3822
+  0
+LWPOLYLINE
+  5
+EA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105641.7461
+ 20
+113781.8165
+ 10
+105640.5314
+ 20
+113782.8578
+ 10
+105637.1421
+ 20
+113778.9141
+ 10
+105638.3552
+ 20
+113777.8716
+ 10
+105641.7461
+ 20
+113781.8165
+  0
+LWPOLYLINE
+  5
+EB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105636.6871
+ 20
+113771.7889
+ 10
+105632.7761
+ 20
+113767.2388
+ 10
+105633.4586
+ 20
+113766.6521
+ 10
+105637.3697
+ 20
+113771.2022
+ 10
+105636.6871
+ 20
+113771.7889
+  0
+LWPOLYLINE
+  5
+EC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105576.2842
+ 20
+113696.0584
+ 10
+105572.3557
+ 20
+113689.5685
+ 10
+105571.5715
+ 20
+113690.0101
+ 10
+105575.5
+ 20
+113696.5
+ 10
+105576.2842
+ 20
+113696.0584
+  0
+LWPOLYLINE
+  5
+ED
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105551.8141
+ 20
+113650.2984
+ 10
+105549.7103
+ 20
+113645.7625
+ 10
+105550.5268
+ 20
+113645.3839
+ 10
+105552.6305
+ 20
+113649.9197
+ 10
+105551.8141
+ 20
+113650.2984
+  0
+LWPOLYLINE
+  5
+EE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105529.7195
+ 20
+113600.4059
+ 10
+105525.9079
+ 20
+113592.2798
+ 10
+105525.0914
+ 20
+113592.6584
+ 10
+105528.9031
+ 20
+113600.7846
+ 10
+105529.7195
+ 20
+113600.4059
+  0
+LWPOLYLINE
+  5
+EF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105399.7156
+ 20
+113219.6036
+ 10
+105400.1517
+ 20
+113199.8281
+ 10
+105399.252
+ 20
+113199.8083
+ 10
+105398.8158
+ 20
+113219.5838
+ 10
+105399.7156
+ 20
+113219.6036
+  0
+LWPOLYLINE
+  5
+F0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.6384
+ 20
+113176.5224
+ 10
+105400.5
+ 20
+113162.0
+ 10
+105400.414
+ 20
+113159.1644
+ 10
+105399.5149
+ 20
+113159.2054
+ 10
+105399.7386
+ 20
+113176.5025
+ 10
+105400.6384
+ 20
+113176.5224
+  0
+LWPOLYLINE
+  5
+F1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.2364
+ 20
+113155.1469
+ 10
+105399.9315
+ 20
+113150.8333
+ 10
+105399.1464
+ 20
+113142.9518
+ 10
+105398.3516
+ 20
+113143.0292
+ 10
+105399.3328
+ 20
+113155.2096
+ 10
+105400.2364
+ 20
+113155.1469
+  0
+LWPOLYLINE
+  5
+F2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105370.6114
+ 20
+113035.1895
+ 10
+105369.7472
+ 20
+113035.4407
+ 10
+105370.9634
+ 20
+113039.9817
+ 10
+105371.9237
+ 20
+113039.7025
+ 10
+105370.6114
+ 20
+113035.1895
+  0
+LWPOLYLINE
+  5
+F3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105369.9133
+ 20
+113032.7889
+ 10
+105359.8617
+ 20
+112998.2206
+ 10
+105358.9975
+ 20
+112998.4719
+ 10
+105369.0491
+ 20
+113033.0402
+ 10
+105369.9133
+ 20
+113032.7889
+  0
+LWPOLYLINE
+  5
+F4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105339.7559
+ 20
+112944.1872
+ 10
+105338.3359
+ 20
+112939.1848
+ 10
+105338.913
+ 20
+112939.021
+ 10
+105340.3382
+ 20
+112943.9698
+ 10
+105339.7559
+ 20
+112944.1872
+  0
+LWPOLYLINE
+  5
+F5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105365.3828
+ 20
+112745.5896
+ 10
+105366.7944
+ 20
+112740.2738
+ 10
+105365.9246
+ 20
+112740.0428
+ 10
+105364.5129
+ 20
+112745.3586
+ 10
+105365.3828
+ 20
+112745.5896
+  0
+LWPOLYLINE
+  5
+F6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.2061
+ 20
+112734.9581
+ 10
+105367.3362
+ 20
+112734.7271
+ 10
+105370.3243
+ 20
+112723.5744
+ 10
+105371.1306
+ 20
+112723.8824
+ 10
+105368.2061
+ 20
+112734.9581
+  0
+LWPOLYLINE
+  5
+F7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105436.3702
+ 20
+111836.3507
+ 10
+105437.7182
+ 20
+111836.3687
+ 10
+105437.788
+ 20
+111831.1692
+ 10
+105436.4628
+ 20
+111831.1487
+ 10
+105436.3694
+ 20
+111836.3507
+ 10
+105436.3702
+ 20
+111836.3507
+  0
+LWPOLYLINE
+  5
+F8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.7755
+ 20
+113361.5188
+ 10
+105432.3759
+ 20
+113361.4665
+ 10
+105432.206
+ 20
+113356.2695
+ 10
+105430.6051
+ 20
+113356.2841
+ 10
+105430.7755
+ 20
+113361.5188
+  0
+LWPOLYLINE
+  5
+F9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105435.6055
+ 20
+113393.2268
+ 10
+105437.1595
+ 20
+113392.8391
+ 10
+105435.8999
+ 20
+113387.7936
+ 10
+105434.3338
+ 20
+113388.1228
+ 10
+105435.6055
+ 20
+113393.2268
+  0
+LWPOLYLINE
+  5
+FA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105593.5464
+ 20
+113678.8026
+ 10
+105594.5977
+ 20
+113678.2214
+ 10
+105592.0819
+ 20
+113673.6705
+ 10
+105591.0134
+ 20
+113674.2195
+ 10
+105593.5464
+ 20
+113678.8026
+  0
+LWPOLYLINE
+  5
+FB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105617.8671
+ 20
+113712.5521
+ 10
+105619.089
+ 20
+113711.4983
+ 10
+105615.6639
+ 20
+113707.5856
+ 10
+105614.4306
+ 20
+113708.6073
+ 10
+105617.8671
+ 20
+113712.5521
+  0
+LWPOLYLINE
+  5
+FC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105866.6772
+ 20
+114423.2124
+ 10
+105868.256
+ 20
+114422.9554
+ 10
+105867.4503
+ 20
+114418.0175
+ 10
+105865.8685
+ 20
+114418.2579
+ 10
+105866.6772
+ 20
+114423.2124
+  0
+LWPOLYLINE
+  5
+FD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.9408
+ 20
+114897.3332
+ 10
+105928.839
+ 20
+114897.2765
+ 10
+105928.5869
+ 20
+114893.0126
+ 10
+105927.6884
+ 20
+114893.0639
+ 10
+105927.9408
+ 20
+114897.3332
+  0
+LWPOLYLINE
+  5
+FE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.3944
+ 20
+114926.3801
+ 10
+105929.4156
+ 20
+114916.4281
+ 10
+105930.3177
+ 20
+114916.3394
+ 10
+105931.2965
+ 20
+114926.2914
+ 10
+105930.3944
+ 20
+114926.3801
+  0
+LWPOLYLINE
+  5
+FF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105876.4408
+ 20
+114600.8473
+ 10
+105875.5914
+ 20
+114601.1449
+ 10
+105873.9381
+ 20
+114596.4261
+ 10
+105874.7875
+ 20
+114596.1285
+ 10
+105876.4408
+ 20
+114600.8473
+  0
+LWPOLYLINE
+  5
+100
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105830.5205
+ 20
+114317.4873
+ 10
+105831.3643
+ 20
+114324.7067
+ 10
+105830.4692
+ 20
+114324.8005
+ 10
+105829.6312
+ 20
+114317.6254
+ 10
+105830.5205
+ 20
+114317.4873
+  0
+LWPOLYLINE
+  5
+101
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105788.9293
+ 20
+114226.3932
+ 10
+105785.2399
+ 20
+114220.4037
+ 10
+105784.4735
+ 20
+114220.8757
+ 10
+105788.1631
+ 20
+114226.8652
+ 10
+105788.9293
+ 20
+114226.3932
+  0
+LWPOLYLINE
+  5
+102
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105748.0884
+ 20
+114166.9543
+ 10
+105746.7264
+ 20
+114167.7931
+ 10
+105749.4532
+ 20
+114172.2208
+ 10
+105750.8155
+ 20
+114171.3816
+ 10
+105748.0884
+ 20
+114166.9543
+  0
+LWPOLYLINE
+  5
+103
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105721.7935
+ 20
+114115.0914
+ 10
+105718.9884
+ 20
+114109.3474
+ 10
+105718.1756
+ 20
+114109.7338
+ 10
+105720.9934
+ 20
+114115.5035
+ 10
+105721.7935
+ 20
+114115.0914
+  0
+LWPOLYLINE
+  5
+104
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105697.2833
+ 20
+114064.9434
+ 10
+105696.0138
+ 20
+114059.9008
+ 10
+105697.5646
+ 20
+114059.5105
+ 10
+105698.8272
+ 20
+114064.5231
+ 10
+105697.2833
+ 20
+114064.9434
+  0
+LWPOLYLINE
+  5
+105
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.8601
+ 20
+112718.4692
+ 10
+105369.6641
+ 20
+112715.5224
+ 10
+105367.973
+ 20
+112715.0734
+ 10
+105367.2658
+ 20
+112718.0458
+ 10
+105368.8601
+ 20
+112718.4692
+  0
+LWPOLYLINE
+  5
+106
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105382.0
+ 20
+112683.0
+ 10
+105386.1477
+ 20
+112667.3866
+ 10
+105385.277
+ 20
+112667.1587
+ 10
+105381.0
+ 20
+112683.0
+ 10
+105382.0
+ 20
+112683.0
+  0
+LWPOLYLINE
+  5
+107
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105378.5353
+ 20
+112682.0364
+ 10
+105379.8699
+ 20
+112677.0106
+ 10
+105378.276
+ 20
+112676.5873
+ 10
+105376.9414
+ 20
+112681.6131
+ 10
+105378.5353
+ 20
+112682.0364
+  0
+LWPOLYLINE
+  5
+108
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105388.9735
+ 20
+112656.5081
+ 10
+105387.5406
+ 20
+112662.0659
+ 10
+105386.6732
+ 20
+112661.8389
+ 10
+105388.0998
+ 20
+112656.2903
+ 10
+105388.9735
+ 20
+112656.5081
+  0
+LWPOLYLINE
+  5
+109
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105400.7943
+ 20
+112575.6397
+ 10
+105401.8617
+ 20
+112560.6777
+ 10
+105400.9669
+ 20
+112560.6139
+ 10
+105399.8995
+ 20
+112575.5759
+ 10
+105400.7943
+ 20
+112575.6397
+  0
+LWPOLYLINE
+  5
+10A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105403.72
+ 20
+112534.2814
+ 10
+105402.7826
+ 20
+112534.0652
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105403.72
+ 20
+112534.2814
+  0
+LWPOLYLINE
+  5
+10B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105406.8306
+ 20
+112488.9697
+ 10
+105405.9871
+ 20
+112488.8867
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+  0
+LWPOLYLINE
+  5
+10C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105425.3345
+ 20
+112305.3139
+ 10
+105426.2235
+ 20
+112305.454
+ 10
+105425.5167
+ 20
+112309.9229
+ 10
+105424.6277
+ 20
+112309.7823
+ 10
+105425.3345
+ 20
+112305.3139
+  0
+LWPOLYLINE
+  5
+10D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.8624
+ 20
+112231.3911
+ 10
+105427.9393
+ 20
+112226.1917
+ 10
+105426.7395
+ 20
+112226.1739
+ 10
+105426.5625
+ 20
+112231.3719
+ 10
+105427.8624
+ 20
+112231.3911
+  0
+LWPOLYLINE
+  5
+10E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105432.107
+ 20
+112178.5261
+ 10
+105432.0
+ 20
+112172.0
+ 10
+105431.7099
+ 20
+112161.1355
+ 10
+105430.8645
+ 20
+112161.1836
+ 10
+105431.0
+ 20
+112168.5
+ 10
+105431.1693
+ 20
+112178.504
+ 10
+105432.107
+ 20
+112178.5261
+  0
+LWPOLYLINE
+  5
+10F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+10
+ 70
+1
+ 10
+105431.5
+ 20
+112156.5
+ 10
+105431.0
+ 20
+112148.0
+ 10
+105430.0
+ 20
+112134.0
+ 10
+105429.8831
+ 20
+112132.4714
+ 10
+105428.9829
+ 20
+112132.5013
+ 10
+105429.5
+ 20
+112139.5
+ 10
+105430.0
+ 20
+112146.5
+ 10
+105430.5
+ 20
+112154.0
+ 10
+105430.4882
+ 20
+112156.5006
+ 10
+105431.5
+ 20
+112156.5
+  0
+LWPOLYLINE
+  5
+110
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105422.9038
+ 20
+112087.3165
+ 10
+105422.5169
+ 20
+112082.1309
+ 10
+105421.3202
+ 20
+112082.2202
+ 10
+105421.7072
+ 20
+112087.4058
+ 10
+105422.9038
+ 20
+112087.3165
+  0
+LWPOLYLINE
+  5
+111
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105419.1613
+ 20
+112037.1591
+ 10
+105418.7744
+ 20
+112031.9735
+ 10
+105417.0795
+ 20
+112032.1
+ 10
+105417.4516
+ 20
+112037.0861
+ 10
+105419.1613
+ 20
+112037.1591
+  0
+LWPOLYLINE
+  5
+112
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105417.8432
+ 20
+112019.4949
+ 10
+105417.4563
+ 20
+112014.3093
+ 10
+105415.8608
+ 20
+112014.4283
+ 10
+105416.2477
+ 20
+112019.6139
+ 10
+105417.8432
+ 20
+112019.4949
+  0
+LWPOLYLINE
+  5
+113
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105414.6561
+ 20
+111976.7804
+ 10
+105414.2618
+ 20
+111971.4959
+ 10
+105412.6741
+ 20
+111971.7144
+ 10
+105412.9613
+ 20
+111976.9074
+ 10
+105414.6561
+ 20
+111976.7804
+  0
+LWPOLYLINE
+  5
+114
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105346.2972
+ 20
+112964.4648
+ 10
+105347.7491
+ 20
+112969.4579
+ 10
+105346.7893
+ 20
+112969.737
+ 10
+105345.3374
+ 20
+112964.7438
+ 10
+105346.2972
+ 20
+112964.4648
+  0
+LWPOLYLINE
+  5
+115
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105548.6793
+ 20
+113649.9489
+ 10
+105546.4955
+ 20
+113645.2291
+ 10
+105545.0438
+ 20
+113645.9006
+ 10
+105547.2273
+ 20
+113650.6208
+ 10
+105548.6793
+ 20
+113649.9489
+  0
+LWPOLYLINE
+  5
+116
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105563.4445
+ 20
+113683.9788
+ 10
+105565.8899
+ 20
+113688.6798
+ 10
+105567.2777
+ 20
+113687.8867
+ 10
+105564.8067
+ 20
+113683.3489
+ 10
+105563.4445
+ 20
+113683.9788
+  0
+LWPOLYLINE
+  5
+117
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105569.9395
+ 20
+113692.5413
+ 10
+105572.6031
+ 20
+113696.9595
+ 10
+105571.2573
+ 20
+113697.8193
+ 10
+105568.4853
+ 20
+113693.4186
+ 10
+105569.9395
+ 20
+113692.5413
+  0
+LWPOLYLINE
+  5
+118
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105438.0374
+ 20
+111873.5265
+ 10
+105436.6378
+ 20
+111873.5498
+ 10
+105436.7973
+ 20
+111878.7596
+ 10
+105438.1686
+ 20
+111878.7249
+ 10
+105438.0369
+ 20
+111873.5257
+ 10
+105438.0374
+ 20
+111873.5265
+  0
+LWPOLYLINE
+  5
+119
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105441.2529
+ 20
+111953.6635
+ 10
+105442.8481
+ 20
+111953.5404
+ 10
+105442.4493
+ 20
+111948.3555
+ 10
+105440.854
+ 20
+111948.4774
+ 10
+105441.2529
+ 20
+111953.6635
+  0
+LWPOLYLINE
+  5
+11A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.5577
+ 20
+113350.855
+ 10
+105432.158
+ 20
+113350.8698
+ 10
+105432.2061
+ 20
+113345.67
+ 10
+105430.6065
+ 20
+113345.6335
+ 10
+105430.5577
+ 20
+113350.855
+  0
+LWPOLYLINE
+  5
+11B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105432.3105
+ 20
+113377.4978
+ 10
+105433.502
+ 20
+113377.3387
+ 10
+105432.8139
+ 20
+113372.1844
+ 10
+105431.6155
+ 20
+113372.2842
+ 10
+105432.3105
+ 20
+113377.4978
+  0
+LWPOLYLINE
+  5
+11C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105438.8058
+ 20
+113403.465
+ 10
+105440.3241
+ 20
+113402.9519
+ 10
+105438.6597
+ 20
+113398.0254
+ 10
+105437.1206
+ 20
+113398.4722
+ 10
+105438.8058
+ 20
+113403.465
+  0
+LWPOLYLINE
+  5
+11D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105612.0866
+ 20
+113705.8516
+ 10
+105613.3478
+ 20
+113704.8646
+ 10
+105610.1429
+ 20
+113700.7697
+ 10
+105608.8828
+ 20
+113701.756
+ 10
+105612.0866
+ 20
+113705.8516
+  0
+LWPOLYLINE
+  5
+11E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105749.9917
+ 20
+114111.6131
+ 10
+105752.4116
+ 20
+114116.2586
+ 10
+105753.8363
+ 20
+114115.5186
+ 10
+105751.44
+ 20
+114110.9037
+ 10
+105749.9917
+ 20
+114111.6131
+  0
+LWPOLYLINE
+  5
+11F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105954.3791
+ 20
+114848.2676
+ 10
+105955.08
+ 20
+114848.2429
+ 10
+105954.897
+ 20
+114843.0461
+ 10
+105954.1959
+ 20
+114843.0566
+ 10
+105954.3791
+ 20
+114848.2676
+  0
+LWPOLYLINE
+  5
+120
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.8489
+ 20
+114880.3656
+ 10
+105926.9503
+ 20
+114880.4152
+ 10
+105926.655
+ 20
+114874.636
+ 10
+105927.554
+ 20
+114874.5945
+ 10
+105927.8489
+ 20
+114880.3656
+  0
+LWPOLYLINE
+  5
+121
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105831.5718
+ 20
+114337.1715
+ 10
+105830.9898
+ 20
+114330.2081
+ 10
+105831.9242
+ 20
+114330.1058
+ 10
+105832.4671
+ 20
+114337.0805
+ 10
+105831.5718
+ 20
+114337.1715
+  0
+LWPOLYLINE
+  5
+122
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105823.8384
+ 20
+114289.6457
+ 10
+105825.4192
+ 20
+114294.4887
+ 10
+105824.5563
+ 20
+114294.7445
+ 10
+105823.002
+ 20
+114289.9783
+ 10
+105823.8384
+ 20
+114289.6457
+  0
+LWPOLYLINE
+  5
+123
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105810.0794
+ 20
+114260.9255
+ 10
+105806.977
+ 20
+114255.7899
+ 10
+105806.2066
+ 20
+114256.2552
+ 10
+105809.3091
+ 20
+114261.3909
+ 10
+105810.0794
+ 20
+114260.9255
+  0
+LWPOLYLINE
+  5
+124
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105750.5296
+ 20
+114164.0643
+ 10
+105746.8037
+ 20
+114158.0158
+ 10
+105746.0374
+ 20
+114158.4878
+ 10
+105749.7633
+ 20
+114164.5363
+ 10
+105750.5296
+ 20
+114164.0643
+  0
+LWPOLYLINE
+  5
+125
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105743.8939
+ 20
+114163.1955
+ 10
+105741.1671
+ 20
+114158.7678
+ 10
+105742.5291
+ 20
+114157.9291
+ 10
+105745.2562
+ 20
+114162.3564
+ 10
+105743.8939
+ 20
+114163.1955
+  0
+LWPOLYLINE
+  5
+126
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105707.3188
+ 20
+114083.1856
+ 10
+105705.2634
+ 20
+114077.0392
+ 10
+105706.1232
+ 20
+114076.7731
+ 10
+105707.3523
+ 20
+114080.4963
+ 10
+105707.5
+ 20
+114081.0
+ 10
+105707.8984
+ 20
+114082.9913
+ 10
+105707.3188
+ 20
+114083.1856
+  0
+LWPOLYLINE
+  5
+127
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105701.4837
+ 20
+114064.009
+ 10
+105700.1893
+ 20
+114058.8772
+ 10
+105701.0641
+ 20
+114058.666
+ 10
+105702.3777
+ 20
+114063.8698
+ 10
+105701.4837
+ 20
+114064.009
+  0
+LWPOLYLINE
+  5
+128
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105691.0087
+ 20
+113961.5027
+ 10
+105690.5617
+ 20
+113953.6588
+ 10
+105689.6631
+ 20
+113953.71
+ 10
+105690.1101
+ 20
+113961.5539
+ 10
+105691.0087
+ 20
+113961.5027
+  0
+LWPOLYLINE
+  5
+129
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105684.9787
+ 20
+113887.1361
+ 10
+105684.0715
+ 20
+113880.1951
+ 10
+105683.1791
+ 20
+113880.3118
+ 10
+105684.0862
+ 20
+113887.2527
+ 10
+105684.9787
+ 20
+113887.1361
+  0
+LWPOLYLINE
+  5
+12A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105645.2616
+ 20
+113780.3822
+ 10
+105640.8896
+ 20
+113775.2973
+ 10
+105640.2071
+ 20
+113775.884
+ 10
+105644.5788
+ 20
+113780.9685
+ 10
+105645.2616
+ 20
+113780.3822
+  0
+LWPOLYLINE
+  5
+12B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105641.7461
+ 20
+113781.8165
+ 10
+105640.5314
+ 20
+113782.8578
+ 10
+105637.1421
+ 20
+113778.9141
+ 10
+105638.3552
+ 20
+113777.8716
+ 10
+105641.7461
+ 20
+113781.8165
+  0
+LWPOLYLINE
+  5
+12C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105636.6871
+ 20
+113771.7889
+ 10
+105632.7761
+ 20
+113767.2388
+ 10
+105633.4586
+ 20
+113766.6521
+ 10
+105637.3697
+ 20
+113771.2022
+ 10
+105636.6871
+ 20
+113771.7889
+  0
+LWPOLYLINE
+  5
+12D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105561.4987
+ 20
+113668.8478
+ 10
+105558.5444
+ 20
+113662.6726
+ 10
+105557.728
+ 20
+113663.0512
+ 10
+105560.6955
+ 20
+113669.2412
+ 10
+105561.4987
+ 20
+113668.8478
+  0
+LWPOLYLINE
+  5
+12E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105551.8141
+ 20
+113650.2984
+ 10
+105549.7103
+ 20
+113645.7625
+ 10
+105550.5268
+ 20
+113645.3839
+ 10
+105552.6305
+ 20
+113649.9197
+ 10
+105551.8141
+ 20
+113650.2984
+  0
+LWPOLYLINE
+  5
+12F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105529.7195
+ 20
+113600.4059
+ 10
+105525.9079
+ 20
+113592.2798
+ 10
+105525.0914
+ 20
+113592.6584
+ 10
+105528.9031
+ 20
+113600.7846
+ 10
+105529.7195
+ 20
+113600.4059
+  0
+LWPOLYLINE
+  5
+130
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105523.6757
+ 20
+113595.9688
+ 10
+105522.5864
+ 20
+113596.4723
+ 10
+105520.3995
+ 20
+113591.7545
+ 10
+105521.4883
+ 20
+113591.2498
+ 10
+105523.6757
+ 20
+113595.9688
+  0
+LWPOLYLINE
+  5
+131
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105399.7156
+ 20
+113219.6036
+ 10
+105400.1517
+ 20
+113199.8281
+ 10
+105399.252
+ 20
+113199.8083
+ 10
+105398.8158
+ 20
+113219.5838
+ 10
+105399.7156
+ 20
+113219.6036
+  0
+LWPOLYLINE
+  5
+132
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.6384
+ 20
+113176.5224
+ 10
+105400.5
+ 20
+113162.0
+ 10
+105400.414
+ 20
+113159.1644
+ 10
+105399.5149
+ 20
+113159.2054
+ 10
+105399.7386
+ 20
+113176.5025
+ 10
+105400.6384
+ 20
+113176.5224
+  0
+LWPOLYLINE
+  5
+133
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.2364
+ 20
+113155.1469
+ 10
+105399.9315
+ 20
+113150.8333
+ 10
+105399.1464
+ 20
+113142.9518
+ 10
+105398.3516
+ 20
+113143.0292
+ 10
+105399.3328
+ 20
+113155.2096
+ 10
+105400.2364
+ 20
+113155.1469
+  0
+LWPOLYLINE
+  5
+134
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105370.6114
+ 20
+113035.1895
+ 10
+105369.7472
+ 20
+113035.4407
+ 10
+105370.9634
+ 20
+113039.9817
+ 10
+105371.9237
+ 20
+113039.7025
+ 10
+105370.6114
+ 20
+113035.1895
+  0
+LWPOLYLINE
+  5
+135
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105369.9133
+ 20
+113032.7889
+ 10
+105359.8617
+ 20
+112998.2206
+ 10
+105358.9975
+ 20
+112998.4719
+ 10
+105369.0491
+ 20
+113033.0402
+ 10
+105369.9133
+ 20
+113032.7889
+  0
+LWPOLYLINE
+  5
+136
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105356.376
+ 20
+112986.233
+ 10
+105349.5308
+ 20
+112962.6921
+ 10
+105348.6666
+ 20
+112962.9434
+ 10
+105355.5118
+ 20
+112986.4843
+ 10
+105356.376
+ 20
+112986.233
+  0
+LWPOLYLINE
+  5
+137
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105348.9724
+ 20
+112960.7717
+ 10
+105341.7982
+ 20
+112936.0446
+ 10
+105340.8433
+ 20
+112936.262
+ 10
+105348.1082
+ 20
+112961.023
+ 10
+105348.9724
+ 20
+112960.7717
+  0
+LWPOLYLINE
+  5
+138
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105339.7559
+ 20
+112944.1872
+ 10
+105338.3359
+ 20
+112939.1848
+ 10
+105338.913
+ 20
+112939.021
+ 10
+105340.3382
+ 20
+112943.9698
+ 10
+105339.7559
+ 20
+112944.1872
+  0
+LWPOLYLINE
+  5
+139
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105365.3828
+ 20
+112745.5896
+ 10
+105366.7944
+ 20
+112740.2738
+ 10
+105365.9246
+ 20
+112740.0428
+ 10
+105364.5129
+ 20
+112745.3586
+ 10
+105365.3828
+ 20
+112745.5896
+  0
+LWPOLYLINE
+  5
+13A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.2061
+ 20
+112734.9581
+ 10
+105367.3362
+ 20
+112734.7271
+ 10
+105370.3243
+ 20
+112723.5744
+ 10
+105371.1306
+ 20
+112723.8824
+ 10
+105368.2061
+ 20
+112734.9581
+  0
+LWPOLYLINE
+  5
+13B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.8601
+ 20
+112718.4692
+ 10
+105369.6641
+ 20
+112715.5224
+ 10
+105367.973
+ 20
+112715.0734
+ 10
+105367.2658
+ 20
+112718.0458
+ 10
+105368.8601
+ 20
+112718.4692
+  0
+LWPOLYLINE
+  5
+13C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105382.0
+ 20
+112683.0
+ 10
+105386.1477
+ 20
+112667.3866
+ 10
+105385.277
+ 20
+112667.1587
+ 10
+105381.0
+ 20
+112683.0
+ 10
+105382.0
+ 20
+112683.0
+  0
+LWPOLYLINE
+  5
+13D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105378.5353
+ 20
+112682.0364
+ 10
+105379.8699
+ 20
+112677.0106
+ 10
+105378.276
+ 20
+112676.5873
+ 10
+105376.9414
+ 20
+112681.6131
+ 10
+105378.5353
+ 20
+112682.0364
+  0
+LWPOLYLINE
+  5
+13E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105388.9735
+ 20
+112656.5081
+ 10
+105387.5406
+ 20
+112662.0659
+ 10
+105386.6732
+ 20
+112661.8389
+ 10
+105388.0998
+ 20
+112656.2903
+ 10
+105388.9735
+ 20
+112656.5081
+  0
+LWPOLYLINE
+  5
+13F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105400.7943
+ 20
+112575.6397
+ 10
+105401.8617
+ 20
+112560.6777
+ 10
+105400.9669
+ 20
+112560.6139
+ 10
+105399.8995
+ 20
+112575.5759
+ 10
+105400.7943
+ 20
+112575.6397
+  0
+LWPOLYLINE
+  5
+140
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105403.72
+ 20
+112534.2814
+ 10
+105402.7826
+ 20
+112534.0652
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105403.72
+ 20
+112534.2814
+  0
+LWPOLYLINE
+  5
+141
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105406.8306
+ 20
+112488.9697
+ 10
+105405.9871
+ 20
+112488.8867
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+  0
+LWPOLYLINE
+  5
+142
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105415.8674
+ 20
+112371.2304
+ 10
+105418.212
+ 20
+112356.1063
+ 10
+105417.3231
+ 20
+112355.9657
+ 10
+105414.9755
+ 20
+112371.1095
+ 10
+105415.8674
+ 20
+112371.2304
+  0
+LWPOLYLINE
+  5
+143
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105425.3345
+ 20
+112305.3139
+ 10
+105426.2235
+ 20
+112305.454
+ 10
+105425.5167
+ 20
+112309.9229
+ 10
+105424.6277
+ 20
+112309.7823
+ 10
+105425.3345
+ 20
+112305.3139
+  0
+LWPOLYLINE
+  5
+144
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.8624
+ 20
+112231.3911
+ 10
+105427.9393
+ 20
+112226.1917
+ 10
+105426.7395
+ 20
+112226.1739
+ 10
+105426.5625
+ 20
+112231.3719
+ 10
+105427.8624
+ 20
+112231.3911
+  0
+LWPOLYLINE
+  5
+145
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105432.107
+ 20
+112178.5261
+ 10
+105432.0
+ 20
+112172.0
+ 10
+105431.7099
+ 20
+112161.1355
+ 10
+105430.8645
+ 20
+112161.1836
+ 10
+105431.0
+ 20
+112168.5
+ 10
+105431.1693
+ 20
+112178.504
+ 10
+105432.107
+ 20
+112178.5261
+  0
+LWPOLYLINE
+  5
+146
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.3069
+ 20
+112146.5078
+ 10
+105426.9258
+ 20
+112141.2179
+ 10
+105425.8416
+ 20
+112141.2591
+ 10
+105426.1344
+ 20
+112146.575
+ 10
+105427.3069
+ 20
+112146.5078
+  0
+LWPOLYLINE
+  5
+147
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105428.7216
+ 20
+112116.904
+ 10
+105427.3074
+ 20
+112097.9183
+ 10
+105426.4074
+ 20
+112097.9854
+ 10
+105427.8236
+ 20
+112116.9647
+ 10
+105428.7216
+ 20
+112116.904
+  0
+LWPOLYLINE
+  5
+148
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105422.9038
+ 20
+112087.3165
+ 10
+105422.5169
+ 20
+112082.1309
+ 10
+105421.3202
+ 20
+112082.2202
+ 10
+105421.7072
+ 20
+112087.4058
+ 10
+105422.9038
+ 20
+112087.3165
+  0
+LWPOLYLINE
+  5
+149
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105419.1613
+ 20
+112037.1591
+ 10
+105418.7744
+ 20
+112031.9735
+ 10
+105417.0795
+ 20
+112032.1
+ 10
+105417.4516
+ 20
+112037.0861
+ 10
+105419.1613
+ 20
+112037.1591
+  0
+LWPOLYLINE
+  5
+14A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105417.8432
+ 20
+112019.4949
+ 10
+105417.4563
+ 20
+112014.3093
+ 10
+105415.8608
+ 20
+112014.4283
+ 10
+105416.2477
+ 20
+112019.6139
+ 10
+105417.8432
+ 20
+112019.4949
+  0
+LWPOLYLINE
+  5
+14B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+19
+ 70
+1
+ 10
+105410.0
+ 20
+111845.4351
+ 10
+105410.0
+ 20
+111835.0
+ 10
+105410.0
+ 20
+111832.0
+ 10
+105410.5
+ 20
+111818.5
+ 10
+105411.0
+ 20
+111812.5
+ 10
+105411.5
+ 20
+111805.0
+ 10
+105412.0
+ 20
+111799.5
+ 10
+105412.1842
+ 20
+111796.6012
+ 10
+105411.2934
+ 20
+111796.5335
+ 10
+105411.0263
+ 20
+111800.826
+ 10
+105410.5098
+ 20
+111807.0007
+ 10
+105409.9626
+ 20
+111813.4976
+ 10
+105409.4975
+ 20
+111822.9999
+ 10
+105408.9861
+ 20
+111832.3666
+ 10
+105408.9853
+ 20
+111835.6494
+ 10
+105409.0
+ 20
+111837.0
+ 10
+105409.0
+ 20
+111840.5
+ 10
+105409.0
+ 20
+111845.4351
+ 10
+105410.0
+ 20
+111845.4351
+  0
+LWPOLYLINE
+  5
+14C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105414.6561
+ 20
+111976.7804
+ 10
+105414.2618
+ 20
+111971.4959
+ 10
+105412.6741
+ 20
+111971.7144
+ 10
+105412.9613
+ 20
+111976.9074
+ 10
+105414.6561
+ 20
+111976.7804
+  0
+LWPOLYLINE
+  5
+14D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105346.2972
+ 20
+112964.4648
+ 10
+105347.7491
+ 20
+112969.4579
+ 10
+105346.7893
+ 20
+112969.737
+ 10
+105345.3374
+ 20
+112964.7438
+ 10
+105346.2972
+ 20
+112964.4648
+  0
+LWPOLYLINE
+  5
+14E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105548.6793
+ 20
+113649.9489
+ 10
+105546.4955
+ 20
+113645.2291
+ 10
+105545.0438
+ 20
+113645.9006
+ 10
+105547.2273
+ 20
+113650.6208
+ 10
+105548.6793
+ 20
+113649.9489
+  0
+LWPOLYLINE
+  5
+14F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105563.4445
+ 20
+113683.9788
+ 10
+105565.8899
+ 20
+113688.6798
+ 10
+105567.2777
+ 20
+113687.8867
+ 10
+105564.8067
+ 20
+113683.3489
+ 10
+105563.4445
+ 20
+113683.9788
+  0
+LWPOLYLINE
+  5
+150
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105569.9395
+ 20
+113692.5413
+ 10
+105572.6031
+ 20
+113696.9595
+ 10
+105571.2573
+ 20
+113697.8193
+ 10
+105568.4853
+ 20
+113693.4186
+ 10
+105569.9395
+ 20
+113692.5413
+  0
+LWPOLYLINE
+  5
+151
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105561.4987
+ 20
+113668.8478
+ 10
+105558.5444
+ 20
+113662.6726
+ 10
+105557.728
+ 20
+113663.0512
+ 10
+105560.6955
+ 20
+113669.2412
+ 10
+105561.4987
+ 20
+113668.8478
+  0
+LWPOLYLINE
+  5
+152
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105356.3699
+ 20
+112986.2349
+ 10
+105349.5308
+ 20
+112962.6921
+ 10
+105348.6666
+ 20
+112962.9434
+ 10
+105355.5057
+ 20
+112986.4862
+ 10
+105356.3699
+ 20
+112986.2349
+  0
+LWPOLYLINE
+  5
+153
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105415.8674
+ 20
+112371.2304
+ 10
+105418.212
+ 20
+112356.1063
+ 10
+105417.3231
+ 20
+112355.9657
+ 10
+105414.9755
+ 20
+112371.1095
+ 10
+105415.8674
+ 20
+112371.2304
+  0
+LWPOLYLINE
+  5
+154
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105437.1259
+ 20
+111809.8485
+ 10
+105438.8076
+ 20
+111809.9157
+ 10
+105439.0148
+ 20
+111804.7319
+ 10
+105437.3509
+ 20
+111804.6552
+ 10
+105437.1263
+ 20
+111809.8485
+ 10
+105437.1259
+ 20
+111809.8485
+  0
+LWPOLYLINE
+  5
+155
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105436.7433
+ 20
+111820.4192
+ 10
+105438.4338
+ 20
+111820.4907
+ 10
+105438.6093
+ 20
+111815.3021
+ 10
+105436.9191
+ 20
+111815.2504
+ 10
+105436.7433
+ 20
+111820.4192
+  0
+LWPOLYLINE
+  5
+156
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105436.3702
+ 20
+111836.3507
+ 10
+105437.7182
+ 20
+111836.3687
+ 10
+105437.788
+ 20
+111831.1692
+ 10
+105436.4628
+ 20
+111831.1487
+ 10
+105436.3694
+ 20
+111836.3507
+ 10
+105436.3702
+ 20
+111836.3507
+  0
+LWPOLYLINE
+  5
+157
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105438.0374
+ 20
+111873.5265
+ 10
+105436.6378
+ 20
+111873.5498
+ 10
+105436.7973
+ 20
+111878.7596
+ 10
+105438.1686
+ 20
+111878.7249
+ 10
+105438.0369
+ 20
+111873.5257
+ 10
+105438.0374
+ 20
+111873.5265
+  0
+LWPOLYLINE
+  5
+158
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105441.2529
+ 20
+111953.6635
+ 10
+105442.8481
+ 20
+111953.5404
+ 10
+105442.4493
+ 20
+111948.3555
+ 10
+105440.854
+ 20
+111948.4774
+ 10
+105441.2529
+ 20
+111953.6635
+  0
+LWPOLYLINE
+  5
+159
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.5577
+ 20
+113350.855
+ 10
+105432.158
+ 20
+113350.8698
+ 10
+105432.2061
+ 20
+113345.67
+ 10
+105430.6065
+ 20
+113345.6335
+ 10
+105430.5577
+ 20
+113350.855
+  0
+LWPOLYLINE
+  5
+15A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.7755
+ 20
+113361.5188
+ 10
+105432.3759
+ 20
+113361.4665
+ 10
+105432.206
+ 20
+113356.2695
+ 10
+105430.6051
+ 20
+113356.2841
+ 10
+105430.7755
+ 20
+113361.5188
+  0
+LWPOLYLINE
+  5
+15B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105432.3105
+ 20
+113377.4978
+ 10
+105433.502
+ 20
+113377.3387
+ 10
+105432.8139
+ 20
+113372.1844
+ 10
+105431.6155
+ 20
+113372.2842
+ 10
+105432.3105
+ 20
+113377.4978
+  0
+LWPOLYLINE
+  5
+15C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105435.6055
+ 20
+113393.2268
+ 10
+105437.1595
+ 20
+113392.8391
+ 10
+105435.8999
+ 20
+113387.7936
+ 10
+105434.3338
+ 20
+113388.1228
+ 10
+105435.6055
+ 20
+113393.2268
+  0
+LWPOLYLINE
+  5
+15D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105438.8058
+ 20
+113403.465
+ 10
+105440.3241
+ 20
+113402.9519
+ 10
+105438.6597
+ 20
+113398.0254
+ 10
+105437.1206
+ 20
+113398.4722
+ 10
+105438.8058
+ 20
+113403.465
+  0
+LWPOLYLINE
+  5
+15E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105593.5464
+ 20
+113678.8026
+ 10
+105594.5977
+ 20
+113678.2214
+ 10
+105592.0819
+ 20
+113673.6705
+ 10
+105591.0134
+ 20
+113674.2195
+ 10
+105593.5464
+ 20
+113678.8026
+  0
+LWPOLYLINE
+  5
+15F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105612.0865
+ 20
+113705.8517
+ 10
+105613.3477
+ 20
+113704.8647
+ 10
+105610.1427
+ 20
+113700.7698
+ 10
+105608.8827
+ 20
+113701.7561
+ 10
+105612.0865
+ 20
+113705.8517
+  0
+LWPOLYLINE
+  5
+160
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105617.8671
+ 20
+113712.5521
+ 10
+105619.089
+ 20
+113711.4983
+ 10
+105615.6639
+ 20
+113707.5856
+ 10
+105614.4306
+ 20
+113708.6073
+ 10
+105617.8671
+ 20
+113712.5521
+  0
+LWPOLYLINE
+  5
+161
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105749.9917
+ 20
+114111.6131
+ 10
+105752.4116
+ 20
+114116.2586
+ 10
+105753.8363
+ 20
+114115.5186
+ 10
+105751.44
+ 20
+114110.9037
+ 10
+105749.9917
+ 20
+114111.6131
+  0
+LWPOLYLINE
+  5
+162
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105954.3791
+ 20
+114848.2676
+ 10
+105955.08
+ 20
+114848.2429
+ 10
+105954.897
+ 20
+114843.0461
+ 10
+105954.1959
+ 20
+114843.0566
+ 10
+105954.3791
+ 20
+114848.2676
+  0
+LWPOLYLINE
+  5
+163
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105692.4763
+ 20
+114042.7119
+ 10
+105694.0472
+ 20
+114042.4146
+ 10
+105693.1879
+ 20
+114037.3185
+ 10
+105691.6116
+ 20
+114037.5843
+ 10
+105692.4763
+ 20
+114042.7119
+  0
+LWPOLYLINE
+  5
+164
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.3944
+ 20
+114926.3801
+ 10
+105929.4156
+ 20
+114916.4281
+ 10
+105930.3177
+ 20
+114916.3394
+ 10
+105931.2965
+ 20
+114926.2914
+ 10
+105930.3944
+ 20
+114926.3801
+  0
+LWPOLYLINE
+  5
+165
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.8489
+ 20
+114880.3656
+ 10
+105926.9503
+ 20
+114880.4152
+ 10
+105926.655
+ 20
+114874.636
+ 10
+105927.554
+ 20
+114874.5945
+ 10
+105927.8489
+ 20
+114880.3656
+  0
+LWPOLYLINE
+  5
+166
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105876.4408
+ 20
+114600.8473
+ 10
+105875.5914
+ 20
+114601.1449
+ 10
+105873.9381
+ 20
+114596.4261
+ 10
+105874.7875
+ 20
+114596.1285
+ 10
+105876.4408
+ 20
+114600.8473
+  0
+LWPOLYLINE
+  5
+167
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105831.5718
+ 20
+114337.1715
+ 10
+105830.9898
+ 20
+114330.2081
+ 10
+105831.9242
+ 20
+114330.1058
+ 10
+105832.4671
+ 20
+114337.0805
+ 10
+105831.5718
+ 20
+114337.1715
+  0
+LWPOLYLINE
+  5
+168
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105830.5205
+ 20
+114317.4873
+ 10
+105831.3643
+ 20
+114324.7067
+ 10
+105830.4692
+ 20
+114324.8005
+ 10
+105829.6312
+ 20
+114317.6254
+ 10
+105830.5205
+ 20
+114317.4873
+  0
+LWPOLYLINE
+  5
+169
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105823.8384
+ 20
+114289.6457
+ 10
+105825.4192
+ 20
+114294.4887
+ 10
+105824.5563
+ 20
+114294.7445
+ 10
+105823.002
+ 20
+114289.9783
+ 10
+105823.8384
+ 20
+114289.6457
+  0
+LWPOLYLINE
+  5
+16A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105810.0794
+ 20
+114260.9255
+ 10
+105806.977
+ 20
+114255.7899
+ 10
+105806.2066
+ 20
+114256.2552
+ 10
+105809.3091
+ 20
+114261.3909
+ 10
+105810.0794
+ 20
+114260.9255
+  0
+LWPOLYLINE
+  5
+16B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105788.9293
+ 20
+114226.3932
+ 10
+105785.2399
+ 20
+114220.4037
+ 10
+105784.4735
+ 20
+114220.8757
+ 10
+105788.1631
+ 20
+114226.8652
+ 10
+105788.9293
+ 20
+114226.3932
+  0
+LWPOLYLINE
+  5
+16C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105748.0884
+ 20
+114166.9543
+ 10
+105746.7264
+ 20
+114167.7931
+ 10
+105749.4532
+ 20
+114172.2208
+ 10
+105750.8155
+ 20
+114171.3816
+ 10
+105748.0884
+ 20
+114166.9543
+  0
+LWPOLYLINE
+  5
+16D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105743.8939
+ 20
+114163.1955
+ 10
+105741.1671
+ 20
+114158.7678
+ 10
+105742.5291
+ 20
+114157.9291
+ 10
+105745.2562
+ 20
+114162.3564
+ 10
+105743.8939
+ 20
+114163.1955
+  0
+LWPOLYLINE
+  5
+16E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105707.3188
+ 20
+114083.1856
+ 10
+105705.2634
+ 20
+114077.0392
+ 10
+105706.1232
+ 20
+114076.7731
+ 10
+105707.3523
+ 20
+114080.4963
+ 10
+105707.5
+ 20
+114081.0
+ 10
+105707.8984
+ 20
+114082.9913
+ 10
+105707.3188
+ 20
+114083.1856
+  0
+LWPOLYLINE
+  5
+16F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105701.4837
+ 20
+114064.009
+ 10
+105700.1893
+ 20
+114058.8772
+ 10
+105701.0641
+ 20
+114058.666
+ 10
+105702.3777
+ 20
+114063.8698
+ 10
+105701.4837
+ 20
+114064.009
+  0
+LWPOLYLINE
+  5
+170
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105698.0928
+ 20
+114044.7656
+ 10
+105697.3766
+ 20
+114039.9503
+ 10
+105696.4545
+ 20
+114040.0964
+ 10
+105697.2094
+ 20
+114044.9373
+ 10
+105698.0928
+ 20
+114044.7656
+  0
+LWPOLYLINE
+  5
+171
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105697.2833
+ 20
+114064.9434
+ 10
+105696.0138
+ 20
+114059.9008
+ 10
+105697.5646
+ 20
+114059.5105
+ 10
+105698.8272
+ 20
+114064.5231
+ 10
+105697.2833
+ 20
+114064.9434
+  0
+LWPOLYLINE
+  5
+172
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105691.0087
+ 20
+113961.5027
+ 10
+105690.5617
+ 20
+113953.6588
+ 10
+105689.6631
+ 20
+113953.71
+ 10
+105690.1101
+ 20
+113961.5539
+ 10
+105691.0087
+ 20
+113961.5027
+  0
+LWPOLYLINE
+  5
+173
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105684.9787
+ 20
+113887.1361
+ 10
+105684.0715
+ 20
+113880.1951
+ 10
+105683.1791
+ 20
+113880.3118
+ 10
+105684.0862
+ 20
+113887.2527
+ 10
+105684.9787
+ 20
+113887.1361
+  0
+LWPOLYLINE
+  5
+174
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105645.2616
+ 20
+113780.3822
+ 10
+105640.8896
+ 20
+113775.2973
+ 10
+105640.2071
+ 20
+113775.884
+ 10
+105644.5788
+ 20
+113780.9685
+ 10
+105645.2616
+ 20
+113780.3822
+  0
+LWPOLYLINE
+  5
+175
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105641.7461
+ 20
+113781.8165
+ 10
+105640.5314
+ 20
+113782.8578
+ 10
+105637.1421
+ 20
+113778.9141
+ 10
+105638.3552
+ 20
+113777.8716
+ 10
+105641.7461
+ 20
+113781.8165
+  0
+LWPOLYLINE
+  5
+176
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105636.6871
+ 20
+113771.7889
+ 10
+105632.7761
+ 20
+113767.2388
+ 10
+105633.4586
+ 20
+113766.6521
+ 10
+105637.3697
+ 20
+113771.2022
+ 10
+105636.6871
+ 20
+113771.7889
+  0
+LWPOLYLINE
+  5
+177
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105576.2842
+ 20
+113696.0584
+ 10
+105572.3557
+ 20
+113689.5685
+ 10
+105571.5715
+ 20
+113690.0101
+ 10
+105575.5
+ 20
+113696.5
+ 10
+105576.2842
+ 20
+113696.0584
+  0
+LWPOLYLINE
+  5
+178
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105551.8141
+ 20
+113650.2984
+ 10
+105549.7103
+ 20
+113645.7625
+ 10
+105550.5268
+ 20
+113645.3839
+ 10
+105552.6305
+ 20
+113649.9197
+ 10
+105551.8141
+ 20
+113650.2984
+  0
+LWPOLYLINE
+  5
+179
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105529.7195
+ 20
+113600.4059
+ 10
+105525.9079
+ 20
+113592.2798
+ 10
+105525.0914
+ 20
+113592.6584
+ 10
+105528.9031
+ 20
+113600.7846
+ 10
+105529.7195
+ 20
+113600.4059
+  0
+LWPOLYLINE
+  5
+17A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105399.7156
+ 20
+113219.6036
+ 10
+105400.1517
+ 20
+113199.8281
+ 10
+105399.252
+ 20
+113199.8083
+ 10
+105398.8158
+ 20
+113219.5838
+ 10
+105399.7156
+ 20
+113219.6036
+  0
+LWPOLYLINE
+  5
+17B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.6384
+ 20
+113176.5224
+ 10
+105400.5
+ 20
+113162.0
+ 10
+105400.414
+ 20
+113159.1644
+ 10
+105399.5149
+ 20
+113159.2054
+ 10
+105399.7386
+ 20
+113176.5025
+ 10
+105400.6384
+ 20
+113176.5224
+  0
+LWPOLYLINE
+  5
+17C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.2364
+ 20
+113155.1469
+ 10
+105399.9315
+ 20
+113150.8333
+ 10
+105399.1464
+ 20
+113142.9518
+ 10
+105398.3516
+ 20
+113143.0292
+ 10
+105399.3328
+ 20
+113155.2096
+ 10
+105400.2364
+ 20
+113155.1469
+  0
+LWPOLYLINE
+  5
+17D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+16
+ 70
+1
+ 10
+105385.6476
+ 20
+113086.8019
+ 10
+105386.0
+ 20
+113088.0
+ 10
+105388.0
+ 20
+113095.0
+ 10
+105390.0
+ 20
+113102.0
+ 10
+105391.0
+ 20
+113105.5
+ 10
+105392.0
+ 20
+113109.0
+ 10
+105392.5209
+ 20
+113111.0646
+ 10
+105391.6808
+ 20
+113111.2899
+ 10
+105390.3599
+ 20
+113106.4845
+ 10
+105389.4924
+ 20
+113103.4115
+ 10
+105388.5
+ 20
+113100.0
+ 10
+105387.5
+ 20
+113096.5
+ 10
+105386.5
+ 20
+113093.0
+ 10
+105385.0
+ 20
+113088.0
+ 10
+105384.7336
+ 20
+113087.0675
+ 10
+105385.6476
+ 20
+113086.8019
+  0
+LWPOLYLINE
+  5
+17E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+13
+ 70
+1
+ 10
+105383.983
+ 20
+113084.4406
+ 10
+105382.0
+ 20
+113077.5
+ 10
+105380.5
+ 20
+113072.5
+ 10
+105378.5
+ 20
+113065.5
+ 10
+105377.0
+ 20
+113060.5
+ 10
+105375.4308
+ 20
+113055.3454
+ 10
+105376.3911
+ 20
+113055.0662
+ 10
+105379.0
+ 20
+113064.0
+ 10
+105381.0
+ 20
+113071.0
+ 10
+105382.5
+ 20
+113076.0
+ 10
+105383.5
+ 20
+113079.5
+ 10
+105384.8809
+ 20
+113084.195
+ 10
+105383.983
+ 20
+113084.4406
+  0
+LWPOLYLINE
+  5
+17F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105370.6114
+ 20
+113035.1895
+ 10
+105369.7472
+ 20
+113035.4407
+ 10
+105370.9634
+ 20
+113039.9817
+ 10
+105371.9237
+ 20
+113039.7025
+ 10
+105370.6114
+ 20
+113035.1895
+  0
+LWPOLYLINE
+  5
+180
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105369.9133
+ 20
+113032.7889
+ 10
+105359.8617
+ 20
+112998.2206
+ 10
+105358.9975
+ 20
+112998.4719
+ 10
+105369.0491
+ 20
+113033.0402
+ 10
+105369.9133
+ 20
+113032.7889
+  0
+LWPOLYLINE
+  5
+181
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105339.7559
+ 20
+112944.1872
+ 10
+105338.3359
+ 20
+112939.1848
+ 10
+105338.913
+ 20
+112939.021
+ 10
+105340.3382
+ 20
+112943.9698
+ 10
+105339.7559
+ 20
+112944.1872
+  0
+LWPOLYLINE
+  5
+182
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105365.3828
+ 20
+112745.5896
+ 10
+105366.7944
+ 20
+112740.2738
+ 10
+105365.9246
+ 20
+112740.0428
+ 10
+105364.5129
+ 20
+112745.3586
+ 10
+105365.3828
+ 20
+112745.5896
+  0
+LWPOLYLINE
+  5
+183
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.2061
+ 20
+112734.9581
+ 10
+105367.3362
+ 20
+112734.7271
+ 10
+105370.3243
+ 20
+112723.5744
+ 10
+105371.1306
+ 20
+112723.8824
+ 10
+105368.2061
+ 20
+112734.9581
+  0
+LWPOLYLINE
+  5
+184
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105436.3702
+ 20
+111836.3507
+ 10
+105437.7182
+ 20
+111836.3687
+ 10
+105437.788
+ 20
+111831.1692
+ 10
+105436.4628
+ 20
+111831.1487
+ 10
+105436.3694
+ 20
+111836.3507
+ 10
+105436.3702
+ 20
+111836.3507
+  0
+LWPOLYLINE
+  5
+185
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105438.4667
+ 20
+111914.553
+ 10
+105438.8192
+ 20
+111919.744
+ 10
+105440.0159
+ 20
+111919.6602
+ 10
+105439.6529
+ 20
+111914.4729
+ 10
+105438.4668
+ 20
+111914.5549
+ 10
+105438.4667
+ 20
+111914.553
+  0
+LWPOLYLINE
+  5
+186
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.7755
+ 20
+113361.5188
+ 10
+105432.3759
+ 20
+113361.4665
+ 10
+105432.206
+ 20
+113356.2695
+ 10
+105430.6051
+ 20
+113356.2841
+ 10
+105430.7755
+ 20
+113361.5188
+  0
+LWPOLYLINE
+  5
+187
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105435.6055
+ 20
+113393.2268
+ 10
+105437.1595
+ 20
+113392.8391
+ 10
+105435.8999
+ 20
+113387.7936
+ 10
+105434.3338
+ 20
+113388.1228
+ 10
+105435.6055
+ 20
+113393.2268
+  0
+LWPOLYLINE
+  5
+188
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105593.5464
+ 20
+113678.8026
+ 10
+105594.5977
+ 20
+113678.2214
+ 10
+105592.0819
+ 20
+113673.6705
+ 10
+105591.0134
+ 20
+113674.2195
+ 10
+105593.5464
+ 20
+113678.8026
+  0
+LWPOLYLINE
+  5
+189
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105617.8671
+ 20
+113712.5521
+ 10
+105619.089
+ 20
+113711.4983
+ 10
+105615.6639
+ 20
+113707.5856
+ 10
+105614.4306
+ 20
+113708.6073
+ 10
+105617.8671
+ 20
+113712.5521
+  0
+LWPOLYLINE
+  5
+18A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105866.6772
+ 20
+114423.2124
+ 10
+105868.256
+ 20
+114422.9554
+ 10
+105867.4503
+ 20
+114418.0175
+ 10
+105865.8685
+ 20
+114418.2579
+ 10
+105866.6772
+ 20
+114423.2124
+  0
+LWPOLYLINE
+  5
+18B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.9408
+ 20
+114897.3332
+ 10
+105928.839
+ 20
+114897.2765
+ 10
+105928.5869
+ 20
+114893.0126
+ 10
+105927.6884
+ 20
+114893.0639
+ 10
+105927.9408
+ 20
+114897.3332
+  0
+LWPOLYLINE
+  5
+18C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105930.3944
+ 20
+114926.3801
+ 10
+105929.4156
+ 20
+114916.4281
+ 10
+105930.3177
+ 20
+114916.3394
+ 10
+105931.2965
+ 20
+114926.2914
+ 10
+105930.3944
+ 20
+114926.3801
+  0
+LWPOLYLINE
+  5
+18D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105876.4408
+ 20
+114600.8473
+ 10
+105875.5914
+ 20
+114601.1449
+ 10
+105873.9381
+ 20
+114596.4261
+ 10
+105874.7875
+ 20
+114596.1285
+ 10
+105876.4408
+ 20
+114600.8473
+  0
+LWPOLYLINE
+  5
+18E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105835.4086
+ 20
+114370.325
+ 10
+105834.5114
+ 20
+114370.3963
+ 10
+105834.165
+ 20
+114365.9588
+ 10
+105835.0617
+ 20
+114365.8819
+ 10
+105835.4086
+ 20
+114370.325
+  0
+LWPOLYLINE
+  5
+18F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105830.5205
+ 20
+114317.4873
+ 10
+105831.3643
+ 20
+114324.7067
+ 10
+105830.4692
+ 20
+114324.8005
+ 10
+105829.6312
+ 20
+114317.6254
+ 10
+105830.5205
+ 20
+114317.4873
+  0
+LWPOLYLINE
+  5
+190
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105788.9293
+ 20
+114226.3932
+ 10
+105785.2399
+ 20
+114220.4037
+ 10
+105784.4735
+ 20
+114220.8757
+ 10
+105788.1631
+ 20
+114226.8652
+ 10
+105788.9293
+ 20
+114226.3932
+  0
+LWPOLYLINE
+  5
+191
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105748.0884
+ 20
+114166.9543
+ 10
+105746.7264
+ 20
+114167.7931
+ 10
+105749.4532
+ 20
+114172.2208
+ 10
+105750.8155
+ 20
+114171.3816
+ 10
+105748.0884
+ 20
+114166.9543
+  0
+LWPOLYLINE
+  5
+192
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105721.7935
+ 20
+114115.0914
+ 10
+105718.9884
+ 20
+114109.3474
+ 10
+105718.1756
+ 20
+114109.7338
+ 10
+105720.9934
+ 20
+114115.5035
+ 10
+105721.7935
+ 20
+114115.0914
+  0
+LWPOLYLINE
+  5
+193
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105697.2833
+ 20
+114064.9434
+ 10
+105696.0138
+ 20
+114059.9008
+ 10
+105697.5646
+ 20
+114059.5105
+ 10
+105698.8272
+ 20
+114064.5231
+ 10
+105697.2833
+ 20
+114064.9434
+  0
+LWPOLYLINE
+  5
+194
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.8601
+ 20
+112718.4692
+ 10
+105369.6641
+ 20
+112715.5224
+ 10
+105367.973
+ 20
+112715.0734
+ 10
+105367.2658
+ 20
+112718.0458
+ 10
+105368.8601
+ 20
+112718.4692
+  0
+LWPOLYLINE
+  5
+195
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105382.0
+ 20
+112683.0
+ 10
+105386.1477
+ 20
+112667.3866
+ 10
+105385.277
+ 20
+112667.1587
+ 10
+105381.0
+ 20
+112683.0
+ 10
+105382.0
+ 20
+112683.0
+  0
+LWPOLYLINE
+  5
+196
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105378.5353
+ 20
+112682.0364
+ 10
+105379.8699
+ 20
+112677.0106
+ 10
+105378.276
+ 20
+112676.5873
+ 10
+105376.9414
+ 20
+112681.6131
+ 10
+105378.5353
+ 20
+112682.0364
+  0
+LWPOLYLINE
+  5
+197
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105388.9735
+ 20
+112656.5081
+ 10
+105387.5406
+ 20
+112662.0659
+ 10
+105386.6732
+ 20
+112661.8389
+ 10
+105388.0998
+ 20
+112656.2903
+ 10
+105388.9735
+ 20
+112656.5081
+  0
+LWPOLYLINE
+  5
+198
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105400.7943
+ 20
+112575.6397
+ 10
+105401.8617
+ 20
+112560.6777
+ 10
+105400.9669
+ 20
+112560.6139
+ 10
+105399.8995
+ 20
+112575.5759
+ 10
+105400.7943
+ 20
+112575.6397
+  0
+LWPOLYLINE
+  5
+199
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105403.72
+ 20
+112534.2814
+ 10
+105402.7826
+ 20
+112534.0652
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105403.72
+ 20
+112534.2814
+  0
+LWPOLYLINE
+  5
+19A
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105406.8306
+ 20
+112488.9697
+ 10
+105405.9871
+ 20
+112488.8867
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+  0
+LWPOLYLINE
+  5
+19B
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105425.3345
+ 20
+112305.3139
+ 10
+105426.2235
+ 20
+112305.454
+ 10
+105425.5167
+ 20
+112309.9229
+ 10
+105424.6277
+ 20
+112309.7823
+ 10
+105425.3345
+ 20
+112305.3139
+  0
+LWPOLYLINE
+  5
+19C
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.8624
+ 20
+112231.3911
+ 10
+105427.9393
+ 20
+112226.1917
+ 10
+105426.7395
+ 20
+112226.1739
+ 10
+105426.5625
+ 20
+112231.3719
+ 10
+105427.8624
+ 20
+112231.3911
+  0
+LWPOLYLINE
+  5
+19D
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105431.802
+ 20
+112204.2648
+ 10
+105432.0
+ 20
+112191.0
+ 10
+105432.1428
+ 20
+112180.5488
+ 10
+105431.2448
+ 20
+112180.5105
+ 10
+105431.0
+ 20
+112198.0
+ 10
+105431.0
+ 20
+112204.2529
+ 10
+105431.802
+ 20
+112204.2648
+  0
+LWPOLYLINE
+  5
+19E
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+9
+ 70
+1
+ 10
+105430.9562
+ 20
+112206.955
+ 10
+105430.5
+ 20
+112232.5
+ 10
+105430.42
+ 20
+112241.0263
+ 10
+105431.3199
+ 20
+112241.0397
+ 10
+105431.5
+ 20
+112230.0
+ 10
+105431.5
+ 20
+112227.0
+ 10
+105431.5
+ 20
+112224.5
+ 10
+105431.7619
+ 20
+112206.955
+ 10
+105430.9562
+ 20
+112206.955
+  0
+LWPOLYLINE
+  5
+19F
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105432.107
+ 20
+112178.5261
+ 10
+105432.0
+ 20
+112172.0
+ 10
+105431.7099
+ 20
+112161.1355
+ 10
+105430.8645
+ 20
+112161.1836
+ 10
+105431.0
+ 20
+112168.5
+ 10
+105431.1693
+ 20
+112178.504
+ 10
+105432.107
+ 20
+112178.5261
+  0
+LWPOLYLINE
+  5
+1A0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+10
+ 70
+1
+ 10
+105431.5
+ 20
+112156.5
+ 10
+105431.0
+ 20
+112148.0
+ 10
+105430.0
+ 20
+112134.0
+ 10
+105429.8831
+ 20
+112132.4714
+ 10
+105428.9829
+ 20
+112132.5013
+ 10
+105429.5
+ 20
+112139.5
+ 10
+105430.0
+ 20
+112146.5
+ 10
+105430.5
+ 20
+112154.0
+ 10
+105430.4882
+ 20
+112156.5006
+ 10
+105431.5
+ 20
+112156.5
+  0
+LWPOLYLINE
+  5
+1A1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105422.9038
+ 20
+112087.3165
+ 10
+105422.5169
+ 20
+112082.1309
+ 10
+105421.3202
+ 20
+112082.2202
+ 10
+105421.7072
+ 20
+112087.4058
+ 10
+105422.9038
+ 20
+112087.3165
+  0
+LWPOLYLINE
+  5
+1A2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105419.1613
+ 20
+112037.1591
+ 10
+105418.7744
+ 20
+112031.9735
+ 10
+105417.0795
+ 20
+112032.1
+ 10
+105417.4516
+ 20
+112037.0861
+ 10
+105419.1613
+ 20
+112037.1591
+  0
+LWPOLYLINE
+  5
+1A3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105417.8432
+ 20
+112019.4949
+ 10
+105417.4563
+ 20
+112014.3093
+ 10
+105415.8608
+ 20
+112014.4283
+ 10
+105416.2477
+ 20
+112019.6139
+ 10
+105417.8432
+ 20
+112019.4949
+  0
+LWPOLYLINE
+  5
+1A4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105414.6561
+ 20
+111976.7804
+ 10
+105414.2618
+ 20
+111971.4959
+ 10
+105412.6741
+ 20
+111971.7144
+ 10
+105412.9613
+ 20
+111976.9074
+ 10
+105414.6561
+ 20
+111976.7804
+  0
+LWPOLYLINE
+  5
+1A5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105346.2972
+ 20
+112964.4648
+ 10
+105347.7491
+ 20
+112969.4579
+ 10
+105346.7893
+ 20
+112969.737
+ 10
+105345.3374
+ 20
+112964.7438
+ 10
+105346.2972
+ 20
+112964.4648
+  0
+LWPOLYLINE
+  5
+1A6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105548.6793
+ 20
+113649.9489
+ 10
+105546.4955
+ 20
+113645.2291
+ 10
+105545.0438
+ 20
+113645.9006
+ 10
+105547.2273
+ 20
+113650.6208
+ 10
+105548.6793
+ 20
+113649.9489
+  0
+LWPOLYLINE
+  5
+1A7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105563.4445
+ 20
+113683.9788
+ 10
+105565.8899
+ 20
+113688.6798
+ 10
+105567.2777
+ 20
+113687.8867
+ 10
+105564.8067
+ 20
+113683.3489
+ 10
+105563.4445
+ 20
+113683.9788
+  0
+LWPOLYLINE
+  5
+1A8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105569.9395
+ 20
+113692.5413
+ 10
+105572.6031
+ 20
+113696.9595
+ 10
+105571.2573
+ 20
+113697.8193
+ 10
+105568.4853
+ 20
+113693.4186
+ 10
+105569.9395
+ 20
+113692.5413
+  0
+LWPOLYLINE
+  5
+1A9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105438.0374
+ 20
+111873.5265
+ 10
+105436.6378
+ 20
+111873.5498
+ 10
+105436.7973
+ 20
+111878.7596
+ 10
+105438.1686
+ 20
+111878.7249
+ 10
+105438.0369
+ 20
+111873.5257
+ 10
+105438.0374
+ 20
+111873.5265
+  0
+LWPOLYLINE
+  5
+1AA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105441.2524
+ 20
+111953.6635
+ 10
+105442.8476
+ 20
+111953.5404
+ 10
+105442.4489
+ 20
+111948.3556
+ 10
+105440.8535
+ 20
+111948.4774
+ 10
+105441.2524
+ 20
+111953.6635
+  0
+LWPOLYLINE
+  5
+1AB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105430.5577
+ 20
+113350.855
+ 10
+105432.158
+ 20
+113350.8698
+ 10
+105432.2061
+ 20
+113345.67
+ 10
+105430.6065
+ 20
+113345.6335
+ 10
+105430.5577
+ 20
+113350.855
+  0
+LWPOLYLINE
+  5
+1AC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105432.3105
+ 20
+113377.4978
+ 10
+105433.502
+ 20
+113377.3387
+ 10
+105432.8139
+ 20
+113372.1844
+ 10
+105431.6155
+ 20
+113372.2842
+ 10
+105432.3105
+ 20
+113377.4978
+  0
+LWPOLYLINE
+  5
+1AD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105438.8058
+ 20
+113403.465
+ 10
+105440.3241
+ 20
+113402.9519
+ 10
+105438.6597
+ 20
+113398.0254
+ 10
+105437.1206
+ 20
+113398.4722
+ 10
+105438.8058
+ 20
+113403.465
+  0
+LWPOLYLINE
+  5
+1AE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105612.0866
+ 20
+113705.8516
+ 10
+105613.3478
+ 20
+113704.8646
+ 10
+105610.1429
+ 20
+113700.7697
+ 10
+105608.8828
+ 20
+113701.756
+ 10
+105612.0866
+ 20
+113705.8516
+  0
+LWPOLYLINE
+  5
+1AF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105749.9917
+ 20
+114111.6131
+ 10
+105752.4116
+ 20
+114116.2586
+ 10
+105753.8363
+ 20
+114115.5186
+ 10
+105751.44
+ 20
+114110.9037
+ 10
+105749.9917
+ 20
+114111.6131
+  0
+LWPOLYLINE
+  5
+1B0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105954.3791
+ 20
+114848.2676
+ 10
+105955.08
+ 20
+114848.2429
+ 10
+105954.897
+ 20
+114843.0461
+ 10
+105954.1959
+ 20
+114843.0566
+ 10
+105954.3791
+ 20
+114848.2676
+  0
+LWPOLYLINE
+  5
+1B1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105927.8489
+ 20
+114880.3656
+ 10
+105926.9503
+ 20
+114880.4152
+ 10
+105926.655
+ 20
+114874.636
+ 10
+105927.554
+ 20
+114874.5945
+ 10
+105927.8489
+ 20
+114880.3656
+  0
+LWPOLYLINE
+  5
+1B2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105835.647
+ 20
+114374.309
+ 10
+105835.4317
+ 20
+114371.0592
+ 10
+105834.5346
+ 20
+114371.1304
+ 10
+105834.7503
+ 20
+114374.3859
+ 10
+105835.647
+ 20
+114374.309
+  0
+LWPOLYLINE
+  5
+1B3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105831.5718
+ 20
+114337.1715
+ 10
+105830.9898
+ 20
+114330.2081
+ 10
+105831.9242
+ 20
+114330.1058
+ 10
+105832.4671
+ 20
+114337.0805
+ 10
+105831.5718
+ 20
+114337.1715
+  0
+LWPOLYLINE
+  5
+1B4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105823.8384
+ 20
+114289.6457
+ 10
+105825.4192
+ 20
+114294.4887
+ 10
+105824.5563
+ 20
+114294.7445
+ 10
+105823.002
+ 20
+114289.9783
+ 10
+105823.8384
+ 20
+114289.6457
+  0
+LWPOLYLINE
+  5
+1B5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105810.0794
+ 20
+114260.9255
+ 10
+105806.977
+ 20
+114255.7899
+ 10
+105806.2066
+ 20
+114256.2552
+ 10
+105809.3091
+ 20
+114261.3909
+ 10
+105810.0794
+ 20
+114260.9255
+  0
+LWPOLYLINE
+  5
+1B6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105750.5296
+ 20
+114164.0643
+ 10
+105746.8037
+ 20
+114158.0158
+ 10
+105746.0374
+ 20
+114158.4878
+ 10
+105749.7633
+ 20
+114164.5363
+ 10
+105750.5296
+ 20
+114164.0643
+  0
+LWPOLYLINE
+  5
+1B7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105743.8939
+ 20
+114163.1955
+ 10
+105741.1671
+ 20
+114158.7678
+ 10
+105742.5291
+ 20
+114157.9291
+ 10
+105745.2562
+ 20
+114162.3564
+ 10
+105743.8939
+ 20
+114163.1955
+  0
+LWPOLYLINE
+  5
+1B8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105707.3188
+ 20
+114083.1856
+ 10
+105705.2634
+ 20
+114077.0392
+ 10
+105706.1232
+ 20
+114076.7731
+ 10
+105707.3523
+ 20
+114080.4963
+ 10
+105707.5
+ 20
+114081.0
+ 10
+105707.8984
+ 20
+114082.9913
+ 10
+105707.3188
+ 20
+114083.1856
+  0
+LWPOLYLINE
+  5
+1B9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105701.4837
+ 20
+114064.009
+ 10
+105700.1893
+ 20
+114058.8772
+ 10
+105701.0641
+ 20
+114058.666
+ 10
+105702.3777
+ 20
+114063.8698
+ 10
+105701.4837
+ 20
+114064.009
+  0
+LWPOLYLINE
+  5
+1BA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105691.0087
+ 20
+113961.5027
+ 10
+105690.5617
+ 20
+113953.6588
+ 10
+105689.6631
+ 20
+113953.71
+ 10
+105690.1101
+ 20
+113961.5539
+ 10
+105691.0087
+ 20
+113961.5027
+  0
+LWPOLYLINE
+  5
+1BB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105684.9787
+ 20
+113887.1361
+ 10
+105684.0715
+ 20
+113880.1951
+ 10
+105683.1791
+ 20
+113880.3118
+ 10
+105684.0862
+ 20
+113887.2527
+ 10
+105684.9787
+ 20
+113887.1361
+  0
+LWPOLYLINE
+  5
+1BC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105645.2616
+ 20
+113780.3822
+ 10
+105640.8896
+ 20
+113775.2973
+ 10
+105640.2071
+ 20
+113775.884
+ 10
+105644.5788
+ 20
+113780.9685
+ 10
+105645.2616
+ 20
+113780.3822
+  0
+LWPOLYLINE
+  5
+1BD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105641.7461
+ 20
+113781.8165
+ 10
+105640.5314
+ 20
+113782.8578
+ 10
+105637.1421
+ 20
+113778.9141
+ 10
+105638.3552
+ 20
+113777.8716
+ 10
+105641.7461
+ 20
+113781.8165
+  0
+LWPOLYLINE
+  5
+1BE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105636.6871
+ 20
+113771.7889
+ 10
+105632.7761
+ 20
+113767.2388
+ 10
+105633.4586
+ 20
+113766.6521
+ 10
+105637.3697
+ 20
+113771.2022
+ 10
+105636.6871
+ 20
+113771.7889
+  0
+LWPOLYLINE
+  5
+1BF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105608.1604
+ 20
+113742.5325
+ 10
+105606.9473
+ 20
+113743.575
+ 10
+105610.3365
+ 20
+113747.5187
+ 10
+105611.5499
+ 20
+113746.4758
+ 10
+105608.1604
+ 20
+113742.5325
+  0
+LWPOLYLINE
+  5
+1C0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105561.4987
+ 20
+113668.8478
+ 10
+105558.5444
+ 20
+113662.6726
+ 10
+105557.728
+ 20
+113663.0512
+ 10
+105560.6955
+ 20
+113669.2412
+ 10
+105561.4987
+ 20
+113668.8478
+  0
+LWPOLYLINE
+  5
+1C1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105551.8141
+ 20
+113650.2984
+ 10
+105549.7103
+ 20
+113645.7625
+ 10
+105550.5268
+ 20
+113645.3839
+ 10
+105552.6305
+ 20
+113649.9197
+ 10
+105551.8141
+ 20
+113650.2984
+  0
+LWPOLYLINE
+  5
+1C2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105529.7195
+ 20
+113600.4059
+ 10
+105525.9079
+ 20
+113592.2798
+ 10
+105525.0914
+ 20
+113592.6584
+ 10
+105528.9031
+ 20
+113600.7846
+ 10
+105529.7195
+ 20
+113600.4059
+  0
+LWPOLYLINE
+  5
+1C3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105523.6757
+ 20
+113595.9688
+ 10
+105522.5864
+ 20
+113596.4723
+ 10
+105520.3995
+ 20
+113591.7545
+ 10
+105521.4883
+ 20
+113591.2498
+ 10
+105523.6757
+ 20
+113595.9688
+  0
+LWPOLYLINE
+  5
+1C4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105396.5839
+ 20
+113325.3919
+ 10
+105397.4839
+ 20
+113325.3836
+ 10
+105397.4898
+ 20
+113321.1506
+ 10
+105397.7889
+ 20
+113306.3177
+ 10
+105396.8892
+ 20
+113306.2979
+ 10
+105396.5839
+ 20
+113325.3919
+  0
+LWPOLYLINE
+  5
+1C5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105399.7156
+ 20
+113219.6036
+ 10
+105400.1517
+ 20
+113199.8281
+ 10
+105399.252
+ 20
+113199.8083
+ 10
+105398.8158
+ 20
+113219.5838
+ 10
+105399.7156
+ 20
+113219.6036
+  0
+LWPOLYLINE
+  5
+1C6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.6384
+ 20
+113176.5224
+ 10
+105400.5
+ 20
+113162.0
+ 10
+105400.414
+ 20
+113159.1644
+ 10
+105399.5149
+ 20
+113159.2054
+ 10
+105399.7386
+ 20
+113176.5025
+ 10
+105400.6384
+ 20
+113176.5224
+  0
+LWPOLYLINE
+  5
+1C7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105400.2364
+ 20
+113155.1469
+ 10
+105399.9315
+ 20
+113150.8333
+ 10
+105399.1464
+ 20
+113142.9518
+ 10
+105398.3516
+ 20
+113143.0292
+ 10
+105399.3328
+ 20
+113155.2096
+ 10
+105400.2364
+ 20
+113155.1469
+  0
+LWPOLYLINE
+  5
+1C8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+16
+ 70
+1
+ 10
+105385.6476
+ 20
+113086.8019
+ 10
+105386.0
+ 20
+113088.0
+ 10
+105388.0
+ 20
+113095.0
+ 10
+105390.0
+ 20
+113102.0
+ 10
+105391.0
+ 20
+113105.5
+ 10
+105392.0
+ 20
+113109.0
+ 10
+105392.5209
+ 20
+113111.0646
+ 10
+105391.6808
+ 20
+113111.2899
+ 10
+105390.3599
+ 20
+113106.4845
+ 10
+105389.4924
+ 20
+113103.4115
+ 10
+105388.5
+ 20
+113100.0
+ 10
+105387.5
+ 20
+113096.5
+ 10
+105386.5
+ 20
+113093.0
+ 10
+105385.0
+ 20
+113088.0
+ 10
+105384.7336
+ 20
+113087.0675
+ 10
+105385.6476
+ 20
+113086.8019
+  0
+LWPOLYLINE
+  5
+1C9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+13
+ 70
+1
+ 10
+105383.983
+ 20
+113084.4406
+ 10
+105382.0
+ 20
+113077.5
+ 10
+105380.5
+ 20
+113072.5
+ 10
+105378.5
+ 20
+113065.5
+ 10
+105377.0
+ 20
+113060.5
+ 10
+105375.4308
+ 20
+113055.3454
+ 10
+105376.3911
+ 20
+113055.0662
+ 10
+105379.0
+ 20
+113064.0
+ 10
+105381.0
+ 20
+113071.0
+ 10
+105382.5
+ 20
+113076.0
+ 10
+105383.5
+ 20
+113079.5
+ 10
+105384.8779
+ 20
+113084.1849
+ 10
+105383.983
+ 20
+113084.4406
+  0
+LWPOLYLINE
+  5
+1CA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105373.5135
+ 20
+113057.5396
+ 10
+105374.9654
+ 20
+113062.5328
+ 10
+105374.0052
+ 20
+113062.812
+ 10
+105372.6493
+ 20
+113057.7909
+ 10
+105373.5135
+ 20
+113057.5396
+  0
+LWPOLYLINE
+  5
+1CB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105357.785
+ 20
+113005.2652
+ 10
+105356.333
+ 20
+113000.272
+ 10
+105355.3449
+ 20
+113000.4552
+ 10
+105356.9207
+ 20
+113005.5165
+ 10
+105357.785
+ 20
+113005.2652
+  0
+LWPOLYLINE
+  5
+1CC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105370.6114
+ 20
+113035.1895
+ 10
+105369.7472
+ 20
+113035.4407
+ 10
+105370.9634
+ 20
+113039.9817
+ 10
+105371.9237
+ 20
+113039.7025
+ 10
+105370.6114
+ 20
+113035.1895
+  0
+LWPOLYLINE
+  5
+1CD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105369.9133
+ 20
+113032.7889
+ 10
+105359.8617
+ 20
+112998.2206
+ 10
+105358.9975
+ 20
+112998.4719
+ 10
+105369.0491
+ 20
+113033.0402
+ 10
+105369.9133
+ 20
+113032.7889
+  0
+LWPOLYLINE
+  5
+1CE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105356.3699
+ 20
+112986.2349
+ 10
+105349.5308
+ 20
+112962.6921
+ 10
+105348.6666
+ 20
+112962.9434
+ 10
+105355.5057
+ 20
+112986.4862
+ 10
+105356.3699
+ 20
+112986.2349
+  0
+LWPOLYLINE
+  5
+1CF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105348.9724
+ 20
+112960.7717
+ 10
+105341.7982
+ 20
+112936.0446
+ 10
+105340.8433
+ 20
+112936.262
+ 10
+105348.1082
+ 20
+112961.023
+ 10
+105348.9724
+ 20
+112960.7717
+  0
+LWPOLYLINE
+  5
+1D0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105339.7559
+ 20
+112944.1872
+ 10
+105338.3359
+ 20
+112939.1848
+ 10
+105338.913
+ 20
+112939.021
+ 10
+105340.3382
+ 20
+112943.9698
+ 10
+105339.7559
+ 20
+112944.1872
+  0
+LWPOLYLINE
+  5
+1D1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105365.3828
+ 20
+112745.5896
+ 10
+105366.7944
+ 20
+112740.2738
+ 10
+105365.9246
+ 20
+112740.0428
+ 10
+105364.5129
+ 20
+112745.3586
+ 10
+105365.3828
+ 20
+112745.5896
+  0
+LWPOLYLINE
+  5
+1D2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.2061
+ 20
+112734.9581
+ 10
+105367.3362
+ 20
+112734.7271
+ 10
+105370.3243
+ 20
+112723.5744
+ 10
+105371.1306
+ 20
+112723.8824
+ 10
+105368.2061
+ 20
+112734.9581
+  0
+LWPOLYLINE
+  5
+1D3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105368.8601
+ 20
+112718.4692
+ 10
+105369.6641
+ 20
+112715.5224
+ 10
+105367.973
+ 20
+112715.0734
+ 10
+105367.2658
+ 20
+112718.0458
+ 10
+105368.8601
+ 20
+112718.4692
+  0
+LWPOLYLINE
+  5
+1D4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105382.0
+ 20
+112683.0
+ 10
+105386.1477
+ 20
+112667.3866
+ 10
+105385.277
+ 20
+112667.1587
+ 10
+105381.0
+ 20
+112683.0
+ 10
+105382.0
+ 20
+112683.0
+  0
+LWPOLYLINE
+  5
+1D5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105378.5353
+ 20
+112682.0364
+ 10
+105379.8699
+ 20
+112677.0106
+ 10
+105378.276
+ 20
+112676.5873
+ 10
+105376.9414
+ 20
+112681.6131
+ 10
+105378.5353
+ 20
+112682.0364
+  0
+LWPOLYLINE
+  5
+1D6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105388.9735
+ 20
+112656.5081
+ 10
+105387.5406
+ 20
+112662.0659
+ 10
+105386.6732
+ 20
+112661.8389
+ 10
+105388.0998
+ 20
+112656.2903
+ 10
+105388.9735
+ 20
+112656.5081
+  0
+LWPOLYLINE
+  5
+1D7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105395.1009
+ 20
+112629.7157
+ 10
+105394.2156
+ 20
+112629.5537
+ 10
+105396.2035
+ 20
+112617.0596
+ 10
+105397.0936
+ 20
+112617.1917
+ 10
+105395.1009
+ 20
+112629.7157
+  0
+LWPOLYLINE
+  5
+1D8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105400.7943
+ 20
+112575.6397
+ 10
+105401.8617
+ 20
+112560.6777
+ 10
+105400.9669
+ 20
+112560.6139
+ 10
+105399.8995
+ 20
+112575.5759
+ 10
+105400.7943
+ 20
+112575.6397
+  0
+LWPOLYLINE
+  5
+1D9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105403.72
+ 20
+112534.2814
+ 10
+105402.7826
+ 20
+112534.0652
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105403.72
+ 20
+112534.2814
+  0
+LWPOLYLINE
+  5
+1DA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105404.0647
+ 20
+112528.874
+ 10
+105406.8306
+ 20
+112488.9697
+ 10
+105405.9871
+ 20
+112488.8867
+ 10
+105403.0444
+ 20
+112528.6142
+ 10
+105404.0647
+ 20
+112528.874
+  0
+LWPOLYLINE
+  5
+1DB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105415.8674
+ 20
+112371.2304
+ 10
+105418.212
+ 20
+112356.1063
+ 10
+105417.3231
+ 20
+112355.9657
+ 10
+105414.9755
+ 20
+112371.1095
+ 10
+105415.8674
+ 20
+112371.2304
+  0
+LWPOLYLINE
+  5
+1DC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105425.3345
+ 20
+112305.3139
+ 10
+105426.2235
+ 20
+112305.454
+ 10
+105425.5167
+ 20
+112309.9229
+ 10
+105424.6277
+ 20
+112309.7823
+ 10
+105425.3345
+ 20
+112305.3139
+  0
+LWPOLYLINE
+  5
+1DD
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.8624
+ 20
+112231.3911
+ 10
+105427.9393
+ 20
+112226.1917
+ 10
+105426.7395
+ 20
+112226.1739
+ 10
+105426.5625
+ 20
+112231.3719
+ 10
+105427.8624
+ 20
+112231.3911
+  0
+LWPOLYLINE
+  5
+1DE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105432.107
+ 20
+112178.5261
+ 10
+105432.0
+ 20
+112172.0
+ 10
+105431.7099
+ 20
+112161.1355
+ 10
+105430.8645
+ 20
+112161.1836
+ 10
+105431.0
+ 20
+112168.5
+ 10
+105431.1693
+ 20
+112178.504
+ 10
+105432.107
+ 20
+112178.5261
+  0
+LWPOLYLINE
+  5
+1DF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105427.3069
+ 20
+112146.5078
+ 10
+105426.9258
+ 20
+112141.2179
+ 10
+105425.8416
+ 20
+112141.2591
+ 10
+105426.1344
+ 20
+112146.575
+ 10
+105427.3069
+ 20
+112146.5078
+  0
+LWPOLYLINE
+  5
+1E0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105428.7216
+ 20
+112116.904
+ 10
+105427.3074
+ 20
+112097.9183
+ 10
+105426.4074
+ 20
+112097.9854
+ 10
+105427.8236
+ 20
+112116.9647
+ 10
+105428.7216
+ 20
+112116.904
+  0
+LWPOLYLINE
+  5
+1E1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105422.9038
+ 20
+112087.3165
+ 10
+105422.5169
+ 20
+112082.1309
+ 10
+105421.3202
+ 20
+112082.2202
+ 10
+105421.7072
+ 20
+112087.4058
+ 10
+105422.9038
+ 20
+112087.3165
+  0
+LWPOLYLINE
+  5
+1E2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105423.394
+ 20
+112045.504
+ 10
+105422.9834
+ 20
+112040.0012
+ 10
+105421.0463
+ 20
+112014.0415
+ 10
+105420.1414
+ 20
+112014.0087
+ 10
+105422.0432
+ 20
+112039.4968
+ 10
+105422.4965
+ 20
+112045.571
+ 10
+105423.394
+ 20
+112045.504
+  0
+LWPOLYLINE
+  5
+1E3
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+7
+ 70
+1
+ 10
+105422.6698
+ 20
+112047.8942
+ 10
+105423.0134
+ 20
+112052.499
+ 10
+105423.9738
+ 20
+112066.5022
+ 10
+105424.9608
+ 20
+112066.5029
+ 10
+105424.0648
+ 20
+112054.4952
+ 10
+105423.5673
+ 20
+112047.8272
+ 10
+105422.6698
+ 20
+112047.8942
+  0
+LWPOLYLINE
+  5
+1E4
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105419.1613
+ 20
+112037.1591
+ 10
+105418.7744
+ 20
+112031.9735
+ 10
+105417.0795
+ 20
+112032.1
+ 10
+105417.4516
+ 20
+112037.0861
+ 10
+105419.1613
+ 20
+112037.1591
+  0
+LWPOLYLINE
+  5
+1E5
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105417.8432
+ 20
+112019.4949
+ 10
+105417.4563
+ 20
+112014.3093
+ 10
+105415.8608
+ 20
+112014.4283
+ 10
+105416.2477
+ 20
+112019.6139
+ 10
+105417.8432
+ 20
+112019.4949
+  0
+LWPOLYLINE
+  5
+1E6
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105414.6561
+ 20
+111976.7804
+ 10
+105414.2618
+ 20
+111971.4959
+ 10
+105412.6741
+ 20
+111971.7144
+ 10
+105412.9613
+ 20
+111976.9074
+ 10
+105414.6561
+ 20
+111976.7804
+  0
+LWPOLYLINE
+  5
+1E7
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105346.2972
+ 20
+112964.4648
+ 10
+105347.7491
+ 20
+112969.4579
+ 10
+105346.7893
+ 20
+112969.737
+ 10
+105345.3374
+ 20
+112964.7438
+ 10
+105346.2972
+ 20
+112964.4648
+  0
+LWPOLYLINE
+  5
+1E8
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105548.6793
+ 20
+113649.9489
+ 10
+105546.4955
+ 20
+113645.2291
+ 10
+105545.0438
+ 20
+113645.9006
+ 10
+105547.2273
+ 20
+113650.6208
+ 10
+105548.6793
+ 20
+113649.9489
+  0
+LWPOLYLINE
+  5
+1E9
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105563.4445
+ 20
+113683.9788
+ 10
+105565.8899
+ 20
+113688.6798
+ 10
+105567.2777
+ 20
+113687.8867
+ 10
+105564.8067
+ 20
+113683.3489
+ 10
+105563.4445
+ 20
+113683.9788
+  0
+LWPOLYLINE
+  5
+1EA
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105569.9395
+ 20
+113692.5413
+ 10
+105572.6031
+ 20
+113696.9595
+ 10
+105571.2573
+ 20
+113697.8193
+ 10
+105568.4853
+ 20
+113693.4186
+ 10
+105569.9395
+ 20
+113692.5413
+  0
+LWPOLYLINE
+  5
+1EB
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105436.3202
+ 20
+111857.6492
+ 10
+105438.1332
+ 20
+111857.6806
+ 10
+105438.1696
+ 20
+111862.9322
+ 10
+105436.3993
+ 20
+111862.9666
+ 10
+105436.3202
+ 20
+111857.6492
+  0
+LWPOLYLINE
+  5
+1EC
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+6
+ 70
+1
+ 10
+105925.3477
+ 20
+114780.0702
+ 10
+105925.2791
+ 20
+114777.9794
+ 10
+105924.452
+ 20
+114778.0628
+ 10
+105924.4482
+ 20
+114780.0685
+ 10
+105925.3477
+ 20
+114780.0397
+ 10
+105925.3477
+ 20
+114780.0702
+  0
+LWPOLYLINE
+  5
+1ED
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+16
+ 70
+1
+ 10
+105409.0
+ 20
+111847.8246
+ 10
+105409.0
+ 20
+111859.5
+ 10
+105409.5
+ 20
+111870.0
+ 10
+105410.0
+ 20
+111880.5
+ 10
+105411.0
+ 20
+111893.5
+ 10
+105411.4598
+ 20
+111899.003
+ 10
+105412.4626
+ 20
+111899.0028
+ 10
+105412.0
+ 20
+111893.5
+ 10
+105411.0
+ 20
+111879.5
+ 10
+105410.5
+ 20
+111871.5
+ 10
+105410.0
+ 20
+111860.5
+ 10
+105410.0
+ 20
+111859.0
+ 10
+105410.0
+ 20
+111856.5
+ 10
+105410.0
+ 20
+111852.0
+ 10
+105410.0
+ 20
+111847.8246
+ 10
+105409.0
+ 20
+111847.8246
+  0
+LWPOLYLINE
+  5
+1EE
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+10
+ 70
+1
+ 10
+105414.4525
+ 20
+111937.6086
+ 10
+105415.0
+ 20
+111945.0
+ 10
+105415.5
+ 20
+111952.5
+ 10
+105416.0
+ 20
+111959.0
+ 10
+105416.7471
+ 20
+111968.5189
+ 10
+105417.6474
+ 20
+111968.489
+ 10
+105416.5
+ 20
+111952.5
+ 10
+105415.5
+ 20
+111939.5
+ 10
+105415.3369
+ 20
+111937.543
+ 10
+105414.4525
+ 20
+111937.6086
+  0
+LWPOLYLINE
+  5
+1EF
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105428.8795
+ 20
+112279.7271
+ 10
+105429.7725
+ 20
+112279.8394
+ 10
+105429.2055
+ 20
+112284.3282
+ 10
+105428.3126
+ 20
+112284.2154
+ 10
+105428.8795
+ 20
+112279.7271
+  0
+LWPOLYLINE
+  5
+1F0
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105891.5284
+ 20
+115278.8224
+ 10
+105891.6707
+ 20
+115308.2015
+ 10
+105892.5707
+ 20
+115308.1959
+ 10
+105892.4283
+ 20
+115278.818
+ 10
+105891.5284
+ 20
+115278.8224
+  0
+LWPOLYLINE
+  5
+1F1
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+106091.5544
+ 20
+115971.6421
+ 10
+106084.8645
+ 20
+115955.05
+ 10
+106084.0298
+ 20
+115955.3865
+ 10
+106090.7198
+ 20
+115971.9786
+ 10
+106091.5544
+ 20
+115971.6421
+  0
+LWPOLYLINE
+  5
+1F2
+330
+17
+100
+AcDbEntity
+  8
+35-RH-SUDS-ZONAS
+100
+AcDbPolyline
+ 90
+5
+ 70
+1
+ 10
+105553.166
+ 20
+113659.6004
+ 10
+105551.7417
+ 20
+113660.0964
+ 10
+105553.7021
+ 20
+113665.146
+ 10
+105555.4094
+ 20
+113664.3144
+ 10
+105553.166
+ 20
+113659.6004
+  0
+ENDSEC
+  0
+SECTION
+  2
+OBJECTS
+  0
+DICTIONARY
+  5
+A
+330
+0
+100
+AcDbDictionary
+281
+1
+  3
+ACAD_COLOR
+350
+B
+  3
+ACAD_GROUP
+350
+C
+  3
+ACAD_LAYOUT
+350
+D
+  3
+ACAD_MATERIAL
+350
+E
+  3
+ACAD_MLEADERSTYLE
+350
+F
+  3
+ACAD_MLINESTYLE
+350
+10
+  3
+ACAD_PLOTSETTINGS
+350
+11
+  3
+ACAD_PLOTSTYLENAME
+350
+12
+  3
+ACAD_SCALELIST
+350
+14
+  3
+ACAD_TABLESTYLE
+350
+15
+  3
+ACAD_VISUALSTYLE
+350
+16
+  3
+EZDXF_META
+350
+2D
+  0
+DICTIONARY
+  5
+B
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+C
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+D
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Model
+350
+1A
+  3
+Layout1
+350
+1E
+  0
+DICTIONARY
+  5
+E
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+ByBlock
+350
+1F
+  3
+ByLayer
+350
+20
+  3
+Global
+350
+21
+  0
+DICTIONARY
+  5
+F
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+2C
+  0
+DICTIONARY
+  5
+10
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Standard
+350
+22
+  0
+DICTIONARY
+  5
+11
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+ACDBDICTIONARYWDFLT
+  5
+12
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+Normal
+350
+13
+100
+AcDbDictionaryWithDefault
+340
+13
+  0
+ACDBPLACEHOLDER
+  5
+13
+330
+12
+  0
+DICTIONARY
+  5
+14
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+15
+330
+A
+100
+AcDbDictionary
+281
+1
+  0
+DICTIONARY
+  5
+16
+330
+A
+100
+AcDbDictionary
+281
+1
+  3
+2dWireframe
+350
+5A
+  3
+Basic
+350
+5B
+  3
+Brighten
+350
+5C
+  3
+ColorChange
+350
+5D
+  3
+Conceptual
+350
+5E
+  3
+Dim
+350
+5F
+  3
+EdgeColorOff
+350
+60
+  3
+Facepattern
+350
+61
+  3
+Flat
+350
+62
+  3
+FlatWithEdges
+350
+63
+  3
+Gouraud
+350
+64
+  3
+GouraudWithEdges
+350
+65
+  3
+Hidden
+350
+66
+  3
+JitterOff
+350
+67
+  3
+Linepattern
+350
+68
+  3
+Modeling
+350
+69
+  3
+OverhangOff
+350
+6A
+  3
+Realistic
+350
+6B
+  3
+Shaded
+350
+6C
+  3
+Shaded with edges
+350
+6D
+  3
+Shades of Gray
+350
+6E
+  3
+Sketchy
+350
+6F
+  3
+Thicken
+350
+70
+  3
+Wireframe
+350
+71
+  3
+X-Ray
+350
+72
+  0
+LAYOUT
+  5
+1A
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+1024
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Model
+ 70
+1
+ 71
+0
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+17
+  0
+LAYOUT
+  5
+1E
+330
+D
+100
+AcDbPlotSettings
+  1
+
+  4
+A3
+  6
+
+ 40
+7.5
+ 41
+20.0
+ 42
+7.5
+ 43
+20.0
+ 44
+420.0
+ 45
+297.0
+ 46
+0.0
+ 47
+0.0
+ 48
+0.0
+ 49
+0.0
+140
+0.0
+141
+0.0
+142
+1.0
+143
+1.0
+ 70
+0
+ 72
+1
+ 73
+0
+ 74
+5
+  7
+
+ 75
+16
+ 76
+0
+ 77
+2
+ 78
+300
+147
+1.0
+148
+0.0
+149
+0.0
+100
+AcDbLayout
+  1
+Layout1
+ 70
+1
+ 71
+1
+ 10
+0.0
+ 20
+0.0
+ 11
+420.0
+ 21
+297.0
+ 12
+0.0
+ 22
+0.0
+ 32
+0.0
+ 14
+1e+20
+ 24
+1e+20
+ 34
+1e+20
+ 15
+-1e+20
+ 25
+-1e+20
+ 35
+-1e+20
+146
+0.0
+ 13
+0.0
+ 23
+0.0
+ 33
+0.0
+ 16
+1.0
+ 26
+0.0
+ 36
+0.0
+ 17
+0.0
+ 27
+1.0
+ 37
+0.0
+ 76
+1
+330
+1B
+  0
+MATERIAL
+  5
+1F
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByBlock
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+20
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+ByLayer
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MATERIAL
+  5
+21
+102
+{ACAD_REACTORS
+330
+E
+102
+}
+330
+E
+100
+AcDbMaterial
+  1
+Global
+  2
+
+ 70
+0
+ 40
+1.0
+ 71
+1
+ 41
+1.0
+ 91
+-1023410177
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 44
+0.5
+ 73
+0
+ 45
+1.0
+ 46
+1.0
+ 77
+1
+  4
+
+ 78
+1
+ 79
+1
+170
+1
+ 48
+1.0
+171
+1
+  6
+
+172
+1
+173
+1
+174
+1
+140
+1.0
+141
+1.0
+175
+1
+  7
+
+176
+1
+177
+1
+178
+1
+143
+1.0
+179
+1
+  8
+
+270
+1
+271
+1
+272
+1
+145
+1.0
+146
+1.0
+273
+1
+  9
+
+274
+1
+275
+1
+276
+1
+ 42
+1.0
+ 72
+1
+  3
+
+ 73
+1
+ 74
+1
+ 75
+1
+ 94
+63
+  0
+MLINESTYLE
+  5
+22
+102
+{ACAD_REACTORS
+330
+10
+102
+}
+330
+10
+100
+AcDbMlineStyle
+  2
+Standard
+ 70
+0
+  3
+
+ 62
+256
+ 51
+90.0
+ 52
+90.0
+ 71
+2
+ 49
+0.5
+ 62
+256
+  6
+BYLAYER
+ 49
+-0.5
+ 62
+256
+  6
+BYLAYER
+  0
+MLEADERSTYLE
+  5
+2C
+102
+{ACAD_REACTORS
+330
+F
+102
+}
+330
+F
+100
+AcDbMLeaderStyle
+179
+2
+170
+2
+171
+1
+172
+0
+ 90
+2
+ 40
+0.0
+ 41
+0.0
+173
+1
+ 91
+-1056964608
+ 92
+-2
+290
+1
+ 42
+2.0
+291
+1
+ 43
+8.0
+  3
+Standard
+ 44
+4.0
+300
+
+342
+29
+174
+1
+175
+1
+176
+0
+178
+1
+ 93
+-1056964608
+ 45
+4.0
+292
+0
+297
+0
+ 46
+4.0
+ 94
+-1056964608
+ 47
+1.0
+ 49
+1.0
+140
+1.0
+294
+1
+141
+0.0
+177
+0
+142
+1.0
+295
+0
+296
+0
+143
+3.75
+271
+0
+272
+9
+273
+9
+  0
+DICTIONARY
+  5
+2D
+330
+A
+100
+AcDbDictionary
+280
+1
+281
+1
+  3
+CREATED_BY_EZDXF
+350
+2E
+  3
+WRITTEN_BY_EZDXF
+350
+1F6
+  0
+DICTIONARYVAR
+  5
+2E
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.4 @ 2026-07-19T22:53:27.610723+00:00
+  0
+VISUALSTYLE
+  5
+5A
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+2dWireframe
+ 70
+4
+ 90
+0
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+5B
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Basic
+ 70
+7
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5C
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Brighten
+ 70
+12
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5D
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+ColorChange
+ 70
+16
+ 90
+2
+ 40
+0.6
+ 62
+8
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+5E
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Conceptual
+ 70
+9
+ 90
+3
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+5F
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Dim
+ 70
+11
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+60
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+EdgeColorOff
+ 70
+22
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+61
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Facepattern
+ 70
+15
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+62
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Flat
+ 70
+0
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+63
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+FlatWithEdges
+ 70
+1
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+64
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Gouraud
+ 70
+2
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+65
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+GouraudWithEdges
+ 70
+3
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+66
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Hidden
+ 70
+6
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+67
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+JitterOff
+ 70
+20
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+68
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Linepattern
+ 70
+14
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+69
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Modeling
+ 70
+10
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6A
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+OverhangOff
+ 70
+21
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+6B
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Realistic
+ 70
+8
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6C
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shaded
+ 70
+27
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6D
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shaded with edges
+ 70
+26
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6E
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Shades of Gray
+ 70
+23
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+6F
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Sketchy
+ 70
+24
+ 90
+1
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+70
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Thicken
+ 70
+13
+ 90
+2
+ 40
+0.6
+ 62
+7
+290
+0
+291
+1
+  0
+VISUALSTYLE
+  5
+71
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+Wireframe
+ 70
+5
+ 90
+0
+ 40
+0.6
+ 62
+7
+290
+0
+291
+0
+  0
+VISUALSTYLE
+  5
+72
+102
+{ACAD_REACTORS
+330
+16
+102
+}
+330
+16
+100
+AcDbVisualStyle
+  2
+X-Ray
+ 70
+25
+ 90
+2
+ 40
+0.5
+ 62
+7
+290
+0
+291
+0
+  0
+DICTIONARYVAR
+  5
+1F6
+330
+2D
+100
+DictionaryVariables
+280
+0
+  1
+1.4.4 @ 2026-07-19T22:53:27.652504+00:00
+  0
+ENDSEC
+  0
+EOF

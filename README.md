@@ -27,15 +27,30 @@ Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fue
 | CS7_G2_10_PAVIMENTOS.dxf | 471 |
 | CS7_G2_20_ESPACIO_PUBLICO.dxf | 8.157 |
 | CS7_G2_30_REDES_SECAS.dxf | 20.982 |
+| ├ CS7_G2_31_ENEL.dxf | 3.519 |
+| ├ CS7_G2_32_ETB.dxf | 1.821 |
+| ├ CS7_G2_33_MOVISTAR.dxf | 414 |
+| └ CS7_G2_34_VANTI.dxf | 6.527 |
 | CS7_G2_40_REDES_HUMEDAS.dxf | 9.534 |
+| ├ CS7_G2_41_ACUEDUCTO.dxf | 2.192 |
+| ├ CS7_G2_42_PLUVIAL.dxf | 3.727 |
+| └ CS7_G2_43_SUDS.dxf | 361 |
+
+Los archivos por componente (31–34, 41–43) traen sus capas **encendidas** para trabajarlos de forma aislada.
 
 Capas de códigos y rótulos (`45-COD-*`, `45-ROT-DUCTERIA`, `20-EP-PAISAJISMO`, `30-RED-VANTI-SINCLAS`) vienen **apagadas** por defecto: se encienden cuando se necesita el detalle.
 
-## Códigos de identificación
+## Nomenclatura
 
-Los pozos, cámaras y cajas no traían identificador en los DWG de origen. Se les asignó código secuencial sur→norte, visible en el visor (botón 🏷 Etiquetas) y en las capas `45-COD-*` del CAD:
+**Nomenclatura real del proyecto** (campo `NOMBRE`), extraída de los textos de los DWG de origen y asociada a cada elemento por proximidad geométrica:
 
-`PZ-###` pozos pluviales · `SUM-###` sumideros · `CJ-###` cajas Enel · `POS-###` postes · `CT-###` centros de transformación · `MOV-###` cámaras Movistar · `VAL/VEN/ACC-###` accesorios de acueducto. Las cámaras ETB conservan su nombre original del proyecto.
+- Pluvial: `PNP-####` pozos nuevos proyectados · `PMP#####` / `PMI#####` / `PMCI#####` pozos existentes · `SUM#####` sumideros → **2.367 de 3.229 nodos** con su nombre original.
+- ETB: nombre original de cámara del proyecto (619).
+- Tramos pluviales: `DIAMETRO`, `MATERIAL`, `PENDIENTE` parseados del rótulo del plano (ej. `16.01m-Ø20"-PVC-5.00%`), más el texto íntegro en `DATOS_DWG`.
+
+**Código secuencial** (campo `CODIGO`, sur→norte) como respaldo para los elementos que no traen nombre en el plano: `PZ-###`, `SUM-###`, `CJ-###` cajas Enel, `POS-###` postes, `CT-###` centros de transformación, `MOV-###` cámaras Movistar, `VAL/VEN/ACC-###` accesorios de acueducto.
+
+Ambos visibles en el visor (botón 🏷 Etiquetas, prioriza el nombre real) y en las capas `45-COD-*` del CAD.
 
 ## Visor interactivo
 
@@ -76,6 +91,6 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 
 ## Pendientes
 
-- **Sanitaria**: `DISPLANSAN.dwg` está dañado en origen (102,3 MB reales vs 104,1 MB referenciados internamente; se re-sincronizó y persiste). Abrirlo en AutoCAD (que repara al abrir) y hacer `SAVEAS`, o re-copiar desde la fuente. Con el archivo sano se integra igual que la pluvial.
+- **Sanitaria**: la versión reparada de `DISPLANSAN.dwg` (67,6 MB, AC1032 / AutoCAD 2018) ya no está truncada, pero usa un empaquetado de secciones que el decodificador disponible (LibreDWG 0.13.3) no soporta: *Invalid Data Section Page Map*. **Solución: exportarlo a DXF desde AutoCAD** (`Guardar como → DXF 2010`) y dejarlo en la misma carpeta; con eso se integra igual que la pluvial, con su nomenclatura de pozos.
 - Nota PJ: el DWG de pipe jacking trae la mayoría del detalle (plantas de pozos, despieces) dibujado en coordenadas locales cerca del origen (0,0), no georreferenciado; se extrajo todo lo que está en coordenadas MAGNA (trazado, derivaciones, ventilación, 35 pozos de trabajo).
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
