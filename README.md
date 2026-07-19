@@ -22,7 +22,7 @@ Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fue
 
 | Archivo | Entidades |
 |---|---|
-| CS7_G2_SUPERPOSICION_COMPLETO.dxf | 39.167 (todo) |
+| CS7_G2_SUPERPOSICION_COMPLETO.dxf | 40.275 (todo) |
 | CS7_G2_00_BASE.dxf | 23 |
 | CS7_G2_10_PAVIMENTOS.dxf | 471 |
 | CS7_G2_20_ESPACIO_PUBLICO.dxf | 8.157 |
@@ -31,12 +31,13 @@ Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fue
 | ├ CS7_G2_32_ETB.dxf | 1.821 |
 | ├ CS7_G2_33_MOVISTAR.dxf | 414 |
 | └ CS7_G2_34_VANTI.dxf | 6.527 |
-| CS7_G2_40_REDES_HUMEDAS.dxf | 9.534 |
+| CS7_G2_40_REDES_HUMEDAS.dxf | 10.642 |
 | ├ CS7_G2_41_ACUEDUCTO.dxf | 2.192 |
 | ├ CS7_G2_42_PLUVIAL.dxf | 3.727 |
-| └ CS7_G2_43_SUDS.dxf | 361 |
+| ├ CS7_G2_43_SUDS.dxf | 361 |
+| └ CS7_G2_44_SANITARIA.dxf | 703 |
 
-Los archivos por componente (31–34, 41–43) traen sus capas **encendidas** para trabajarlos de forma aislada.
+Los archivos por componente (31–34, 41–44) traen sus capas **encendidas** para trabajarlos de forma aislada.
 
 Capas de códigos y rótulos (`45-COD-*`, `45-ROT-DUCTERIA`, `20-EP-PAISAJISMO`, `30-RED-VANTI-SINCLAS`) vienen **apagadas** por defecto: se encienden cuando se necesita el detalle.
 
@@ -44,6 +45,7 @@ Capas de códigos y rótulos (`45-COD-*`, `45-ROT-DUCTERIA`, `20-EP-PAISAJISMO`,
 
 **Nomenclatura real del proyecto** (campo `NOMBRE`), extraída de los textos de los DWG de origen y asociada a cada elemento por proximidad geométrica:
 
+- Sanitaria: `PNS-####` pozos → **324 de 405** con nomenclatura original.
 - Pluvial: `PNP-####` pozos nuevos proyectados · `PMP#####` / `PMI#####` / `PMCI#####` pozos existentes · `SUM#####` sumideros → **2.367 de 3.229 nodos** con su nombre original.
 - ETB: nombre original de cámara del proyecto (619).
 - Tramos pluviales: `DIAMETRO`, `MATERIAL`, `PENDIENTE` parseados del rótulo del plano (ej. `16.01m-Ø20"-PVC-5.00%`), más el texto íntegro en `DATOS_DWG`.
@@ -87,10 +89,11 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 | Red_Pluvial_Tramos | 492 | XREF-DISPLANPLU.dwg (red nueva/existente/a retirar/colector) |
 | Red_Pluvial_Interceptor | 6 | LOCALIZACION SUDS (interceptor proyectado) |
 | Red_Pluvial_Nodos | 3.229 | XREF-DISPLANPLU.dwg (pozos y sumideros, proy/exist/retirado/colmatado) |
+| **Red_Sanitaria_Colector** | **298** | **DISPLANSAN.dxf (colector sanitario proyectado)** |
+| **Red_Sanitaria_Pozos** | **405** | **DISPLANSAN.dxf (pozos proy/exist/inicial/a retirar; 324 con nomenclatura `PNS-####`)** |
 | SUDS_Zonas | 361 | LOCALIZACION SUDS_Jul_2026.dwg |
 
 ## Pendientes
 
-- **Sanitaria**: la versión reparada de `DISPLANSAN.dwg` (67,6 MB, AC1032 / AutoCAD 2018) ya no está truncada, pero usa un empaquetado de secciones que el decodificador disponible (LibreDWG 0.13.3) no soporta: *Invalid Data Section Page Map*. **Solución: exportarlo a DXF desde AutoCAD** (`Guardar como → DXF 2010`) y dejarlo en la misma carpeta; con eso se integra igual que la pluvial, con su nomenclatura de pozos.
 - Nota PJ: el DWG de pipe jacking trae la mayoría del detalle (plantas de pozos, despieces) dibujado en coordenadas locales cerca del origen (0,0), no georreferenciado; se extrajo todo lo que está en coordenadas MAGNA (trazado, derivaciones, ventilación, 35 pozos de trabajo).
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
