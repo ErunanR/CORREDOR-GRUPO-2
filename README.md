@@ -7,7 +7,7 @@ Sistema de referencia: **MAGNA-SIRGAS / Plano Cartesiano Bogotá D.C. 2005** (un
 
 | Carpeta | Descripción |
 |---|---|
-| `SHP/` | Geodatos limpios en 5 grupos: `01_BASE`, `02_PAVIMENTOS`, `03_ESPACIO_PUBLICO`, `04_REDES_SECAS`, `05_REDES_HUMEDAS` |
+| `SHP/` | Geodatos limpios en 5 grupos: `01_BASE`, `02_PAVIMENTOS`, `03_ESPACIO_PUBLICO`, `04_REDES_SECAS`, `05_REDES_HUMEDAS`, `06_ESTRUCTURAS` |
 | `DWG/` | CAD regenerado desde los mismos datos, en **DXF R2010**. Abrir `CS7_G2_SUPERPOSICION_COMPLETO.dxf` (todo en un archivo, 42 capas organizadas) o los 5 temáticos por separado |
 | `VISOR/` | `CS7_G2_VISOR.html` — visor interactivo autónomo |
 | `docs/` | Copia del visor para GitHub Pages |
@@ -22,7 +22,7 @@ Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fue
 
 | Archivo | Entidades |
 |---|---|
-| CS7_G2_SUPERPOSICION_COMPLETO.dxf | 40.275 (todo) |
+| CS7_G2_SUPERPOSICION_COMPLETO.dxf | 40.680 (todo) |
 | CS7_G2_00_BASE.dxf | 23 |
 | CS7_G2_10_PAVIMENTOS.dxf | 471 |
 | CS7_G2_20_ESPACIO_PUBLICO.dxf | 8.157 |
@@ -36,6 +36,7 @@ Verificación realizada sobre cada archivo: re-lectura completa, 0 entidades fue
 | ├ CS7_G2_42_PLUVIAL.dxf | 3.727 |
 | ├ CS7_G2_43_SUDS.dxf | 361 |
 | └ CS7_G2_44_SANITARIA.dxf | 703 |
+| CS7_G2_50_ESTRUCTURAS.dxf | 405 |
 
 Los archivos por componente (31–34, 41–44) traen sus capas **encendidas** para trabajarlos de forma aislada.
 
@@ -92,6 +93,18 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 | **Red_Sanitaria_Colector** | **298** | **DISPLANSAN.dxf (colector sanitario proyectado)** |
 | **Red_Sanitaria_Pozos** | **405** | **DISPLANSAN.dxf (pozos proy/exist/inicial/a retirar; 324 con nomenclatura `PNS-####`)** |
 | SUDS_Zonas | 361 | LOCALIZACION SUDS_Jul_2026.dwg |
+
+## Estructuras — `06_ESTRUCTURAS` / `CS7_G2_50_ESTRUCTURAS.dxf`
+
+Fuente: `PP-F3-ESTC-APC-206-CR7-25-V1.dwg` (capa `A_MUROS PLANTA` y `_MURO 16`).
+
+| Capa | Elementos | Descripción |
+|---|---|---|
+| Muros_Contencion | 82 | Muros de contención como polígono, con área y perímetro (`MC-###`) |
+| Muros_Ejes | 41 | Ejes/trazas de muro no cerrados, con longitud (`ML-###`) |
+| Pilotes | 200 | Pilotes de cimentación con rotación (`PIL-###`) |
+
+Capas CAD: `50-EST-MURO-CONTENCION`, `50-EST-MURO-EJE`, `50-EST-PILOTE`, rótulos en `45-COD-ESTRUCTURAS`.
 
 ## Pendientes
 
