@@ -86,10 +86,11 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 |---|---|---|
 | **Red_Acueducto_Matriz_Tramos** | **117** | **PJ_BASE.dwg 19/ago/2026 — eje de la matriz 24" (14,1 km de traza)** |
 | **PJ_Camisa_Ducto** | **120** | **PJ_BASE.dwg 19/ago/2026 — camisa/ducto del pipe jacking (13,2 km)** |
-| **PJ_Pozos_Trabajo** | **15** | **PJ_BASE.dwg 19/ago/2026 (8 de salida + 7 de lanzamiento)** |
+| **PJ_Pozos_Trabajo** | **89** | **PJ_BASE.dwg 19/ago/2026 — 15 cámaras (8 salida + 7 lanzamiento) con sus anillos concéntricos tal como los dibuja el plano: 5 a 8 por cámara** |
+| **PJ_Pilotes** | **600** | **PJ_BASE.dwg 19/ago/2026 — pilotes Ø0,80 m del entibado de cada pozo (18 a 64 por cámara)** |
 | Red_Acueducto_Menor_Tramos | 1.992 | DISREDMENOR-1.dwg (red menor + domiciliarias, exist/proy) |
 | **Red_Acueducto_Nodos** | **42** | **PJ_BASE.dwg 19/ago/2026 (15 ventosas, 13 válvulas, 7 purgas, 5 derivaciones, 2 macromedidores)** |
-| **PJ_Dibujo_CAD** | **2.405** | **PJ_BASE.dwg 19/ago/2026 — resto del dibujo dentro del corredor, tal cual (detalle de cámaras, plantillas, símbolos), con capa y color CAD originales** |
+| **PJ_Dibujo_CAD** | **1.204** | **PJ_BASE.dwg 19/ago/2026 — resto del dibujo dentro del corredor, tal cual (plantillas, símbolos), con capa y color CAD originales** |
 | **PJ_Textos_CAD** | **131** | **PJ_BASE.dwg 19/ago/2026 — rótulos del plano** |
 | Red_Pluvial_Tramos | 492 | XREF-DISPLANPLU.dwg (red nueva/existente/a retirar/colector) |
 | Red_Pluvial_Interceptor | 6 | LOCALIZACION SUDS (interceptor proyectado) |
@@ -122,7 +123,9 @@ Nota: la red pluvial se actualizó con `XREF-DISPLANPLU - copia.dwg` (1.065 tram
 
   Clave del cambio: el trazado de la matriz **no está** en la capa `RED MATRIZ PROY` (que solo trae 2 marcas de 1,8 m en los extremos) sino **dentro de los bloques** del plano de verificación `VER-ALIG-3-08-26`. Ahí el eje de la tubería va en magenta y rojo (se complementan: magenta cubre 12 cámaras, rojo las 3 restantes) y la camisa/ducto en verde, como banda constante a 1,2 m del centro que pasa por las 15 cámaras. Antes se miraba solo el punto de inserción de esos bloques —que cae a decenas de km del corredor— y por eso el trazado no aparecía.
 
-  Nada del dibujo dentro del corredor se descarta: lo que no entra en una capa temática queda en `PJ_Dibujo_CAD` (2.405 elementos) y `PJ_Textos_CAD` (131 rótulos), conservando su capa y color CAD originales y consultables en la ficha del elemento. Fuera del corredor siguen quedando las láminas de detalle (plantas de pozos PS1–PS9 / PL1–PL8, despieces) dibujadas a decenas de km del proyecto.
+  Nada del dibujo dentro del corredor se descarta: lo que no entra en una capa temática queda en `PJ_Dibujo_CAD` (1.204 elementos) y `PJ_Textos_CAD` (131 rótulos), conservando su capa y color CAD originales y consultables en la ficha del elemento. Fuera del corredor siguen quedando las láminas de detalle (plantas de pozos PS1–PS9 / PL1–PL8, despieces) dibujadas a decenas de km del proyecto.
+
+  **Geometría de las cámaras (corrección posterior).** Cada pozo no es un rectángulo: el plano lo dibuja con varios anillos concéntricos y un entibado de pilotes. Por ejemplo la cámara PZ-14 (bloque `PL8`) trae 6 anillos —43,55 y 58,62 m² en la capa `Pz trabajo de lanzamiento`, 46,56 y 61,70 m² en el bloque de `VER-ALIG-3-08-26`, y 58,51 y 93,99 m² en el bloque `PL8` de `_Tubo Red matriz`— más 58 pilotes de Ø0,80 m. Los tres pares corresponden a representaciones distintas del mismo pozo (excavación, estructura y área de trabajo) y se conservan las tres, cada una con su capa y bloque de origen en la ficha. Los pilotes están dibujados dos veces en el archivo (idénticos en `_Tubo Red matriz` y en `VER-ALIG-3-08-26`): se conserva una sola copia, 1.134 → 600.
 
   Las capas `REDES-MENORES-PROY`, `TEXTO_ABSCISADO`, `TEXTOS_RED_RESIDUAL`, `POZOS DE BOMBEO`, `POZO SALIDA` y `EJES_T` de la versión anterior ya no existen en el archivo nuevo. La red menor sigue disponible desde su propio plano (`DISREDMENOR-1.dwg`, 1.992 tramos).
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
