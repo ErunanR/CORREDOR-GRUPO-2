@@ -84,10 +84,10 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 
 | Capa | Elementos | Fuente |
 |---|---|---|
-| Red_Acueducto_Matriz_Tramos | 140 | PJ_BASE.dwg (red matriz 24" pipe jacking, incl. capa PROYECCION, derivaciones y ventilación) |
-| PJ_Pozos_Trabajo | 35 | PJ_BASE.dwg (pozos de lanzamiento y salida, polígonos a escala) |
+| Red_Acueducto_Matriz_Tramos | 2 | PJ_BASE.dwg actualizado 19/ago/2026 (ver nota PJ) |
+| PJ_Pozos_Trabajo | 15 | PJ_BASE.dwg actualizado 19/ago/2026 (8 salida + 7 lanzamiento) |
 | Red_Acueducto_Menor_Tramos | 1.992 | DISREDMENOR-1.dwg (red menor + domiciliarias, exist/proy) |
-| Red_Acueducto_Nodos | 25 | PJ_BASE.dwg (válvulas, ventosas, purgas, macromedidor, pozos PJ) |
+| Red_Acueducto_Nodos | 24 | PJ_BASE.dwg actualizado 19/ago/2026 (15 ventosas, 7 purgas, 2 macromedidores) |
 | Red_Pluvial_Tramos | 492 | XREF-DISPLANPLU.dwg (red nueva/existente/a retirar/colector) |
 | Red_Pluvial_Interceptor | 6 | LOCALIZACION SUDS (interceptor proyectado) |
 | Red_Pluvial_Nodos | 3.229 | XREF-DISPLANPLU.dwg (pozos y sumideros, proy/exist/retirado/colmatado) |
@@ -115,5 +115,5 @@ Nota: la red pluvial se actualizó con `XREF-DISPLANPLU - copia.dwg` (1.065 tram
 
 ## Pendientes
 
-- Nota PJ: el DWG de pipe jacking trae la mayoría del detalle (plantas de pozos, despieces) dibujado en coordenadas locales cerca del origen (0,0), no georreferenciado; se extrajo todo lo que está en coordenadas MAGNA (trazado, derivaciones, ventilación, 35 pozos de trabajo).
+- Nota PJ (19/ago/2026): se recibió un `PJ_BASE.dwg` actualizado; la versión anterior queda como `PJ_BASE.bak`. El archivo nuevo **ya no trae** las capas `REDES-MENORES-PROY` (73 tramos de red menor que antes se contaban dentro de Matriz_Tramos), `TEXTO_ABSCISADO`, `TEXTOS_RED_RESIDUAL`, `POZOS DE BOMBEO`, `POZO SALIDA` ni `EJES_T`. La traza continua de la tubería matriz 24" tampoco está: solo quedan 2 marcas de 1,8 m en los extremos del corredor — los 17 bloques `_Tubo Red matriz` (PS1…PS9, PL1…PL8) son láminas de detalle constructivo dibujadas a decenas/cientos de km del corredor (fuera de zona, se descartan igual que siempre). Los bloques `VALV` (14) y `DERIV` (5) del archivo nuevo también caen fuera de zona — no hay valvulas ni derivaciones proyectadas georreferenciadas en esta versión. Sí se actualizaron con datos reales: 15 pozos de trabajo (8 salida + 7 lanzamiento, antes 21+14, tras eliminar duplicados de trazo repetido), 15 ventosas, 7 purgas y 2 macromedidores.
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
