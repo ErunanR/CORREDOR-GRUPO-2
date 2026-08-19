@@ -84,10 +84,13 @@ Notas: dimensiones de cajas Codensa y CS Movistar son representativas (1,2/1,0/1
 
 | Capa | Elementos | Fuente |
 |---|---|---|
-| Red_Acueducto_Matriz_Tramos | 2 | PJ_BASE.dwg actualizado 19/ago/2026 (ver nota PJ) |
-| PJ_Pozos_Trabajo | 15 | PJ_BASE.dwg actualizado 19/ago/2026 (8 salida + 7 lanzamiento) |
+| **Red_Acueducto_Matriz_Tramos** | **117** | **PJ_BASE.dwg 19/ago/2026 — eje de la matriz 24" (14,1 km de traza)** |
+| **PJ_Camisa_Ducto** | **120** | **PJ_BASE.dwg 19/ago/2026 — camisa/ducto del pipe jacking (13,2 km)** |
+| **PJ_Pozos_Trabajo** | **15** | **PJ_BASE.dwg 19/ago/2026 (8 de salida + 7 de lanzamiento)** |
 | Red_Acueducto_Menor_Tramos | 1.992 | DISREDMENOR-1.dwg (red menor + domiciliarias, exist/proy) |
-| Red_Acueducto_Nodos | 24 | PJ_BASE.dwg actualizado 19/ago/2026 (15 ventosas, 7 purgas, 2 macromedidores) |
+| **Red_Acueducto_Nodos** | **42** | **PJ_BASE.dwg 19/ago/2026 (15 ventosas, 13 válvulas, 7 purgas, 5 derivaciones, 2 macromedidores)** |
+| **PJ_Dibujo_CAD** | **2.405** | **PJ_BASE.dwg 19/ago/2026 — resto del dibujo dentro del corredor, tal cual (detalle de cámaras, plantillas, símbolos), con capa y color CAD originales** |
+| **PJ_Textos_CAD** | **131** | **PJ_BASE.dwg 19/ago/2026 — rótulos del plano** |
 | Red_Pluvial_Tramos | 492 | XREF-DISPLANPLU.dwg (red nueva/existente/a retirar/colector) |
 | Red_Pluvial_Interceptor | 6 | LOCALIZACION SUDS (interceptor proyectado) |
 | Red_Pluvial_Nodos | 3.229 | XREF-DISPLANPLU.dwg (pozos y sumideros, proy/exist/retirado/colmatado) |
@@ -115,5 +118,11 @@ Nota: la red pluvial se actualizó con `XREF-DISPLANPLU - copia.dwg` (1.065 tram
 
 ## Pendientes
 
-- Nota PJ (19/ago/2026): se recibió un `PJ_BASE.dwg` actualizado; la versión anterior queda como `PJ_BASE.bak`. El archivo nuevo **ya no trae** las capas `REDES-MENORES-PROY` (73 tramos de red menor que antes se contaban dentro de Matriz_Tramos), `TEXTO_ABSCISADO`, `TEXTOS_RED_RESIDUAL`, `POZOS DE BOMBEO`, `POZO SALIDA` ni `EJES_T`. La traza continua de la tubería matriz 24" tampoco está: solo quedan 2 marcas de 1,8 m en los extremos del corredor — los 17 bloques `_Tubo Red matriz` (PS1…PS9, PL1…PL8) son láminas de detalle constructivo dibujadas a decenas/cientos de km del corredor (fuera de zona, se descartan igual que siempre). Los bloques `VALV` (14) y `DERIV` (5) del archivo nuevo también caen fuera de zona — no hay valvulas ni derivaciones proyectadas georreferenciadas en esta versión. Sí se actualizaron con datos reales: 15 pozos de trabajo (8 salida + 7 lanzamiento, antes 21+14, tras eliminar duplicados de trazo repetido), 15 ventosas, 7 purgas y 2 macromedidores.
+- Nota PJ (19/ago/2026): se **rehízo por completo** la extracción del pipe jacking desde el `PJ_BASE.dwg` actualizado (la versión anterior queda como `PJ_BASE.bak`), respetando el DWG tal como está y **explotando los bloques** con su escala y rotación reales. Todo lo heredado de versiones anteriores se descartó, tanto en el visor como en los shapefiles.
+
+  Clave del cambio: el trazado de la matriz **no está** en la capa `RED MATRIZ PROY` (que solo trae 2 marcas de 1,8 m en los extremos) sino **dentro de los bloques** del plano de verificación `VER-ALIG-3-08-26`. Ahí el eje de la tubería va en magenta y rojo (se complementan: magenta cubre 12 cámaras, rojo las 3 restantes) y la camisa/ducto en verde, como banda constante a 1,2 m del centro que pasa por las 15 cámaras. Antes se miraba solo el punto de inserción de esos bloques —que cae a decenas de km del corredor— y por eso el trazado no aparecía.
+
+  Nada del dibujo dentro del corredor se descarta: lo que no entra en una capa temática queda en `PJ_Dibujo_CAD` (2.405 elementos) y `PJ_Textos_CAD` (131 rótulos), conservando su capa y color CAD originales y consultables en la ficha del elemento. Fuera del corredor siguen quedando las láminas de detalle (plantas de pozos PS1–PS9 / PL1–PL8, despieces) dibujadas a decenas de km del proyecto.
+
+  Las capas `REDES-MENORES-PROY`, `TEXTO_ABSCISADO`, `TEXTOS_RED_RESIDUAL`, `POZOS DE BOMBEO`, `POZO SALIDA` y `EJES_T` de la versión anterior ya no existen en el archivo nuevo. La red menor sigue disponible desde su propio plano (`DISREDMENOR-1.dwg`, 1.992 tramos).
 - `XREF EP 2/3.dwg`: secciones con CRC inválido ilegibles fuera de AutoCAD; re-exportar con AUDIT+SAVEAS para integrarlos.
