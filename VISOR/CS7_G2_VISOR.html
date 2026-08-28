@@ -58,8 +58,8 @@ body{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,system-ui,sans-seri
 #lyfind input::placeholder{color:var(--mut)}
 .grp{padding:8px 14px 2px}
 .grp>.gh{cursor:pointer;user-select:none}
-.grp>.gh .chev{font-size:9px;color:var(--mut);transition:transform .15s;flex:none}
-.grp.collapsed>.gh .chev{transform:rotate(-90deg)}
+.grp>.gh .chev{font-size:11px;line-height:1;color:var(--acc);flex:none;width:18px;height:18px;display:inline-flex;align-items:center;justify-content:center;border:1px solid var(--chipbd);border-radius:5px;background:var(--chip)}
+.grp>.gh:hover .chev{border-color:var(--acc);background:var(--acc);color:#fff}
 .grp.collapsed .ly{display:none}
 .ly.nomatch,.grp.nomatch{display:none}
 .grp>.gh{display:flex;align-items:center;gap:8px;font-size:10.5px;text-transform:uppercase;letter-spacing:1.1px;color:var(--acc);margin-bottom:5px}
@@ -132,6 +132,7 @@ body{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,system-ui,sans-seri
  .leaflet-control-zoom{margin-bottom:14px!important}
  .leaflet-popup-content{font-size:13.5px}
  #lyfind input{font-size:16px;padding:11px 12px}
+ .grp>.gh .chev{width:22px;height:22px;font-size:12px}
 }
 @media (max-width:820px) and (orientation:landscape){:root{--pw:min(55vw,320px)}}
 /* ---- SPLASH DE CARGA ---- */
@@ -418,10 +419,11 @@ tree.addEventListener('click',ev=>{
  if(gh&&!ev.target.closest('button')&&ev.target.tagName!=='INPUT'){
   const grp=gh.parentNode,gid2=gh.querySelector('[data-g]').dataset.g;
   grp.classList.toggle('collapsed');
+  gh.querySelector('.chev').textContent=grp.classList.contains('collapsed')?'▸':'▾';
   const cs=LS.get('collapsed',{});cs[gid2]=grp.classList.contains('collapsed');LS.set('collapsed',cs);}
 });
 (function(){const cs=LS.get('collapsed',{});
- tree.querySelectorAll('.grp').forEach(g=>{const gid=g.querySelector('[data-g]').dataset.g;if(cs[gid])g.classList.add('collapsed')});
+ tree.querySelectorAll('.grp').forEach(g=>{const gid=g.querySelector('[data-g]').dataset.g;if(cs[gid]){g.classList.add('collapsed');g.querySelector('.chev').textContent='▸';}});
  const lyf=document.getElementById('lyfilter');if(!lyf)return;
  lyf.addEventListener('input',()=>{const q=lyf.value.trim().toLowerCase();
   tree.querySelectorAll('.grp').forEach(g=>{let any=false;
@@ -430,7 +432,8 @@ tree.addEventListener('click',ev=>{
     r.classList.toggle('nomatch',!hit);if(hit)any=true;});
    g.classList.toggle('nomatch',!!q&&!any);
    if(q)g.classList.remove('collapsed');
-   else g.classList.toggle('collapsed',!!cs[g.querySelector('[data-g]').dataset.g]);});
+   else g.classList.toggle('collapsed',!!cs[g.querySelector('[data-g]').dataset.g]);
+   g.querySelector('.chev').textContent=g.classList.contains('collapsed')?'▸':'▾';});
  });
 })();
 // z-order desde el orden visual del árbol (arriba = al frente)
@@ -470,7 +473,7 @@ function setTheme(light){document.body.classList.toggle('light',light);LS.set('l
  themeBtn.textContent=light?'☀️':'🌙';
  document.querySelector('meta[name=theme-color]').setAttribute('content',light?'#eef1f5':'#151a21');}
 themeBtn.onclick=()=>setTheme(!document.body.classList.contains('light'));
-setTheme(LS.get('light',false));
+setTheme(true);
 document.querySelectorAll('#estado button').forEach(b=>b.onclick=()=>{
  document.querySelectorAll('#estado button').forEach(x=>x.classList.remove('on'));b.classList.add('on');
  estadoFilter=b.dataset.e;refreshAll()});
