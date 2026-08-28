@@ -60,9 +60,11 @@ Ambos visibles en el visor (botón 🏷 Etiquetas, prioriza el nombre real) y en
 
 Doble clic en `VISOR/CS7_G2_VISOR.html` (o publicar `docs/` en GitHub Pages: Settings → Pages → main → /docs).
 
-Funciones: mapa base satelital/claro/OSM · capas por grupo con color editable y **control de transparencia por capa (botón ◐)** · filtro Existente / Proyectado / A retirar · cámaras y cajas a escala real (zoom ≥ 18) · popups con ductería y atributos completos · **módulo de avance de obra**: modo avance → clic en elemento → % ejecutado (se pinta verde/naranja y persiste en el equipo) · carga de cronograma (xlsx/csv: Actividad, Inicio, Fin, % Programado) con semáforo al día/atrasado · exportar/importar avance en JSON.
+Funciones: mapa base satelital/claro/OSM · **buscador de capas por escritura** y **grupos plegables** (toca el título del grupo) · capas por grupo con color editable y **control de transparencia por capa (botón ◐)** · filtro Existente / Proyectado / A retirar · cámaras y cajas a escala real (zoom ≥ 18) · popups con ductería y atributos completos · **módulo de avance de obra**: modo avance → clic en elemento → % ejecutado (se pinta verde/naranja y persiste en el equipo) · carga de cronograma (xlsx/csv: Actividad, Inicio, Fin, % Programado) con semáforo al día/atrasado · exportar/importar avance en JSON.
 
 Optimización v3: las capas se construyen solo al encenderlas (carga perezosa) y cada capa es un único objeto GeoJSON — el arranque en web es mucho más rápido.
+
+Optimización v4 (móvil): un **único lienzo canvas** para todas las capas (antes uno por capa, ~40 canvas del tamaño del mapa que ahogaban el móvil) · arranque con un juego mínimo de capas encendidas (~650 elementos en vez de ~25.000; el resto a un toque desde el ◉ del grupo) · el cálculo de avance se difiere hasta abrir su pestaña · tolerancia de toque de 10 px para acertar líneas finas con el dedo.
 
 ## Redes secas — esquema normalizado
 
