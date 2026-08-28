@@ -111,6 +111,26 @@ Fuente: `PP-F3-ESTC-APC-206-CR7-25-V1.dwg` (capa `A_MUROS PLANTA` y `_MURO 16`).
 
 Capas CAD: `50-EST-MURO-CONTENCION`, `50-EST-MURO-EJE`, `50-EST-PILOTE`, rótulos en `45-COD-ESTRUCTURAS`.
 
+## Muros BRT — grupo `MUROS BRT` del visor
+
+Diseño de muros de contención del BRT, más detallado y reciente que el de
+`06_ESTRUCTURAS` (que se conserva sin cambios para poder comparar). Cuatro planos
+separados por costado (occidente / oriente) y por tramo (estaciones / corredor
+mixto-BRT). Fuente: capa `A_MUROS PLANTA` de cada DWG; la capa `A_MUROS PERFIL`
+(alzados) no está georreferenciada y se descarta.
+
+| Capa | Elementos | Fuente |
+|---|---|---|
+| Muros_OCC_Estaciones | 385 | `MUROS_OCC_ESTACIONES.dwg` — muro, pilotes y contrafuertes en planta |
+| Muros_ORI_Estaciones | 382 | `MUROS_ORI_ESTACIONES.dwg` |
+| Muros_OCC_MX_BRT | 498 | `MUROS_OCC_MX_BRT.dwg` — muro del corredor mixto/BRT (traza y caras) |
+| Muros_ORI_MX_BRT | 178 | `MUROS_ORI_MX_BRT.dwg` |
+
+Notas: los polígonos traen `AREA_M2`, las líneas `LONG_M`; cada elemento conserva
+su `TIPO_ENT` y el archivo de origen en `FUENTE`. Verificación: la traza coincide
+con `Calzada_BRT` y `Estaciones_TM` del visor con desviación mediana de 0 m. Los
+bloques de pilote venían en OCS espejado (`extrusion` −Z) y se corrigió el eje X.
+
 ## Tira predial — `07_TIRA_PREDIAL` / `CS7_G2_60_TIRA_PREDIAL.dxf`
 
 Fuente: `TIRA PREDIAL.dwg` (capa `RT` de linderos + `LABEL` de códigos). 146 predios (144 con código catastral). Capa CAD `60-PREDIAL-LOTE` + rótulos `60-PREDIAL-COD`.

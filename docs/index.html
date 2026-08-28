@@ -273,6 +273,11 @@ const CFG=[
   ["Muros_Contencion","Muros de contención",'#ff5722','poly',{weight:2,fillOpacity:.55},true,'CODIGO'],
   ["Muros_Ejes","Muros · ejes/trazas",'#ff8a65','line',{weight:2,opacity:.9},true,'CODIGO'],
   ["Pilotes","Pilotes",'#bf360c','pt',{radius:3,weight:1,fillOpacity:.9},false,'CODIGO']]],
+ ["MUROS BRT","mbrt",[
+  ["Muros_OCC_Estaciones","Muros occidente · estaciones",'#00e5ff','poly',{weight:1.2,fillOpacity:.4},true,'CODIGO'],
+  ["Muros_ORI_Estaciones","Muros oriente · estaciones",'#ffd54f','poly',{weight:1.2,fillOpacity:.4},true,'CODIGO'],
+  ["Muros_OCC_MX_BRT","Muros occidente · corredor MX-BRT",'#18ffff','poly',{weight:1.5,fill:false},true,'CODIGO'],
+  ["Muros_ORI_MX_BRT","Muros oriente · corredor MX-BRT",'#ffab00','poly',{weight:1.5,fill:false},true,'CODIGO']]],
  ["TIRA PREDIAL","pred",[
   ["Tira_Predial","Predios (tira predial)",'#ffca28','poly',{weight:1,fillOpacity:.12},false,'COD_PREDIO']]]];
 const CAMDIM={Red_Sanitaria_Pozos:()=>[1.4,1.4],Red_Pluvial_Nodos:p=>p.TIPO==='SUMIDERO'?[1.0,0.4]:[1.2,1.2],Red_Acueducto_Nodos:()=>[0.8,0.8]};
