@@ -238,15 +238,15 @@ const CFG=[
  ["BASE","base",[
   ["Limite_Intervencion","Límite de intervención",'#ffffff','line',{weight:2.5,fill:false,dashArray:'10 6'},true]]],
  ["UNIDADES DE EJECUCIÓN","ue",[
-  ["UE_01","UE-01 · 127 a Yokomotor 134",'#ffd54f','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_02","UE-02 · Yokomotor 134 a Sierras Moral Calle 146",'#4fc3f7','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_03","UE-03 · Sierras Moral a North Point Calle 156",'#81c784','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_04","UE-04 · North Point a Villa Servitá Calle 165",'#ff8a65','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_05","UE-05 · Villa Servitá a Planta Cemex Calle 172",'#ba68c8','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_06","UE-06 · Planta Cemex a Calle 183",'#4db6ac','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_07","UE-07 · Calle 134",'#f06292','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_08","UE-08 · Calle 147",'#a1887f','poly',{weight:1.8,fillOpacity:.10},true,'UE'],
-  ["UE_09","UE-09 · Pipe Jacking Red Matriz",'#90a4ae','poly',{weight:1.8,fillOpacity:.10},true,'UE']]],
+  ["UE_01","UE-01 · 127 a Yokomotor 134",'#ffd54f','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_02","UE-02 · Yokomotor 134 a Sierras Moral Calle 146",'#4fc3f7','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_03","UE-03 · Sierras Moral a North Point Calle 156",'#81c784','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_04","UE-04 · North Point a Villa Servitá Calle 165",'#ff8a65','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_05","UE-05 · Villa Servitá a Planta Cemex Calle 172",'#ba68c8','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_06","UE-06 · Planta Cemex a Calle 183",'#4db6ac','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_07","UE-07 · Calle 134",'#f06292','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_08","UE-08 · Calle 147",'#a1887f','poly',{weight:2.6,fillOpacity:.32},true,'UE'],
+  ["UE_09","UE-09 · Pipe Jacking Red Matriz",'#90a4ae','poly',{weight:2.6,fillOpacity:.32},true,'UE']]],
  ["PAVIMENTOS","pav",[
   ["Calzada_BRT","Calzada BRT",'#c62828','poly',{weight:1,fillOpacity:.35},true],
   ["Calzada_Mixta","Calzada mixta",'#78909c','poly',{weight:1,fillOpacity:.35},true],
@@ -332,7 +332,7 @@ function buildLabels(key){
   g.addLayer(L.marker(ll,{icon:L.divIcon({className:'lbl',html:t,iconSize:null}),interactive:false,keyboard:false}));
  });
  o.lblLayer=g;return g}
-const ALWAYS_LBL={Unidades_Ejecucion:13};
+const ALWAYS_LBL={UE_01:11,UE_02:11,UE_03:11,UE_04:11,UE_05:11,UE_06:11,UE_07:11,UE_08:11,UE_09:11};
 function syncLabels(key){
  const o=layers[key];if(!o.lblf)return;
  const az=ALWAYS_LBL[key];
